@@ -1,0 +1,500 @@
+{
+    "pageProps": {
+        "occupation": {
+            "group": {
+                "gid": 410,
+                "name": "Robotnicy leśni i pokrewni",
+                "code": "621",
+                "occupations": [
+                    {
+                        "occupationID": 114,
+                        "name": "Drwalka",
+                        "alias": "drwalka",
+                        "gender": "fem",
+                        "photo": "https://mapakarier.org/assets/occupations/photos/drwal-f.jpg",
+                        "futureJob": false,
+                        "regulated": false,
+                        "avatar": "https://mapakarier.org/assets/occupations/avatars/drwal-f.png",
+                        "isNew": 0
+                    }
+                ],
+                "showMore": false
+            },
+            "basics": {
+                "id": 114,
+                "name": "Drwalka",
+                "full_name": "Drwalka / Pilarka drzew",
+                "description": "Ścinam drzewa, usuwam gałęzie z pni, pakuję ścięte drzewa na ciężarówki, przycinam młode drzewa i usuwam konary zagrażające ludziom.",
+                "other_gender": true,
+                "avatar": "https://mapakarier.org/assets/occupations/avatars/drwal-f.png",
+                "photo": "https://mapakarier.org/assets/occupations/photos/drwal-f.jpg",
+                "trend": 0,
+                "future_job": false,
+                "group_name": "Robotnicy leśni i pokrewni",
+                "group_code": "621",
+                "groupID": 410,
+                "employers": false,
+                "resources": true,
+                "regulated": {
+                    "value": false,
+                    "description": "Poniżej pokażemy Ci jedną lub kilka propozycji dojścia do tego zawodu."
+                },
+                "professionalStream": {
+                    "title": "Praca w leśnictwie",
+                    "URL": "praca-w-lesnictwie",
+                    "image": "https://mapakarier.org/assets/streams/covers/lesny.png"
+                }
+            },
+            "skills": [
+                {
+                    "id": 85,
+                    "name": "wykonywanie wycinki drzew",
+                    "source": [
+                        "Kurs drwala - pilarza."
+                    ],
+                    "description": "Muszę potrafić obsługiwać pilarkę spalinową, ścinać i obalać na ziemię drzewa przeznaczone do wycinki, obcinać gałęzie, ciąć pnie na mniejsze kawałki, wykonywać cięcia pielęgnacyjne. Muszę wiedzieć, jak dbać o swoje bezpieczeństwo podczas pracy. "
+                }
+            ],
+            "similar": [
+                {
+                    "occupationID": 566,
+                    "name": "Operatorka maszyn leśnych",
+                    "alias": "operatorka-maszyn-lesnych",
+                    "gender": "fem",
+                    "photo": "https://mapakarier.org/assets/occupations/photos/operator-maszyn-lesnych-f.jpg",
+                    "futureJob": false,
+                    "regulated": false,
+                    "avatar": "https://mapakarier.org/assets/occupations/avatars/operator-maszyn-lesnych-f.png",
+                    "isNew": 0,
+                    "id": 566,
+                    "similar": {
+                        "type": "",
+                        "name": ""
+                    }
+                },
+                {
+                    "occupationID": 824,
+                    "name": "Arborystka",
+                    "alias": "arborystka",
+                    "gender": "fem",
+                    "photo": "https://mapakarier.org/assets/occupations/photos/chirurg_pielegniarz_drzew-f.jpg",
+                    "futureJob": false,
+                    "regulated": false,
+                    "avatar": "https://mapakarier.org/assets/occupations/avatars/chirurg_pielegniarz_drzew-f.png",
+                    "isNew": 0,
+                    "id": 824,
+                    "similar": {
+                        "type": "",
+                        "name": ""
+                    }
+                },
+                {
+                    "occupationID": 231,
+                    "name": "Leśniczka",
+                    "alias": "lesniczka",
+                    "gender": "fem",
+                    "photo": "https://mapakarier.org/assets/occupations/photos/technik-lesnik-f.jpg",
+                    "futureJob": false,
+                    "regulated": false,
+                    "avatar": "https://mapakarier.org/assets/occupations/avatars/technik-lesnik-f.png",
+                    "isNew": 0,
+                    "id": 231,
+                    "similar": {
+                        "type": "",
+                        "name": ""
+                    }
+                },
+                {
+                    "occupationID": 908,
+                    "name": "Tartaczniczka",
+                    "alias": "tartaczniczka",
+                    "gender": "fem",
+                    "photo": "https://mapakarier.org/assets/occupations/photos/tartacznik-f.jpg",
+                    "futureJob": false,
+                    "regulated": false,
+                    "avatar": "https://mapakarier.org/assets/occupations/avatars/tymczasowy-f.png",
+                    "isNew": 0,
+                    "id": 908,
+                    "similar": {
+                        "type": "",
+                        "name": ""
+                    }
+                },
+                {
+                    "occupationID": 759,
+                    "name": "Greenkeeperka",
+                    "alias": "greenkeeperka",
+                    "gender": "fem",
+                    "photo": "https://mapakarier.org/assets/occupations/photos/greenkeeper-f.jpg",
+                    "futureJob": false,
+                    "regulated": false,
+                    "avatar": "https://mapakarier.org/assets/occupations/avatars/greenkeeper-f.png",
+                    "isNew": 0,
+                    "id": 759,
+                    "similar": {
+                        "type": "",
+                        "name": ""
+                    }
+                },
+                {
+                    "occupationID": 723,
+                    "name": "Brukarka",
+                    "alias": "brukarka",
+                    "gender": "fem",
+                    "photo": "https://mapakarier.org/assets/occupations/photos/brukarz-f.jpg",
+                    "futureJob": false,
+                    "regulated": false,
+                    "avatar": "https://mapakarier.org/assets/occupations/avatars/brukarz-f.png",
+                    "isNew": 0,
+                    "id": 723,
+                    "similar": {
+                        "type": "",
+                        "name": ""
+                    }
+                }
+            ],
+            "building": {
+                "id": 123,
+                "name": "Leśnictwo",
+                "image": "https://mapakarier.org/assets/map/regular/2-2/Shoping-wooden-building-left.png"
+            },
+            "subjects": [
+                {
+                    "slug": "math",
+                    "title": "matematyka",
+                    "level_variant": "średnim",
+                    "level": {
+                        "label": "średni",
+                        "value": 2
+                    },
+                    "description": "Muszę umieć obliczyć objętość uzyskanego drewna.\n\nPrzedmiot *matematyka* muszę mieć opanowany na poziomie średnim. Jest to średni poziom wiedzy i umiejętności, dający ogólne rozeznanie w danej dziedzinie. Obejmuje arytmetykę, podstawy algebry i geometrii.\n\n**Dlaczego ten przedmiot jest ważny w każdym zawodzie?**\nZnajomość matematyki przydaje się w każdym zawodzie, ponieważ uczy logicznego myślenia, a także daje narzędzia pozwalające modelować i przewidywać przebieg większości zjawisk i procesów – pomaga zatem obiektywnie oceniać rzeczywistość i unikać błędnych decyzji.\n"
+                },
+                {
+                    "slug": "biology",
+                    "title": "biologia",
+                    "level_variant": "średnim",
+                    "level": {
+                        "label": "średni",
+                        "value": 2
+                    },
+                    "description": "Muszę znać cykl życiowy i budowę drzew, aby zaplanować wycinkę i prawidłowo ocenić bezpieczeństwo ludzi i sprzętu.\n\nPrzedmiot *biologia* muszę mieć opanowany na poziomie średnim. Jest to średni poziom wiedzy i umiejętności, dający ogólne rozeznanie w danej dziedzinie. Obejmuje podstawy anatomii ludzi i zwierząt oraz fizjologii roślin, rozumienie wpływu różnych substancji na organizmy żywe.\n\n**Dlaczego ten przedmiot jest ważny w każdym zawodzie?**\nWiedza biologiczna przydaje się w każdym zawodzie, ponieważ pomaga zachować zdrowie fizyczne i psychiczne.\n"
+                },
+                {
+                    "slug": "physics",
+                    "title": "fizyka",
+                    "level_variant": "średnim",
+                    "level": {
+                        "label": "średni",
+                        "value": 2
+                    },
+                    "description": "Muszę wiedzieć w jaki sposób podciąć pień, aby piła się nie zaklinowała, ocenić, gdzie znajduje się środek ciężkości pnia i gdzie wbić klin, aby drzewo upadło w pożądaną stronę.\n\nPrzedmiot *fizyka* muszę mieć opanowany na poziomie średnim. Jest to średni poziom wiedzy i umiejętności, dający ogólne rozeznanie w danej dziedzinie. Obejmuje podstawową znajomość takich zjawisk fizycznych, jak elektryczność, magnetyzm, grawitacja, fale, optyka, termodynamika oraz znajomość najważniejszych praw fizycznych, takich jak zasady dynamiki Newtona.\n\n**Dlaczego ten przedmiot jest ważny w każdym zawodzie?**\nWiedza fizyczna jest przydatna bez względu na wykonywany zawód, ponieważ pomaga rozumieć sposób działania maszyn i urządzeń, a także przyczyny procesów naturalnych, co pozwala unikać zagrożeń i kosztownych błędów.\n"
+                },
+                {
+                    "slug": "technics",
+                    "title": "technika",
+                    "level_variant": "średnim",
+                    "level": {
+                        "label": "średni",
+                        "value": 2
+                    },
+                    "description": "Muszę znać budowę maszyn, których używam do ścinania drzew (pilarki) jak i maszyn, których używam do zwożenia pni z lasu; muszę umieć wykonać drobne naprawy.\n\nPrzedmiot *technika* muszę mieć opanowany na poziomie średnim. Jest to średni poziom wiedzy i umiejętności, dający ogólne rozeznanie w danej dziedzinie. Obejmuje wykonywanie prostych napraw, np. wymiana wtyczki, zamka w drzwiach, bezpiecznika, syfonu, a także montowanie sprzętów i urządzeń korzystając z instrukcji pisanych dla laików.\n\n**Dlaczego ten przedmiot jest ważny w każdym zawodzie?**\nPosiadając umiejętności techniczne często możemy sami dokonać prostych napraw lub zamontować potrzebne nam urządzenia.\n"
+                },
+                {
+                    "slug": "polish",
+                    "title": "j. polski",
+                    "level_variant": "podstawowym",
+                    "level": {
+                        "label": "podstawowy",
+                        "value": 1
+                    },
+                    "description": "Przedmiot *j. polski* muszę mieć opanowany na poziomie podstawowym. To absolutne minimum potrzebne do funkcjonowania w codziennym życiu. Obejmuje czytanie, mówienie i pisanie prostych zdań po polsku.\n\n**Dlaczego ten przedmiot jest ważny w każdym zawodzie?**\nZnajomość poprawnej polszczyzny oraz polskiej literatury i kultury jest ważna w każdym zawodzie, ponieważ pomaga rozumieć konteksty kulturowe i klarownie formułować myśli, ułatwiając tym samym komunikację ze współpracownikami i klientami, a zatem pomagając w awansie zawodowym lub prowadzeniu własnej firmy.\n"
+                },
+                {
+                    "slug": "english",
+                    "title": "j. angielski",
+                    "level_variant": "podstawowym",
+                    "level": {
+                        "label": "podstawowy",
+                        "value": 1
+                    },
+                    "description": "Przedmiot *j. angielski* muszę mieć opanowany na poziomie podstawowym. To absolutne minimum potrzebne do funkcjonowania w codziennym życiu. Obejmuje znajomość pojedynczych słów w języku angielskim.\n\n**Dlaczego ten przedmiot jest ważny w każdym zawodzie?**\nPosługiwanie się językiem angielskim znacznie polepsza perspektywy w każdym zawodzie, bo umożliwia podjęcie pracy za granicą lub w międzynarodowej firmie w Polsce, a także dokształcanie się ze źródeł anglojęzycznych, które w wielu dziedzinach są najłatwiej dostępne i najbardziej aktualne.\n"
+                },
+                {
+                    "slug": "geography",
+                    "title": "geografia",
+                    "level_variant": "podstawowym",
+                    "level": {
+                        "label": "podstawowy",
+                        "value": 1
+                    },
+                    "description": "Przedmiot *geografia* muszę mieć opanowany na poziomie podstawowym. To absolutne minimum potrzebne do funkcjonowania w codziennym życiu. Obejmuje orientację w najbliższym otoczeniu zamieszkania i miejsca pracy, korzystanie z nawigacji GPS podczas wszelkich innych podróży.\n\n**Dlaczego ten przedmiot jest ważny w każdym zawodzie?**\nWiedza geograficzna przydaje się w każdym zawodzie, ponieważ pozwala zrozumieć kluczowe czynniki rządzące światową gospodarką.\n"
+                },
+                {
+                    "slug": "history",
+                    "title": "historia",
+                    "level_variant": "podstawowym",
+                    "level": {
+                        "label": "podstawowy",
+                        "value": 1
+                    },
+                    "description": "Przedmiot *historia* muszę mieć opanowany na poziomie podstawowym. To absolutne minimum potrzebne do funkcjonowania w codziennym życiu. Obejmuje minimum wiedzy z historii powszechnej: bitwa pod Grunwaldem i tym podobne.\n\n**Dlaczego ten przedmiot jest ważny w każdym zawodzie?**\nAmerykański filozof George Santayana słusznie powiedział: „ten, kto nie pamięta przeszłości, będzie skazany na to, że ją przeżyje powtórnie” – znajomość historii przydaje się w każdym zawodzie, bo pomaga zrozumieć sposób myślenia przedstawicieli różnych narodów i motywy ich działania.\n"
+                },
+                {
+                    "slug": "wos",
+                    "title": "WOS",
+                    "level_variant": "podstawowym",
+                    "level": {
+                        "label": "podstawowy",
+                        "value": 1
+                    },
+                    "description": "Przedmiot *WOS* muszę mieć opanowany na poziomie podstawowym. To absolutne minimum potrzebne do funkcjonowania w codziennym życiu. Obejmuje minimalną wiedzę niezbędną do funkcjonowania w społeczeństwie, np. co jest wykroczeniem lub przestępstwem, jak realizować swoje prawo wyborcze.\n\n**Dlaczego ten przedmiot jest ważny w każdym zawodzie?**\nBez znajomości zasad funkcjonowania państwa nie można być w pełni świadomym członkiem żadnego społeczeństwa – zwłaszcza społeczeństwa demokratycznego, które opiera się na pośrednim udziale obywateli w kierowaniu państwem; wiedza z tej dziedziny jest też niezbędna do podjęcia jakiejkolwiek pracy (kodeks pracy) i prowadzenia własnej działalności gospodarczej.\n"
+                },
+                {
+                    "slug": "chemistry",
+                    "title": "chemia",
+                    "level_variant": "podstawowym",
+                    "level": {
+                        "label": "podstawowy",
+                        "value": 1
+                    },
+                    "description": "Przedmiot *chemia* muszę mieć opanowany na poziomie podstawowym. To absolutne minimum potrzebne do funkcjonowania w codziennym życiu. Obejmuje podstawową wiedzę o powszechnie używanych substancjach chemicznych i związanych z nimi zagrożeniach.\n\n**Dlaczego ten przedmiot jest ważny w każdym zawodzie?**\nZnajomość chemii przydaje się w każdym zawodzie, ponieważ pomaga zrozumieć, jak można wykorzystywać i przekształcać otaczające nas substancje dla swojej wygody, korzyści i bezpieczeństwa.\n"
+                },
+                {
+                    "slug": "informatics",
+                    "title": "informatyka",
+                    "level_variant": "podstawowym",
+                    "level": {
+                        "label": "podstawowy",
+                        "value": 1
+                    },
+                    "description": "Przedmiot *informatyka* muszę mieć opanowany na poziomie podstawowym. To absolutne minimum potrzebne do funkcjonowania w codziennym życiu. Obejmuje umiejętność najbardziej podstawowej obsługi komputera.\n\n**Dlaczego ten przedmiot jest ważny w każdym zawodzie?**\nZe względu na wzrost użycia nowych technologii kompetencje cyfrowe szybko stają się niezbędną umiejętnością w każdym zawodzie (kto nie będzie ich miał, nie dostanie pracy), a także pozwalają korzystać z technologii bez narażania się na nieprzyjemne niespodzianki, takie jak wirusy, oszustwa czy fake newsy.\n"
+                },
+                {
+                    "slug": "art",
+                    "title": "plastyka",
+                    "level_variant": "podstawowym",
+                    "level": {
+                        "label": "podstawowy",
+                        "value": 1
+                    },
+                    "description": "Przedmiot *plastyka* muszę mieć opanowany na poziomie podstawowym. To absolutne minimum potrzebne do funkcjonowania w codziennym życiu. Obejmuje umiejętność posługiwania się farbami plakatowymi, kredkami czy ołówkami do tworzenia bardzo prostych szkiców, nie spełniających żadnych kryteriów artystycznych.\n\n**Dlaczego ten przedmiot jest ważny w każdym zawodzie?**\nWiedza z tego przedmiotu przydaje się w każdym zawodzie, ponieważ wyrabia zmysł estetyczny, dzięki któremu potrafimy tworzyć rzeczy spójne wizualnie, a także dostrzegać piękno i harmonię w dziełach innych ludzi i natury.\n"
+                },
+                {
+                    "slug": "music",
+                    "title": "muzyka",
+                    "level_variant": "podstawowym",
+                    "level": {
+                        "label": "podstawowy",
+                        "value": 1
+                    },
+                    "description": "Przedmiot *muzyka* muszę mieć opanowany na poziomie podstawowym. To absolutne minimum potrzebne do funkcjonowania w codziennym życiu. Obejmuje podstawową znajomość gatunków muzycznych i ich wykonawców.\n\n**Dlaczego ten przedmiot jest ważny w każdym zawodzie?**\nDoświadczenie muzyczne przydaje się w życiu każdego człowieka, ponieważ muzyka poprawia samopoczucie – najbardziej, jeśli ktoś umie poprawić samopoczucie innych osób muzyką wykonywaną samodzielnie.\n"
+                }
+            ],
+            "education": [
+                {
+                    "pathID": 64,
+                    "occupationID": 114,
+                    "duration": 8.01,
+                    "durationText": "8 lat",
+                    "pathTypeID": 6,
+                    "pathTypeName": "Przykładowa ścieżka edukacyjna 1",
+                    "schools": [
+                        {
+                            "schoolID": 1,
+                            "schoolName": "Szkoła Podstawowa",
+                            "duration": 8,
+                            "durationText": "8 lat",
+                            "durationExpected": "8.0",
+                            "schoolType": "Szkoła Podstawowa",
+                            "badge": "badges/spodst.svg",
+                            "extra": false,
+                            "level": "1.00",
+                            "selfLearned": false
+                        },
+                        {
+                            "schoolID": 124,
+                            "schoolName": "Kurs drwala - pilarza.",
+                            "duration": 0.02,
+                            "durationText": "2 tygodnie",
+                            "durationExpected": "0.1",
+                            "schoolType": "Kurs/Szkolenie",
+                            "badge": "badges/szk.svg",
+                            "extra": true,
+                            "level": "3.00",
+                            "selfLearned": false
+                        }
+                    ]
+                },
+                {
+                    "occupationID": 114,
+                    "schools": [
+                        {
+                            "schoolID": 1,
+                            "schoolName": "Szkoła Podstawowa",
+                            "duration": 8,
+                            "durationText": "8 lat",
+                            "durationExpected": "8.0",
+                            "schoolType": "Szkoła Podstawowa",
+                            "badge": "badges/spodst.svg",
+                            "extra": false,
+                            "level": "1.00",
+                            "selfLearned": false
+                        },
+                        {
+                            "schoolID": 635,
+                            "schoolName": "Branżowa Szkoła I stopnia",
+                            "duration": 3,
+                            "durationText": "3 lata",
+                            "durationExpected": "3.0",
+                            "schoolType": "Szkoła Ponadpodstawowa",
+                            "badge": "badges/sponad.svg",
+                            "extra": false,
+                            "level": "3.00",
+                            "selfLearned": false
+                        },
+                        {
+                            "schoolID": 124,
+                            "schoolName": "Kurs drwala - pilarza.",
+                            "duration": 0.02,
+                            "durationText": "2 tygodnie",
+                            "durationExpected": "0.1",
+                            "schoolType": "Kurs/Szkolenie",
+                            "badge": "badges/szk.svg",
+                            "extra": true,
+                            "level": "3.00",
+                            "selfLearned": false
+                        }
+                    ],
+                    "pathTypeID": 3,
+                    "pathTypeName": "Przykładowa ścieżka edukacyjna 2",
+                    "duration": 11.1,
+                    "durationText": "11 lat 1 miesiąc",
+                    "pathID": 1452
+                },
+                {
+                    "occupationID": 114,
+                    "schools": [
+                        {
+                            "schoolID": 1,
+                            "schoolName": "Szkoła Podstawowa",
+                            "duration": 8,
+                            "durationText": "8 lat",
+                            "durationExpected": "8.0",
+                            "schoolType": "Szkoła Podstawowa",
+                            "badge": "badges/spodst.svg",
+                            "extra": false,
+                            "level": "1.00",
+                            "selfLearned": false
+                        },
+                        {
+                            "schoolID": 3,
+                            "schoolName": "Liceum",
+                            "duration": 4,
+                            "durationText": "4 lata",
+                            "durationExpected": "4.0",
+                            "schoolType": "Szkoła Ponadpodstawowa",
+                            "badge": "badges/sponad.svg",
+                            "extra": false,
+                            "level": "3.00",
+                            "selfLearned": false
+                        },
+                        {
+                            "schoolID": 124,
+                            "schoolName": "Kurs drwala - pilarza.",
+                            "duration": 0.02,
+                            "durationText": "2 tygodnie",
+                            "durationExpected": "0.1",
+                            "schoolType": "Kurs/Szkolenie",
+                            "badge": "badges/szk.svg",
+                            "extra": true,
+                            "level": "3.00",
+                            "selfLearned": false
+                        }
+                    ],
+                    "pathTypeID": 5,
+                    "pathTypeName": "Przykładowa ścieżka edukacyjna 3",
+                    "duration": 12.1,
+                    "durationText": "12 lat 1 miesiąc",
+                    "pathID": 1453
+                },
+                {
+                    "occupationID": 114,
+                    "schools": [
+                        {
+                            "schoolID": 1,
+                            "schoolName": "Szkoła Podstawowa",
+                            "duration": 8,
+                            "durationText": "8 lat",
+                            "durationExpected": "8.0",
+                            "schoolType": "Szkoła Podstawowa",
+                            "badge": "badges/spodst.svg",
+                            "extra": false,
+                            "level": "1.00",
+                            "selfLearned": false
+                        },
+                        {
+                            "schoolID": 1310,
+                            "schoolName": "Technikum",
+                            "duration": 5,
+                            "durationText": "5 lat",
+                            "durationExpected": "5.00",
+                            "schoolType": "Szkoła Ponadpodstawowa",
+                            "badge": "badges/sponad.svg",
+                            "extra": false,
+                            "level": "3.00",
+                            "selfLearned": false
+                        },
+                        {
+                            "schoolID": 124,
+                            "schoolName": "Kurs drwala - pilarza.",
+                            "duration": 0.02,
+                            "durationText": "2 tygodnie",
+                            "durationExpected": "0.1",
+                            "schoolType": "Kurs/Szkolenie",
+                            "badge": "badges/szk.svg",
+                            "extra": true,
+                            "level": "3.00",
+                            "selfLearned": false
+                        }
+                    ],
+                    "pathTypeID": 2,
+                    "pathTypeName": "Przykładowa ścieżka edukacyjna 4",
+                    "duration": 13.1,
+                    "durationText": "13 lat 1 miesiąc",
+                    "pathID": 1454
+                }
+            ],
+            "statistics": {
+                "error": null,
+                "market": {
+                    "value": "B.MAŁY",
+                    "number": 1
+                },
+                "salary": {
+                    "value": "B.MAŁE",
+                    "number": 1
+                }
+            },
+            "descriptions": {
+                "tracks": [
+                    "https://mapakarier.org/assets/occupations/voiceovers/drwal-pilarz-drzew_name-f.mp3",
+                    "https://mapakarier.org/assets/occupations/voiceovers/benefits_header-fem.mp3",
+                    "https://mapakarier.org/assets/occupations/voiceovers/drwal-pilarz-drzew_benefits-f.mp3",
+                    "https://mapakarier.org/assets/occupations/voiceovers/description_header-fem.mp3",
+                    "https://mapakarier.org/assets/occupations/voiceovers/drwal-pilarz-drzew-f.mp3"
+                ],
+                "occupationID": 114,
+                "description": "Zawód drwala zmienił się bardzo na przestrzeni lat ze względu na zastąpienie pracy ręcznej maszynami, ale wciąż jest to dość niebezpieczne zajęcie wymagające siły i sprawności fizycznej. Żeby pozyskać drewno z drzew, trzeba je najpierw ściąć i wywieźć z lasu – co nie jest takie proste, jak się wydaje. Najpierw trzeba wszystko zaplanować: w którą stronę zwalić drzewo, aby najwygodniej było potem je obciosać i przetransportować. Potem sprawdzam stan wszystkich urządzeń. Używam bardzo niebezpiecznych i ostrych narzędzi, dlatego muszę zachować wszelkie środki ostrożności. Trzeba mieć oczy dookoła głowy, bo o wypadek nietrudno. Tym bardziej, że pracuje się bez względu na pogodę, nierzadko w śliskim błocie oganiając się od komarów. Oprócz tego ścinam drzewa, których ścięcie jest szczególnie niebezpieczne, np. takie, które są silnie pochylone, pełne dziupli, nadłamane lub pęknięte, także na skutek klęsk żywiołowych, np. trąb powietrznych, wichur. \r\n--//--\r\nZa pomocą kombajnów leśnych układam ścięte pnie w jednym miejscu, po czym mierzę je i znakuję. Ściągam też na ziemię drzewa zawieszone, które podczas wycinania nie przewróciło się na ziemię, tylko oparło się o rosnące obok inne drzewa. Następnie trzeba zapakować pnie na specjalne ciężarówki. Po wykonanej pracy moim obowiązkiem jest uprzątnięcie miejsca zrywki. Oprócz wycinania drzew aby pozyskać drewno lub usunąć uszkodzone i chore sztuki, robię to też aby przygotować szlaki operacyjne, czyli wąskie szlaki wewnątrz lasu pozbawione drzew, którędy można transportować ścięte pnie z miejsca ścinki do miejsca, w którym będą składowane. Ściśle współpracuję z nadleśnictwem, które opiekuje się danym obszarem leśnym. Niekiedy dostaję zlecenia na prace pielęgnacyjne, np. przycinanie młodych drzew lub usuwanie konarów zagrażających ludziom.\r\n\r\n--//--\r\n\r\n**Co powinnam umieć?** \r\n\r\nMuszę potrafić posługiwać się narzędziami i urządzeniami, których używam do ścinania drzew, np. pilarkami, klinami, siekierami, jak i maszynami, których używam do zwożenia pni z lasu, muszę też umieć wykonać drobne naprawy.\r\n--//--\r\nMuszę wiedzieć w jaki sposób podciąć pień, aby piła się nie zaklinowała, ocenić, gdzie znajduje się środek ciężkości pnia i gdzie wbić klin, aby drzewo upadło w pożądaną stronę.\r\n--//--\r\nMuszę znać cykl życiowy i budowę drzew, aby zaplanować wycinkę i prawidłowo ocenić bezpieczeństwo ludzi i sprzętu. \r\n\r\n--//--\r\n\r\n**Jakie kompetencje miękkie są ważne w mojej pracy?**\r\n- umiejętność pełnego skoncentrowania się na pracy,\r\n- podzielność uwagi,\r\n- umiejętność podejmowania szybkich i trafnych decyzji,\r\n- odporność na stres,\r\n- odpowiedzialność.\r\n\r\n--//--\r\n\r\n**Predyspozycje zdrowotne**\r\n- dobra kondycja fizyczna, bo często posługuję się ciężkim sprzętem, zakładam grube łańcuchy na ścięte pnie,\r\n- wytrzymałość, bo wykonuję czynności wymagające siły fizycznej,\r\n- szybki refleks, by uciec przed upadającymi pniami i gałęziami,\r\n- koordynacja wzrokowo-ruchowa,\r\n- dobry wzrok,\r\n- dobry słuch,\r\n- sprawne dłonie i palce.\r\n\r\n--//--\r\n\r\n**Przeciwwskazania zdrowotne do wykonywania tego zawodu**\r\n- lęk wysokości,\r\n- zaburzenia równowagi,\r\n- choroby neurologiczne, np. padaczka, stwardnienie rozsiane, choroba Parkinsona,\r\n- wady wzroku i słuchu niedające się skorygować odpowiednio dobranymi okularami i aparatami słuchowymi.\r\n\r\n--//--\r\n\r\n**Gdzie mogę pracować?** \r\n\r\nMogę znaleźć zatrudnienie w lasach prywatnych i państwowych, firmach zajmujących się wycinką drzew, w parkach narodowych, firmach z branży energetycznej, drogowej, budowlanej. Mogę też otworzyć własną działalność gospodarczą. \r\n",
+                "descriptionShort": "Ścinam drzewa, usuwam gałęzie z pni, pakuję ścięte drzewa na ciężarówki, przycinam młode drzewa i usuwam konary zagrażające ludziom.",
+                "benefits": "Drewno, żywica, igliwie pięknie pachnie i wygląda. Z drewna powstaną meble, książki i inne wyroby, z których ludzie będą z przyjemnością korzystać. Ja też mogę korzystać z tego drewna – mam do niego najłatwiejszy dostęp. To praca na łonie natury. Jest ciężka, ale można odpocząć przy niej psychicznie i zbudować muskulaturę.",
+                "video": ""
+            }
+        },
+        "webmetadata": {
+            "title": "Drwalka | Poznaj zawód | Mapa Karier",
+            "cover": "https://mapakarier.org/assets/occupations/photos/drwal-f.jpg",
+            "description": "Wycinam drzewa. Sprawdź, na czym polega moja praca, jak wygląda ścieżka edukacyjna i jakie muszę mieć kompetencje."
+        }
+    },
+    "__N_SSG": true
+}

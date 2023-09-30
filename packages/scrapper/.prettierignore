@@ -1,0 +1,6 @@
+# Ignore artifacts:
+build
+coverage
+DATA/*
+DATA_FORMATTED/*
+DATA_SCRAPPED/*
