@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { Question } from './quiz.model';
 import { QuizService } from './quiz.service';
+import { Question } from '../dto';
 
 @Component({
   selector: 'app-quiz',
@@ -66,7 +66,7 @@ export class QuizComponent implements OnInit{
     this.quizService.submitAnswers(this.userAnswers).subscribe(
       {
         next: () => {
-          
+
         }
       }
     );

@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { QuizComponent } from './quiz/quiz.component';
 import { HeaderComponent } from './header/header.component';
 import { StartComponent } from './start/start.component';
+import { ResultComponent } from './result/result.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     QuizComponent,
     HeaderComponent,
-    StartComponent
+    StartComponent,
+    ResultComponent
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,36 @@
+@use '../../styles.scss';
+
+.result-container {
+   background: linear-gradient(to right bottom, #7ed56fc2, #28b485c2);
+   position: relative;
+   width: 100%;
+   height: 100%;
+}
+.page-container {
+    background-color: white;
+    width: 70vw;
+    position: absolute;
+    left: 15vw;
+    height: 100%;
+}
+.h3 {
+    text-align: center;
+}
+.job-title-container {
+    text-align: center;
+    padding: 2rem;
+}
+
+.menu-container {
+    width: 100%;
+    display: flex;
+    align-items: stretch;
+    flex-direction: row;
+    align-items: stretch;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    cursor: pointer;
+  span {
+    flex: 1;
+  }
+}
