@@ -1,17 +1,18 @@
 
-// Returned from GET endpoint per each question
-export interface QuestionDTO extends Question {
-    answers: Answer[]; 
+export interface GetAllQuestionsDTO {
+    questions: Question[];
+    size: number;
 }
 
-// Payload for each POST endpoint per each question
 export interface AnswerDTO {
+    questionId: string; // the same as param
     answerId: string;
 }
 
 export interface Question {
     questionId: number;
     description: string;
+    answers: Answer[];
 }
 
 export interface Answer {
@@ -19,10 +20,10 @@ export interface Answer {
     description: string;
 }
 
-export type Endpoint = 'getQuestion' | 'postAnswer' | 'getResults';
+export type Endpoint = 'getAllQuestions' | 'postAnswer' | 'getResults';
 
 export const ENDPOINTS: Record<Endpoint, string> = {
-    getQuestion: '/v1/question/:questionId',
-    postAnswer: '/v1/answer/:answerId',
+    getAllQuestions: '/v1/questions',
+    postAnswer: '/v1/answer/:questionId',
     getResults: '/v1/results'
-}
+};
