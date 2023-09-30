@@ -4,6 +4,10 @@ import { Occupation, Root } from "../types/occupation";
 export const mapOccupationToKnownFormat = (data: Root): Occupation => {
     const { basics, descriptions, similar, skills, statistics, building } = data.pageProps.occupation;
 
+    const marketSize: string = statistics?.market?.value ?? '';
+    const salarySize: string = statistics?.salary?.value ?? '';
+
+
     return ({
         id: basics.id,
         name: basics.name,
@@ -39,16 +43,16 @@ export const mapOccupationToKnownFormat = (data: Root): Occupation => {
         })),
 
         building: {
-            id: building.id,
-            buildingName: building.name,
+            id: building?.id ?? '',
+            buildingName: building?.name ?? '',
         },
 
         statistics: {
             market: {
-                size: statistics.market.value,
+                size: marketSize,
             },
             salary: {
-                size: statistics.salary.value,
+                size:  salarySize,
             },
         },
     })
