@@ -1,24 +1,27 @@
 import 'dotenv/config';
 import axios from 'axios';
-import cheerio from 'cheerio';
+// import cheerio from 'cheerio';
 import fs from 'node:fs';
-import places from './DATA/places.json';
-import buildings from './DATA_FORMATTED/buildings.json';
+// import places from './DATA/places.json';
+// import buildings from './DATA_FORMATTED/buildings.json';
 import occupations from './DATA_FORMATTED/occupations.json';
 // import places from './DATA/places.json';
-import { getAllBuildings, getAllOccupations, mapJSONPlaceToKnownFormat } from './mappers/listPlaces';
-import { getLinkToBuildingDetails } from './links';
-import { setInterval } from 'node:timers/promises';
-import { Building } from './types/places';
-import { mapBuildingToKnownFormat } from './mappers/buildings';
-import { BuildingWithOccupations, Root } from './types/building';
+// import { getAllBuildings, getAllOccupations, mapJSONPlaceToKnownFormat } from './mappers/listPlaces';
+import { getLinkToBuildingDetails, getLinkToOccupation } from './links';
+// import { setInterval } from 'node:timers/promises';
+import { Building, Occupation as OccupationItem } from './types/places';
+// import { mapBuildingToKnownFormat } from './mappers/buildings';
+// import { BuildingWithOccupations, Root } from './types/building';
+import { Occupation, Root } from './types/occupation';
+import { mapOccupationToKnownFormat } from './mappers/occupations';
 
 
 
 // const BASE_URL = 'https://mapakarier.org/_next/data/TFB5YHYlWb/miasto-zawodow/budynek/123/k.json?id=123&gender=k'
 // const BASE_URL = String();
 
-const buildingsList: BuildingWithOccupations[] = [];
+// const buildingsList: BuildingWithOccupations[] = [];
+const occupationList: Occupation[] = [];
 
 
 async function fetchHTML(url: string): Promise<string> {
@@ -26,40 +29,74 @@ async function fetchHTML(url: string): Promise<string> {
     return data;
 }
 
-function processBuilding(item: Building): Promise<BuildingWithOccupations> {
+// function processBuilding(item: Building): Promise<BuildingWithOccupations> {
+//     return new Promise((resolve) => {
+//         setTimeout(() => {
+//             const building = scrapeBuilding(item);
+//             resolve(building);
+//         }, 350);
+//     });
+// }
+
+
+function processOccupation(item: OccupationItem): Promise<Occupation> {
     return new Promise((resolve) => {
         setTimeout(() => {
-            const building = scrapeBuilding(item);
-            resolve(building);
+            const occupation = scrapeOccupation(item);
+            return resolve(occupation);
         }, 350);
     });
 }
 
-async function processBuildings() {
-    for (let item of buildings) {
-        const building = await processBuilding(item);
-        buildingsList.push(building);
+async function processOccupations() {
+    for (let item of occupations) {
+        const occupation = await processOccupation(item);
+        occupationList.push(occupation);
     }
+
+    // for (let item of occupations) {
+        // const occupation = await processOccupation(occupations[0]);
+        // occupationList.push(occupation);
+    // }
 }
 
 
 
 
-async function scrapeBuilding({ id }: Building): Promise<BuildingWithOccupations> {
+// async function scrapeBuilding({ id }: Building): Promise<BuildingWithOccupations> {
+//     return new Promise(async (resolve, reject) => {
+//         const URL = getLinkToBuildingDetails(id);
+//         console.log({ buildingId: id, URL });
+
+//         try{
+//             const html = await fetchHTML(URL) as unknown as Root;        
+//             return resolve(mapBuildingToKnownFormat(html));    
+//         } catch (error) {
+//             console.error({ buildingId: id, error });
+//             return reject(error);
+//         }
+//     });
+// }
+
+
+
+
+
+
+async function scrapeOccupation({ id }: OccupationItem): Promise<Occupation> {
     return new Promise(async (resolve, reject) => {
-        const URL = getLinkToBuildingDetails(id);
+        const URL = getLinkToOccupation(id);
         console.log({ buildingId: id, URL });
 
         try{
             const html = await fetchHTML(URL) as unknown as Root;        
-            return resolve(mapBuildingToKnownFormat(html));    
+            return resolve(mapOccupationToKnownFormat(html));    
         } catch (error) {
             console.error({ buildingId: id, error });
             return reject(error);
         }
     });
 }
-
 
 
 // async function getAllBuildingsOccupations(): Promise<any> {
@@ -98,14 +135,14 @@ async function scrapeBuilding({ id }: Building): Promise<BuildingWithOccupations
 //     // });
 // }
 
-processBuildings()
+processOccupations()
     .then(() => {
 
         console.log("Scraping finished.");
 
-        console.log({ buildingsList });
+        // console.log({ occupationList });
 
-        fs.writeFile(`./DATA_FORMATTED/buildingsWithOccupation${Date.now()}.json`, JSON.stringify(buildingsList, null, 2), (err) => {        
+        fs.writeFile(`./DATA_FORMATTED/occupationsWithDetails${Date.now()}.json`, JSON.stringify(occupationList, null, 2), (err) => {        
             if (err) {
                 return process.exit();
             }
