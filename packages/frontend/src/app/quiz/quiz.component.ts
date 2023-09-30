@@ -13,7 +13,7 @@ export class QuizComponent implements OnInit{
   currentQuestion = 0;
   questions: Question[] = [];
 
-  userAnswers = []
+  userAnswers = [-1, -1, -1, -1, -1]
   userCurrentAnswer = -1;
 
   constructor(private quizService: QuizService) {}
@@ -27,7 +27,12 @@ export class QuizComponent implements OnInit{
   }
 
   isNextButtonDisabled() {
-    return this.currentQuestion >= this.questions.length-1;
+    if(this.userCurrentAnswer === -1) 
+      return true;
+    if(this.isFinalQuestion()) {
+      return false
+    }
+    return this.currentQuestion >= this.questions.length-1 || this.userCurrentAnswer === -1;
   }
 
   isPreviousButtonDisabled() {
@@ -39,6 +44,31 @@ export class QuizComponent implements OnInit{
   }
 
   onNextQuestionClick() {
-    this.currentQuestion += 1;
+    if(this.isFinalQuestion()){
+      this.submitAnswers();
+    }
+    else {
+      this.currentQuestion += 1;
+      this.userCurrentAnswer = -1;
+    }
+  }
+
+  onAnswerClick(index: number) {
+    this.userCurrentAnswer = index;
+    this.userAnswers[this.currentQuestion] = index;
+  }
+
+  isFinalQuestion() {
+    return this.currentQuestion === this.questions.length - 1;
+  }
+
+  submitAnswers() {
+    this.quizService.submitAnswers(this.userAnswers).subscribe(
+      {
+        next: () => {
+          
+        }
+      }
+    );
   }
 }

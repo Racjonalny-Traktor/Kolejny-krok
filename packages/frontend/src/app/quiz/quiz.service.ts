@@ -11,4 +11,8 @@ export class QuizService {
             {answers: ['Psem', 'kotem', 'Pietruszką'], chosenAnswer: 0, questionText: 'Jakim zwierzęciem chciałbyś być ?'},
         ]);
     }
+
+    submitAnswers(answers: number[]): Observable<any> {
+        return of();
+    }
 }
