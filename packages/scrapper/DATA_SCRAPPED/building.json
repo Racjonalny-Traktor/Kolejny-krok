@@ -1,0 +1,41 @@
+{
+  "pageProps": {
+    "building": {
+      "id": 123,
+      "name": "Leśnictwo",
+      "district_name": "--",
+      "image": "https://mapakarier.org/assets/map/winter/2-2/Shoping-wooden-building-left.png",
+      "occupations": [
+        {
+          "avatar": "https://mapakarier.org/assets/occupations/avatars/drwal-f.png",
+          "name_voice_over": "occupations/voiceovers/drwal-pilarz-drzew_name-f.mp3",
+          "id": 114,
+          "name": "Drwalka",
+          "gender": "fem"
+        },
+        {
+          "avatar": "https://mapakarier.org/assets/occupations/avatars/technik-lesnik-f.png",
+          "name_voice_over": "occupations/voiceovers/lesnik_name-f.mp3",
+          "id": 231,
+          "name": "Leśniczka",
+          "gender": "fem"
+        },
+        {
+          "avatar": "https://mapakarier.org/assets/occupations/avatars/operator-maszyn-lesnych-f.png",
+          "name_voice_over": "occupations/voiceovers/operator-maszyn-lesnych_name-f.mp3",
+          "id": 566,
+          "name": "Operatorka maszyn leśnych",
+          "gender": "fem"
+        },
+        {
+          "avatar": "https://mapakarier.org/assets/occupations/avatars/straznik_lesny-f.png",
+          "name_voice_over": "occupations/voiceovers/straznik-lesny_name-f.mp3",
+          "id": 884,
+          "name": "Strażniczka leśna",
+          "gender": "fem"
+        }
+      ]
+    }
+  },
+  "__N_SSG": true
+}
