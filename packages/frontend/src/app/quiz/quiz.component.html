@@ -1,20 +1,29 @@
 <div class="quiz-container">
     <div class="question-container">
-        <div class="card">
+        <div class="card" style="width: 24rem;">
             <div class="card-header">
-              Question 1 of 5
+              Question {{currentQuestion + 1}} of {{questions.length}}
             </div>
             <div class="card-body">
-                <h5 class="card-title">Jakim burakiem chciałbyś być ?</h5>
-                <div class="form-check" *ngFor="let answer of answers">
+                <h5 class="card-title">{{questions[currentQuestion].questionText}}</h5>
+                <div class="form-check" *ngFor="let answer of questions[currentQuestion].answers">
                     <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
                     <label class="form-check-label" for="flexRadioDefault1">
                         {{answer}}
                     </label>
                 </div>
-              <a href="#" class="btn btn-primary btn-next" style="margin-top: 1rem;">Next</a>
-              <a href="#" class="btn btn-secondary btn-previous" style="margin-top: 1rem;">Previous</a>
-
+              <button 
+                href="#" 
+                class="btn btn-primary btn-next" 
+                style="margin-top: 1rem;"
+                [disabled]="isNextButtonDisabled()"
+                (click)="onNextQuestionClick()">Next</button>
+              <button 
+                href="#" 
+                class="btn btn-secondary btn-previous" 
+                style="margin-top: 1rem;"
+                [disabled]="isPreviousButtonDisabled()"
+                (click)="onPreviousQuestionClick()">Previous</button>
             </div>
         </div>
     </div>
