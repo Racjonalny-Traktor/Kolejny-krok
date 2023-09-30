@@ -1,0 +1,21 @@
+.quiz-container {
+    width: 100%;
+}
+
+.question-container {
+    position: absolute;
+    top: 8rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.question-card {
+    width: 24rem;
+    border-radius: 1rem;
+    padding: 1rem;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25);
+}
+
+.btn-next {
+    float: right;
+}

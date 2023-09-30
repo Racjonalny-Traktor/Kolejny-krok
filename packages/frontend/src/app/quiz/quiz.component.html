@@ -1,1 +1,21 @@
-<p>quiz works!</p>
+<div class="quiz-container">
+    <div class="question-container">
+        <div class="card">
+            <div class="card-header">
+              Question 1 of 5
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">Jakim burakiem chciałbyś być ?</h5>
+                <div class="form-check" *ngFor="let answer of answers">
+                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                    <label class="form-check-label" for="flexRadioDefault1">
+                        {{answer}}
+                    </label>
+                </div>
+              <a href="#" class="btn btn-primary btn-next" style="margin-top: 1rem;">Next</a>
+              <a href="#" class="btn btn-secondary btn-previous" style="margin-top: 1rem;">Previous</a>
+
+            </div>
+        </div>
+    </div>
+</div>

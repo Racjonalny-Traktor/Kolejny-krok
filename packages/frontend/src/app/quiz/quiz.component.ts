@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./quiz.component.scss']
 })
 export class QuizComponent {
-
+  question = 'Jakim warzywem chciałbyś być ?'
+  answers = [
+    'Jabłkiem', 'Parówką', 'Gruszką'
+  ];
 }
