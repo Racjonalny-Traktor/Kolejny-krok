@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { QuizService } from './quiz.service';
 import { Question } from '../dto';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-quiz',
@@ -16,7 +17,12 @@ export class QuizComponent implements OnInit{
   userAnswers = [-1, -1, -1, -1, -1]
   userCurrentAnswer = -1;
 
-  constructor(private quizService: QuizService) {}
+  funFacts = [
+    {role: 'Pielęgniarka', description: 'Dlaczego pielęgniarka je parówki o 12 ? Nie wiem, to jest tylko placeholder'},
+    {role: 'Programista', description: 'Dlaczego programista je kukurydze o 12 ? Nie wiem, to jest tylko placeholder'},
+  ];
+
+  constructor(private quizService: QuizService, private router: Router) {}
 
   ngOnInit(): void {
     this.quizService.fetchQuestions().subscribe ({
@@ -27,12 +33,12 @@ export class QuizComponent implements OnInit{
   }
 
   isNextButtonDisabled() {
-    if(this.userCurrentAnswer === -1) 
+    if(this.userAnswers[this.currentQuestion] === -1) 
       return true;
     if(this.isFinalQuestion()) {
       return false
     }
-    return this.currentQuestion >= this.questions.length-1 || this.userCurrentAnswer === -1;
+    return this.currentQuestion >= this.questions.length-1;
   }
 
   isPreviousButtonDisabled() {
@@ -49,12 +55,10 @@ export class QuizComponent implements OnInit{
     }
     else {
       this.currentQuestion += 1;
-      this.userCurrentAnswer = -1;
     }
   }
 
   onAnswerClick(index: number) {
-    this.userCurrentAnswer = index;
     this.userAnswers[this.currentQuestion] = index;
   }
 
@@ -66,9 +70,14 @@ export class QuizComponent implements OnInit{
     this.quizService.submitAnswers(this.userAnswers).subscribe(
       {
         next: () => {
-
+          this.router.navigate(['./result']);
         }
       }
     );
   }
+
+  showFunFuct() {
+    return false;
+  }
+
 }

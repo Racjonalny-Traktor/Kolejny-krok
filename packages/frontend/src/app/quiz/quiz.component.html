@@ -1,6 +1,6 @@
 <div class="quiz-container">
     <div class="question-container">
-        <div class="card" style="width: 24rem;">
+        <div class="card" style="width: 24rem;" *ngIf="!showFunFuct()">
             <div class="card-header">
               Question {{currentQuestion + 1}} of {{questions.length}}
             </div>
@@ -26,6 +26,9 @@
                 [disabled]="isPreviousButtonDisabled()"
                 (click)="onPreviousQuestionClick()">Previous</button>
             </div>
+        </div>
+        <div *ngIf="showFunFuct()">
+  
         </div>
     </div>
 </div>

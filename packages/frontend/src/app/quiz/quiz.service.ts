@@ -20,10 +20,6 @@ export class QuizService {
     }
 
     submitAnswers(answers: number[]): Observable<any> {
-        return of();
+        return of([]);
     }
-
-    // fetchQuestions1(): Observable<QuestionDTO[]> {
-    //     return 
-    // }
 }
