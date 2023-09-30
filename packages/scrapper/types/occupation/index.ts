@@ -4,11 +4,11 @@ export interface Root {
   }
   
   export interface PageProps {
-    occupation: Occupation
+    occupation: OccupationDTO
     webmetadata: Webmetadata
   }
   
-  export interface Occupation {
+  export interface OccupationDTO {
     group: Group
     basics: Basics
     skills: Skill[]
@@ -169,3 +169,57 @@ export interface Root {
     description: string
   }
   
+  // MAP TO:
+
+  export type OccupationSkill = {
+    skillId: number;
+    name: string;
+    description: string;
+    source: string[];
+  }
+
+  export type SimillarOccupation = {
+    occupationId: number;
+    name: string;
+    alias: string;
+    futureJob: boolean;
+    regulated: boolean;
+  }
+
+  export type Occupation = {
+    id: number;
+    name: string;
+    fullName: string;
+    description: string;
+
+    shortDescription: string;
+    jobDescription: string;
+
+    professionalStream: string;
+    industryName: string;
+
+    futureJob: boolean;
+    employers: boolean;
+    regulated: {
+      isRegulated: boolean;
+      description: string;
+    };
+    
+
+    skills: OccupationSkill[];
+    simillarOccupations: SimillarOccupation[];
+
+    building: {
+      id: number;
+      buildingName: string;
+    };
+
+    statistics: {
+      market: {
+        size: string;
+      };
+      salary: {
+        size: string;
+      };
+    }
+  } 
