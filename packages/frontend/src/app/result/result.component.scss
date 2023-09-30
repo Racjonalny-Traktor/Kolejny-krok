@@ -32,5 +32,15 @@
     cursor: pointer;
   span {
     flex: 1;
+    text-align: center;
   }
 }
+
+.item{
+  color: #777;
+}
+
+.item-active {
+  color: black;
+}
+
