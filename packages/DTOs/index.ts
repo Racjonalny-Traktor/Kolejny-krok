@@ -1,29 +1,32 @@
-
 export interface GetAllQuestionsDTO {
     questions: Question[];
     size: number;
 }
 
-export interface AnswerDTO {
-    questionId: string; // the same as param
+export interface SubmitAnswerDTO {
+    questionId: string;
     answerId: string;
 }
 
-export interface Question {
-    questionId: number;
-    description: string;
-    answers: Answer[];
-}
+
 
 export interface Answer {
     answerId: string;
     description: string;
 }
 
-export type Endpoint = 'getAllQuestions' | 'postAnswer' | 'getResults';
+
+export interface Question {
+    questionId: number;
+    description: string;
+    answers: Answer[];
+} 
+
+
+export type Endpoint = 'getAllQuestions' | 'postAnswers' | 'getResults';
 
 export const ENDPOINTS: Record<Endpoint, string> = {
-    getAllQuestions: '/v1/questions',
-    postAnswer: '/v1/answer/:questionId',
-    getResults: '/v1/results'
+    getAllQuestions: '/v1/quiz/questions',
+    postAnswers: '/v1/quiz/answers',
+    getResults: '/v1/quiz/results'
 };
