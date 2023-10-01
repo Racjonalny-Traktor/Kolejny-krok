@@ -9,8 +9,7 @@ export class ResultComponent {
   jobTitle = 'Pełnomocniczka ds. osób z niepełnosprawnościami';
   jobDescription = 'Działam na rzecz poprawy jakości życia osób z niepełnosprawnościami i na rzecz ich pełniejszego uczestnictwa w życiu społeczeństwa.';
   
-  menuItems = ['Opis zawodu', 'Specyfika pracy', 'Wymagania i umiejętności', 'Przedmioty szkolne'];
-
+  roles = ['Weterynaria', 'Medycyna', 'Kapłaństwo'];
   menuIndex = 0;
 
   setItem(index: number) {
