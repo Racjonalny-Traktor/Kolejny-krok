@@ -12,7 +12,6 @@ export class QuizService {
     private apiPath = 'localhost:3000/v1/quiz/';
 
     constructor(private http: HttpClient) {}
-
     fetchQuestions(): Observable<Question[]>{
         return this.http.get<Question[]>(`${this.apiPath}/questions`);
         return of([
