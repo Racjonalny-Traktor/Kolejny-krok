@@ -4,14 +4,17 @@ import { processOccupations } from './scraping/occupations';
 
 const PATH = `./DATA/formatted`;
 
-processOccupations()
-  .then((occupations) => {
-    console.log('Scraping finished.');
+// processOccupations()
+//   .then((occupations) => {
+//     console.log('Scraping finished.');
 
-    console.log({ occupations });
+//     console.log({ occupations });
 
-    writeFile(`${PATH}/new_occupations_${Date.now()}.json`, JSON.stringify(occupations, null, 2));
-  })
-  .catch((error) => {
-    console.error('An error occurred:', error);
-  });
+//     writeFile(`${PATH}/new_occupations_${Date.now()}.json`, JSON.stringify(occupations, null, 2));
+//   })
+//   .catch((error) => {
+//     console.error('An error occurred:', error);
+//   });
+
+
+import './mappers/ela';

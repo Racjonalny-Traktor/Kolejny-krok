@@ -1,0 +1,6127 @@
+[
+    {
+       "code":"74",
+       "name":"Administracja",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"598",
+       "name":"Administracja i bezpieczeństwo wewnętrzne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1142",
+       "name":"Administracja i cyfryzacja",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"514",
+       "name":"Administracja i polityka publiczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"677",
+       "name":"Administracja publiczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12629",
+       "name":"Agri-food Economics and Trade",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"524",
+       "name":"Agrobiznes",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1129",
+       "name":"Agroturystyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"131",
+       "name":"Aktorstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"369",
+       "name":"Aktorstwo nowych mediów",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"743",
+       "name":"Aktywność fizyczna i żywienie w zdrowiu publicznym",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"2331",
+       "name":"Akustyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"233",
+       "name":"Akustyka - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"221",
+       "name":"Amerykanistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1239",
+       "name":"Analityka biznesowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"294",
+       "name":"Analityka biznesu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"292",
+       "name":"Analityka chemiczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"633",
+       "name":"Analityka chemiczna i spożywcza",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"455",
+       "name":"Analityka gospodarcza",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"154",
+       "name":"Analityka gospodarcza - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1001",
+       "name":"Analityka i komunikacja w biznesie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"585",
+       "name":"Analityka i kreatywność społeczna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"980",
+       "name":"Analityka kryminalistyczna i sądowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"163",
+       "name":"Analityka medyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"582",
+       "name":"Analityka społeczna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"778",
+       "name":"Analityka z diagnostyką molekularną",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"884",
+       "name":"Analityka żywności",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1247",
+       "name":"Analiza danych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"721",
+       "name":"Analiza danych - big data",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1143",
+       "name":"Analiza i kreowanie trendów",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1075",
+       "name":"Analiza i przetwarzanie danych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"293",
+       "name":"Analiza i zarządzanie w biznesie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"468",
+       "name":"Andragogika",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"997",
+       "name":"Angielski język biznesu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"799",
+       "name":"Anglistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"357",
+       "name":"Animacja kultury",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"775",
+       "name":"Animacja kultury w przestrzeni społecznej",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1240",
+       "name":"Animacja osób 50+",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"619",
+       "name":"Animacja społeczno-kulturalna z edukacją kulturalną",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"732",
+       "name":"Antropologia języka i komunikacji",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"685",
+       "name":"Antropologia literatury, teatru i filmu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"885",
+       "name":"Aplikacje Internetu Rzeczy",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"819",
+       "name":"Applied Mathematics",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"239",
+       "name":"Archeologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"67",
+       "name":"Architektura",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"554",
+       "name":"Architektura informacji",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"66",
+       "name":"Architektura i urbanistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"68",
+       "name":"Architektura krajobrazu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1187",
+       "name":"Architektura przestrzeni informacyjnych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"627",
+       "name":"Architektura przestrzeni kulturowych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"45",
+       "name":"Architektura wnętrz",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1173",
+       "name":"Archiwistyka, zarządzanie dokumentacją i infobrokerstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"353",
+       "name":"Archiwistyka i nowoczesne zarządzanie zapisami informacyjnymi",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1102",
+       "name":"Archiwistyka i zarządzanie dokumentacją",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"394",
+       "name":"Archiwistyka i zarządzanie dokumentacją - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1174",
+       "name":"Art&Design",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"157",
+       "name":"Artes liberales - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1254",
+       "name":"Arteterapia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"868",
+       "name":"Astronomia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"508",
+       "name":"Audiofonologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"552",
+       "name":"Audiofonologia z protetyką słuchu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1087",
+       "name":"Audyt finansowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"23022",
+       "name":"Automatyka, cybernetyka i robotyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1259",
+       "name":"Automatyka, Robotyka i Informatyka Przemysłowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"23041",
+       "name":"Automatyka, robotyka i systemy sterowania",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1040",
+       "name":"Automatyka i informatyka przemysłowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"111",
+       "name":"Automatyka i robotyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"363",
+       "name":"Automatyka i Robotyka Stosowana",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"10854",
+       "name":"Automatyka i sterowanie robotów",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"11401",
+       "name":"Automatyka przemysłowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1260",
+       "name":"Automatyzacja i Robotyzacja Procesów Produkcyjnych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1150",
+       "name":"Bachelor of Business and Administration",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"769",
+       "name":"Bankowość i finanse cyfrowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1086",
+       "name":"Bankowość i zarządzanie ryzykiem",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"504",
+       "name":"Behawiorystyka zwierząt",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"817",
+       "name":"Bezpieczeństwo i certyfikacja żywności",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"42",
+       "name":"Bezpieczeństwo i higiena pracy",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1250",
+       "name":"Bezpieczeństwo informacyjne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13099",
+       "name":"Bezpieczeństwo i prawo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"543",
+       "name":"Bezpieczeństwo i produkcja żywności",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"2824",
+       "name":"Bezpieczeństwo i systemy ochrony",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"623",
+       "name":"Bezpieczeństwo jądrowe i ochrona radiologiczna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"558",
+       "name":"Bezpieczeństwo międzynarodowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1237",
+       "name":"Bezpieczeństwo międzynarodowe i dyplomacja",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"765",
+       "name":"Bezpieczeństwo morskie państwa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"7",
+       "name":"Bezpieczeństwo narodowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"17308",
+       "name":"Bezpieczeństwo Narodowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1080",
+       "name":"Bezpieczeństwo  narodowe",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"614",
+       "name":"Bezpieczeństwo narodowe i międzynarodowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"665",
+       "name":"Bezpieczeństwo państwa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1236",
+       "name":"Bezpieczeństwo publiczne",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"671",
+       "name":"Bezpieczeństwo w biznesie i administracji",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"18",
+       "name":"Bezpieczeństwo wewnętrzne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13866",
+       "name":"Bezpieczeństwo wewnętrzne z administracja publiczną",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"10948",
+       "name":"Bezpieczeństwo w gospodarce cyfrowej",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"568",
+       "name":"Bezpieczeństwo zdrowotne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"217",
+       "name":"Bezpieczeństwo żywności",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"19",
+       "name":"Bezpieczeństwo żywności - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"2650",
+       "name":"Big Data Analytics",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"281",
+       "name":"Biochemia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1134",
+       "name":"Biofizyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"234",
+       "name":"Biofizyka - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1233",
+       "name":"Biogospodarka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"266",
+       "name":"Bioinformatyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"436",
+       "name":"Bioinformatyka i biologia systemów",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"507",
+       "name":"Bioinformatyka - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"525",
+       "name":"Bioinżynieria",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"261",
+       "name":"Bioinżynieria produkcji żywności",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"273",
+       "name":"Bioinżynieria w produkcji zwierzęcej",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"546",
+       "name":"Bioinżynieria zwierząt",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1234",
+       "name":"Bioinżynieria Zwierząt",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"224",
+       "name":"Biologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"628",
+       "name":"Biologia człowieka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"312",
+       "name":"Biologia i geografia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"313",
+       "name":"Biologia i geologia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1069",
+       "name":"Biologia i zdrowie człowieka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"620",
+       "name":"Biologia medyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"762",
+       "name":"Biologia sądowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1230",
+       "name":"Biologia stosowana",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"531",
+       "name":"Biologiczne podstawy kryminalistyki",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"11449",
+       "name":"Biomechanika inżynierska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"739",
+       "name":"Biomedycyna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"99",
+       "name":"Biotechnologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"386",
+       "name":"Biotechnologia medyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"283",
+       "name":"Biotechnologia molekularna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"630",
+       "name":"Biotechnologia stosowana roślin",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"608",
+       "name":"Biotechnologia środowiska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1152",
+       "name":"Biotechnology",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1170",
+       "name":"Biznes chemiczny",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"972",
+       "name":"Biznes elektroniczny",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1000",
+       "name":"Biznes i języki obce",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"518",
+       "name":"Biznes i technologia ekologiczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"643",
+       "name":"Biznes międzynarodowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"975",
+       "name":"Broker innowacji w przemyśle spożywczym",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"49",
+       "name":"Budowa jachtów",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1048",
+       "name":"Budowa maszyn i pojazdów",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"32",
+       "name":"Budownictwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12864",
+       "name":"Business and Finance Management",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"295",
+       "name":"Business management",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"11221",
+       "name":"Business Management",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"374",
+       "name":"Ceramika",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"57",
+       "name":"Chemia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"375",
+       "name":"Chemia budowlana",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"136",
+       "name":"Chemia budowlana - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1045",
+       "name":"Chemia i analityka przemysłowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"11416",
+       "name":"Chemia i Inżynieria Materiałów",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"669",
+       "name":"Chemia i technologia żywności",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"879",
+       "name":"Chemia i toksykologia sądowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"296",
+       "name":"Chemia kosmetyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1195",
+       "name":"Chemia kosmetyków i farmaceutyków z elementami biznesu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1116",
+       "name":"Chemia kryminalistyczna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1176",
+       "name":"Chemia kryminalistyczna i sądowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"745",
+       "name":"Chemia medyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"678",
+       "name":"Chemia techniczna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"21501",
+       "name":"Chemia w kryminalistyce",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1079",
+       "name":"Chemistry",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"967",
+       "name":"Chłodnictwo, klimatyzacja i technologie zintegrowane",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1118",
+       "name":"Coaching filozoficzny",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"663",
+       "name":"Coaching i zarządzanie zasobami ludzkimi",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"632",
+       "name":"Coaching medyczny",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"10502",
+       "name":"Coaching stylu życia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"609",
+       "name":"Computer Aided Engineering",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1016",
+       "name":"Construction and Building Systems Engineering",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1044",
+       "name":"Cyberbezpieczeństwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1196",
+       "name":"Cyfryzacja i zarządzanie danymi w biznesie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1101",
+       "name":"Człowiek w cyberprzestrzeni",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12425",
+       "name":"Data Science and Business Analytics",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1019",
+       "name":"Design i zarządzanie projektami",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"578",
+       "name":"Design krajobrazu",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"811",
+       "name":"Design w biznesie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1113",
+       "name":"Diagnostyka molekularna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1266",
+       "name":"Diagnostyka sportowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"571",
+       "name":"Dialog i doradztwo społeczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"94",
+       "name":"Dietetyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"789",
+       "name":"Dietetyka i ekologiczna żywność",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"555",
+       "name":"Digital Design",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"208",
+       "name":"Doradztwo filozoficzne i coaching",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"607",
+       "name":"Doradztwo i coaching",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1009",
+       "name":"Doradztwo kariery i doradztwo personalne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"672",
+       "name":"Doradztwo podatkowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"613",
+       "name":"Doradztwo polityczne i publiczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"728",
+       "name":"Doradztwo w obszarach wiejskich",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"11105",
+       "name":"DUO OTM - Ocena Technologi Medycznych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"738",
+       "name":"Dyplomacja",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"480",
+       "name":"Dyplomacja europejska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1298",
+       "name":"Dyrygentura",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"559",
+       "name":"Dziedzictwo kultury materialnej - ochrona, promocja, gospodarowanie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"816",
+       "name":"Dziennikarstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"84",
+       "name":"Dziennikarstwo i komunikacja społeczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"921",
+       "name":"Dziennikarstwo i kultura mediów",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"689",
+       "name":"Dziennikarstwo i medioznawstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"589",
+       "name":"Dziennikarstwo i nowe media",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"828",
+       "name":"Dziennikarstwo i zarządzanie mediami",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1198",
+       "name":"Dziennikarstwo międzynarodowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"556",
+       "name":"E-Administracja",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"722",
+       "name":"E-biznes",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1226",
+       "name":"Ecology and Evolution",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"11493",
+       "name":"E-commerce",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"770",
+       "name":"Economics and International Business",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1268",
+       "name":"Economics and IT Applications",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"119",
+       "name":"Edukacja artystyczna w zakresie sztuki muzycznej",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"229",
+       "name":"Edukacja artystyczna w zakresie sztuk plastycznych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"805",
+       "name":"Edukacja prorozwojowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"918",
+       "name":"Edukacja przedszkolna i wczesnoszkolna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"107",
+       "name":"Edukacja techniczno-informatyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"289",
+       "name":"Edytorstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"707",
+       "name":"E-edytorstwo i techniki redakcyjne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"766",
+       "name":"E-gospodarka przestrzenna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1175",
+       "name":"Ekobiznes",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"152",
+       "name":"Ekoenergetyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"676",
+       "name":"Ekoinżynieria",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"274",
+       "name":"Ekologiczne Źródła Energii",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1207",
+       "name":"EkoMiasto",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"41",
+       "name":"Ekonomia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"14299",
+       "name":"Ekonomia biznesu i finanse",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"626",
+       "name":"Ekonomia Ekobiznes",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"756",
+       "name":"Ekonomia menedżerska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"831",
+       "name":"Ekonomia społeczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"3259",
+       "name":"Ekonomiczna analiza prawa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"88",
+       "name":"Ekonomiczna analiza prawa - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"186",
+       "name":"Ekonomiczno-prawny",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"833",
+       "name":"Ekonomika i organizacja przedsiębiorstw",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"248",
+       "name":"Ekonomika obronności",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1046",
+       "name":"Electronic and computer engineering",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"328",
+       "name":"Elektroniczne przetwarzanie informacji",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"256",
+       "name":"Elektronika",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"10",
+       "name":"Elektronika i telekomunikacja",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"368",
+       "name":"Elektroradiologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"188",
+       "name":"Elektroradiologia - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"110",
+       "name":"Elektrotechnika",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"11",
+       "name":"Energetyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"184",
+       "name":"Energetyka i chemia jądrowa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1214",
+       "name":"Energetyka odnawialna i zarządzanie energią",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"15846",
+       "name":"Energetyka przemysłowa i odnawialna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"538",
+       "name":"English in Public Communication",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"204",
+       "name":"English Philology",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"10015",
+       "name":"English Philology – Teacher Training Programme",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"519",
+       "name":"Etnofilologia kaszubska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"240",
+       "name":"Etnologia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"395",
+       "name":"Etnologia - antropologia kulturowa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"464",
+       "name":"Etnologia i antropologia kulturowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"214",
+       "name":"Etyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"654",
+       "name":"Etyka - mediacje i negocjacje",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1168",
+       "name":"European and International Business Law",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"622",
+       "name":"European Business Administration",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1217",
+       "name":"European Studies",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"25",
+       "name":"Europeistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1179",
+       "name":"Europeistyka - integracja europejska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"424",
+       "name":"Europeistyka - studia europejskie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"461",
+       "name":"Europeistyka w zakresie europejskich procesów integracyjnych",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"462",
+       "name":"Europeistyka w zakresie realizacji polityk Unii Europejskiej",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1183",
+       "name":"Europejskie studia optyki okularowej i optometrii",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13860",
+       "name":"Executive Master of Business Administration",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"164",
+       "name":"Farmacja",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"600",
+       "name":"Film i multimedia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1200",
+       "name":"Filmoznawstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"377",
+       "name":"Filmoznawstwo i kultura mediów",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"503",
+       "name":"Filmoznawstwo i wiedza o nowych mediach",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"26",
+       "name":"Filologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"37",
+       "name":"Filologia; specjalizacja: amerykanistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"220",
+       "name":"Filologia; specjalizacja: angielska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"493",
+       "name":"Filologia; specjalizacja: Angielska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"855",
+       "name":"Filologia; specjalizacja: angielska, rosyjska, germańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"478",
+       "name":"Filologia; specjalizacja: angielski",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"440",
+       "name":"Filologia; specjalizacja: angielski język biznesu",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"442",
+       "name":"Filologia; specjalizacja: Angielski Język Biznesu",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"481",
+       "name":"Filologia; specjalizacja: angielski rosyjski niemiecki",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"857",
+       "name":"Filologia; specjalizacja: angielsko-rosyjska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"259",
+       "name":"Filologia; specjalizacja: anglistyka, j. angielski w biznesie z translatoryką, fil. angielska z uprawnieniami nauczycielskimi",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"190",
+       "name":"Filologia; specjalizacja: arabistyka, litewska, łotewska, duńska, germańska, hiszpańska, koreańska, nowogrecka, romańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"694",
+       "name":"Filologia; specjalizacja: Asystent językowy w biznesie (j.angielski)",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"225",
+       "name":"Filologia; specjalizacja: bułgarska, chorwacka, klasyczna, serbska, słowiańska i polska, czeska, studia śródziemnomorskie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"227",
+       "name":"Filologia; specjalizacja: bułgarska, chorwacka, klasyczna, serbska, słowiańska i polska, studia śródziemnomorskie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"746",
+       "name":"Filologia; specjalizacja: dalekowschodnia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"824",
+       "name":"Filologia; specjalizacja: etnolingwistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"133",
+       "name":"Filologia; specjalizacja: filologia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"602",
+       "name":"Filologia; specjalizacja: Filologia (filologia angielska)",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"603",
+       "name":"Filologia; specjalizacja: Filologia (filologia germańska)",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"604",
+       "name":"Filologia; specjalizacja: Filologia (filologia hiszpańska)",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"605",
+       "name":"Filologia; specjalizacja: Filologia (filologia włoska)",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"27",
+       "name":"Filologia; specjalizacja: filologia angielska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"114",
+       "name":"Filologia; specjalizacja: Filologia angielska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"347",
+       "name":"Filologia; specjalizacja: FILOLOGIA ANGIELSKA",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"488",
+       "name":"Filologia; specjalizacja: filologia angielska, filologia germańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"858",
+       "name":"Filologia; specjalizacja: filologia angielska, filologia germańska, filologia romańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"494",
+       "name":"Filologia; specjalizacja: Filologia angielska, Filologia germańska, Język i kultura Rosji, Dwujęzykowe studia dla tłumaczy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"420",
+       "name":"Filologia; specjalizacja: filologia angielska - translatoryka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"827",
+       "name":"Filologia; specjalizacja: filologia angielska z elementami translatoryki",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"429",
+       "name":"Filologia; specjalizacja: filologia angielska z technolgią informacyjną",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"132",
+       "name":"Filologia; specjalizacja: filologia angielska z technologią informacyjną",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"407",
+       "name":"Filologia; specjalizacja: filologia angielsko- rosyjska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"54",
+       "name":"Filologia; specjalizacja: filologia bałkańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"483",
+       "name":"Filologia; specjalizacja: filologia czeska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1391",
+       "name":"Filologia; specjalizacja: Filologia czeska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"143",
+       "name":"Filologia; specjalizacja: filologia francuska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"28",
+       "name":"Filologia; specjalizacja: filologia germańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"402",
+       "name":"Filologia; specjalizacja: Filologia germańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"759",
+       "name":"Filologia; specjalizacja: filologia germańska z dodatkowym językiem obcym",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"606",
+       "name":"Filologia; specjalizacja: Filologia germańska z językiem angielskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"102",
+       "name":"Filologia; specjalizacja: filologia hiszpańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"451",
+       "name":"Filologia; specjalizacja: Filologia hiszpańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"30",
+       "name":"Filologia; specjalizacja: filologia iberyjska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"403",
+       "name":"Filologia; specjalizacja: Filologia iberyjska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"145",
+       "name":"Filologia; specjalizacja: filologia indyjska i kultura Indii",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"141",
+       "name":"Filologia; specjalizacja: filologia japońska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"144",
+       "name":"Filologia; specjalizacja: filologia klasyczna i kultura śródziemnomorska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"716",
+       "name":"Filologia; specjalizacja: filologia klasyczna i studia śródziemnomorskie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1364",
+       "name":"Filologia; specjalizacja: filologia koreańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"51",
+       "name":"Filologia; specjalizacja: filologia niderlandzka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"358",
+       "name":"Filologia; specjalizacja: filologia niemiecka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"140",
+       "name":"Filologia; specjalizacja: filologia obca",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"815",
+       "name":"Filologia; specjalizacja: Filologia obca",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"29",
+       "name":"Filologia; specjalizacja: filologia romańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"404",
+       "name":"Filologia; specjalizacja: Filologia romańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"445",
+       "name":"Filologia; specjalizacja: filologia romańska od podstaw",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"821",
+       "name":"Filologia; specjalizacja: filologia romańska z językiem angielskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"645",
+       "name":"Filologia; specjalizacja: Filologia romańska z językiem obcym do wyboru",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"822",
+       "name":"Filologia; specjalizacja: filologia romańska z językiem rosyjskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"34",
+       "name":"Filologia; specjalizacja: filologia romańska z językiem włoskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"31",
+       "name":"Filologia; specjalizacja: filologia rosyjska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"405",
+       "name":"Filologia; specjalizacja: Filologia rosyjska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1340",
+       "name":"Filologia; specjalizacja: filologia rosyjska bez znajmości języka rosyjskiego",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"449",
+       "name":"Filologia; specjalizacja: filologia rosyjska - komunikacja językowa w sferze biznesu",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"446",
+       "name":"Filologia; specjalizacja: filologia rosyjska od podstaw",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"786",
+       "name":"Filologia; specjalizacja: filologia rosyjska - przekładoznawstwo",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"495",
+       "name":"Filologia; specjalizacja: filologia rosyjska z językiem angielskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"837",
+       "name":"Filologia; specjalizacja: filologia rosyjska z językiem francuskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"146",
+       "name":"Filologia; specjalizacja: filologia serbska i chorwacka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"443",
+       "name":"Filologia; specjalizacja: filologia - sinologia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"39",
+       "name":"Filologia; specjalizacja: filologia skandynawska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"491",
+       "name":"Filologia; specjalizacja: Filologia skandynawska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"52",
+       "name":"Filologia; specjalizacja: filologia słowiańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"427",
+       "name":"Filologia; specjalizacja: filologia specjalność nauczycielska w zakresie języka angielskiego",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"434",
+       "name":"Filologia; specjalizacja: filologia specjalność nauczycielska w zakresie języka rosyjskiego",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1389",
+       "name":"Filologia; specjalizacja: filologia szwedzka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"484",
+       "name":"Filologia; specjalizacja: filologia ukraińska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"55",
+       "name":"Filologia; specjalizacja: filologia włoska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"664",
+       "name":"Filologia; specjalizacja: germanische philologie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"260",
+       "name":"Filologia; specjalizacja: germanistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"591",
+       "name":"Filologia; specjalizacja: germanistyka bez znajomości języka niemieckiego",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"590",
+       "name":"Filologia; specjalizacja: germanistyka ze znajomością języka niemieckiego",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"486",
+       "name":"Filologia; specjalizacja: germańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"253",
+       "name":"Filologia; specjalizacja: hiszpańska, romańska, włoska, rosyjska, germańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"129",
+       "name":"Filologia; specjalizacja: iberystyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"758",
+       "name":"Filologia; specjalizacja: Iberystyka - studia hiszpańskie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"130",
+       "name":"Filologia; specjalizacja: italianistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"492",
+       "name":"Filologia; specjalizacja: Italianistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"417",
+       "name":"Filologia; specjalizacja: japonistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1392",
+       "name":"Filologia; specjalizacja: Jezyk niemiecki",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"497",
+       "name":"Filologia; specjalizacja: jezyk rosyjski",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"419",
+       "name":"Filologia; specjalizacja: język",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"191",
+       "name":"Filologia; specjalizacja: język angielski",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"334",
+       "name":"Filologia; specjalizacja: Język angielski",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"359",
+       "name":"Filologia; specjalizacja: Język Angielski",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"856",
+       "name":"Filologia; specjalizacja: język angielski język niemiecki",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"414",
+       "name":"Filologia; specjalizacja: język angielski stosowany, z hiszpańskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"667",
+       "name":"Filologia; specjalizacja: język angielski stosowany z językiem rosyjskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1388",
+       "name":"Filologia; specjalizacja: język angielski - translatoryka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"782",
+       "name":"Filologia; specjalizacja: Język angielski w turystyce i biznesie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"448",
+       "name":"Filologia; specjalizacja: język biznesu",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"109",
+       "name":"Filologia; specjalizacja: język biznesu angielski",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"176",
+       "name":"Filologia; specjalizacja: język francuski",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"490",
+       "name":"Filologia; specjalizacja: Język francuski",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"668",
+       "name":"Filologia; specjalizacja: język francuski (od podstaw) z angielskim - profil tłumaczeniowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"450",
+       "name":"Filologia; specjalizacja: język francuski stosowany, z hiszpańskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"412",
+       "name":"Filologia; specjalizacja: język francuski z programem tłumaczenia specjalistycznego i wspomaganego komputerowo",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"409",
+       "name":"Filologia; specjalizacja: język francuski z programem tłumaczeniowym",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"178",
+       "name":"Filologia; specjalizacja: język hiszpański",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1386",
+       "name":"Filologia; specjalizacja: Język hiszpański",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"321",
+       "name":"Filologia; specjalizacja: język hiszpański z programem tłumaczeniowym",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"447",
+       "name":"Filologia; specjalizacja: języki obce w turystyce",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"175",
+       "name":"Filologia; specjalizacja: języki stosowane",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"320",
+       "name":"Filologia; specjalizacja: języki stosowane: język francuski i język angielski z progr. tłumaczeniowym z językiem biznesu",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"408",
+       "name":"Filologia; specjalizacja: języki stosowane: język francuski i język angielski z programem tłumaczeniowym",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1390",
+       "name":"Filologia; specjalizacja: języki stosowane: język rosyjski z językiem angielskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"612",
+       "name":"Filologia; specjalizacja: języki stosowane: język włoski i język angielski z programem tłumaczeniowym",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"192",
+       "name":"Filologia; specjalizacja: język niemiecki",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1385",
+       "name":"Filologia; specjalizacja: Język niemiecki",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"179",
+       "name":"Filologia; specjalizacja: język rosyjski",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"103",
+       "name":"Filologia; specjalizacja: Język Rosyjski",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"411",
+       "name":"Filologia; specjalizacja: język rosyjski - program tłumaczeniowy, język rosyjski - program język biznesu",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"177",
+       "name":"Filologia; specjalizacja: język włoski",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"489",
+       "name":"Filologia; specjalizacja: Język włoski",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"410",
+       "name":"Filologia; specjalizacja: język włoski z programem tłumaczeniowym",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1336",
+       "name":"Filologia; specjalizacja: judaistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"825",
+       "name":"Filologia; specjalizacja: komunikacja wizerunkowo-mediacyjna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"38",
+       "name":"Filologia; specjalizacja: lingwistyka stosowana",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"418",
+       "name":"Filologia; specjalizacja: lingwistyka stosowana: język francuski z językiem arabskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"456",
+       "name":"Filologia; specjalizacja: lingwistyka stosowana: język włoski z językiem hiszpańskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"512",
+       "name":"Filologia; specjalizacja: lingwistyka stosowana (język francuski z językiem hiszpańskim)",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"452",
+       "name":"Filologia; specjalizacja: lingwistyka stosowana - angielski z arabskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"453",
+       "name":"Filologia; specjalizacja: lingwistyka stosowana - angielski z niemieckim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"592",
+       "name":"Filologia; specjalizacja: lingwistyka stosowana angielski z niemieckim bez znajomości języka niemieckiego",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"454",
+       "name":"Filologia; specjalizacja: lingwistyka stosowana - angielski z rosyjskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"428",
+       "name":"Filologia; specjalizacja: Nauczyciel języka obcego",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"506",
+       "name":"Filologia; specjalizacja: nauczycielska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"814",
+       "name":"Filologia; specjalizacja: nauczycielska w zakresie języka angielskiego",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"98",
+       "name":"Filologia; specjalizacja: niderlandystyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"181",
+       "name":"Filologia; specjalizacja: nie określono specjalności",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"719",
+       "name":"Filologia; specjalizacja: philologie romane",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"487",
+       "name":"Filologia; specjalizacja: rosyjska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"252",
+       "name":"Filologia; specjalizacja: rosyjska, hiszpańska, japonistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"142",
+       "name":"Filologia; specjalizacja: sinologia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"826",
+       "name":"Filologia; specjalizacja: skandynawistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"646",
+       "name":"Filologia; specjalizacja: Skandynawistyka - studia norweskie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"40",
+       "name":"Filologia; specjalizacja: slawistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"527",
+       "name":"Filologia; specjalizacja: specjalność nauczycielska w zakresie języka niemieckiego",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"776",
+       "name":"Filologia; specjalizacja: translatoryka stosowana",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1355",
+       "name":"Filologia; specjalizacja: ukrainistyka z anglistyką",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"206",
+       "name":"Filologia angielska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"174",
+       "name":"Filologia angielska; specjalizacja: filologia angielska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1393",
+       "name":"Filologia angielska; specjalizacja: Filologia angielska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"170",
+       "name":"Filologia angielska; specjalizacja: filologia germańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"171",
+       "name":"Filologia angielska; specjalizacja: filologia romańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"172",
+       "name":"Filologia angielska; specjalizacja: filologia włoska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"173",
+       "name":"Filologia angielska; specjalizacja: hungarystyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"335",
+       "name":"Filologia angielska - k. unikatowy (UAM)",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"12802",
+       "name":"Filologia angielska z językiem niemieckim",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"798",
+       "name":"Filologia angielska z pedagogiką",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"383",
+       "name":"Filologia bałtycka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"12803",
+       "name":"Filologia francuska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"209",
+       "name":"Filologia germańska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12806",
+       "name":"Filologia hiszpańska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12731",
+       "name":"Filologia hiszpańska z amerykanistyką filologiczną",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"387",
+       "name":"Filologia iberyjska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"314",
+       "name":"Filologia klasyczna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"984",
+       "name":"Filologia niderlandzka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12807",
+       "name":"Filologia orientalna – arabistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12809",
+       "name":"Filologia orientalna – japonistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12810",
+       "name":"Filologia orientalna – sinologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"228",
+       "name":"Filologia polska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12816",
+       "name":"Filologia polska nauczycielska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12525",
+       "name":"Filologia polskiego języka migowego",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12812",
+       "name":"Filologia portugalska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"250",
+       "name":"Filologia romańska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"360",
+       "name":"Filologia rosyjska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"795",
+       "name":"Filologia - sinologia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"201",
+       "name":"Filologia słowiańska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12944",
+       "name":"Filologia szwedzka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"381",
+       "name":"Filologia ugrofińska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"388",
+       "name":"Filologia włoska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"11487",
+       "name":"Filologia wschodniosłowiańska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"981",
+       "name":"Filologia z logopedią nauczycielska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"230",
+       "name":"Filologiczno-historyczne studia środkowoeuropejskie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"195",
+       "name":"Filozofia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"779",
+       "name":"Filozofia i etyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"684",
+       "name":"Finance",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1096",
+       "name":"Financial Engineering",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"22583",
+       "name":"Finanse, audyt, inwestycje",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"465",
+       "name":"Finanse, inwestycje i rachunkowość",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"650",
+       "name":"Finanse, rachunkowość i podatki",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"477",
+       "name":"Finanse, rachunkowość i ubezpieczenia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12963",
+       "name":"Finanse i biznes międzynarodowy",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12845",
+       "name":"Finanse i controlling",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"297",
+       "name":"Finanse i inwestycje",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"44",
+       "name":"Finanse i rachunkowość",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"378",
+       "name":"Finanse i rachunkowość biznesu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"3891",
+       "name":"Finanse i zarządzanie w ochronie zdrowia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"389",
+       "name":"Finanse i zarządzanie w ochronie zdrowia - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"836",
+       "name":"Finanse i zarządzanie w przedsiębiorstwie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"702",
+       "name":"Finanse menedżerskie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1199",
+       "name":"Finanse międzynarodowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"909",
+       "name":"Finanse z elementami matematyki",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"812",
+       "name":"Finansowo-prawny",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"86",
+       "name":"Fizjoterapia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"235",
+       "name":"Fizyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"236",
+       "name":"Fizyka medyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"327",
+       "name":"Fizyka medyczna - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"24",
+       "name":"Fizyka techniczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"579",
+       "name":"Fotografia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"306",
+       "name":"Fotonika",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1122",
+       "name":"Games studies",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1265",
+       "name":"Gastronomia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"547",
+       "name":"Gastronomia i hotelarstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"922",
+       "name":"Gastronomia i sztuka kulinarna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"425",
+       "name":"Gastronomia - sztuka kulinarna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"298",
+       "name":"Genetyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"658",
+       "name":"Genetyka i biologia eksperymentalna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"15",
+       "name":"Geodezja i kartografia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"373",
+       "name":"Geofizyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"332",
+       "name":"Geofizyka - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"243",
+       "name":"Geografia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13250",
+       "name":"Geografia fizyczna z geoinformacją",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13251",
+       "name":"Geografia społeczno-ekonomiczna z elementami GIS",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"216",
+       "name":"Geoinformacja",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"509",
+       "name":"Geoinformacja środowiskowa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"551",
+       "name":"Geoinformatyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"244",
+       "name":"Geologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"914",
+       "name":"Geologia inżynierska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"379",
+       "name":"Geologia poszukiwawcza",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"380",
+       "name":"Geologia stosowana",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"299",
+       "name":"Geomonitoring",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"202",
+       "name":"Germanische Philologie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"203",
+       "name":"Germanistik",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"10019",
+       "name":"Germanistik-Lehramt",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"466",
+       "name":"Germanistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1272",
+       "name":"Global Communication",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"723",
+       "name":"Globalny biznes, finanse i zarządzanie (governance)",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"10106",
+       "name":"Gospodarka i administracja publiczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"222",
+       "name":"Gospodarka i administracja publiczna - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"400",
+       "name":"Gospodarka i zarządzanie publiczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"532",
+       "name":"Gospodarka nieruchomościami",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"255",
+       "name":"Gospodarka odpadami i rekultywacja terenów zdegradowanych",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"17",
+       "name":"Gospodarka przestrzenna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13785",
+       "name":"Gospodarka przestrzenna i geozarządzanie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"401",
+       "name":"Gospodarka turystyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"77",
+       "name":"Gospodarka turystyczna - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"647",
+       "name":"Gospodarka w ekosystemach rolnych i leśnych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"245",
+       "name":"Gospodarka wodna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"621",
+       "name":"Gospodarka wodna i ochrona zasobów wód",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"116",
+       "name":"Górnictwo i geologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"460",
+       "name":"Graduate Programme in International Relations",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"687",
+       "name":"Graduate Programme in Teaching English to Young Learners",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"115",
+       "name":"Grafika",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"793",
+       "name":"Grafika komputerowa i produkcja multimedialna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"644",
+       "name":"Grafika reklamowa i multimedia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"413",
+       "name":"Gry i grafika interaktywna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"364",
+       "name":"Handel międzynarodowy",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12538",
+       "name":"Helwetologia- studia szwajcarskie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"741",
+       "name":"Higiena stomatologiczna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"198",
+       "name":"Hipologia i jeździectwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1011",
+       "name":"Hispanistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"127",
+       "name":"Historia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"688",
+       "name":"Historia i kultura Żydów",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"196",
+       "name":"Historia sztuki",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"218",
+       "name":"Hodowla i ochrona zwierząt towarzyszących i dzikich",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"737",
+       "name":"Hortiterapia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"838",
+       "name":"Humanistyka cyfrowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"596",
+       "name":"Humanistyka drugiej generacji",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"700",
+       "name":"Humanistyka w szkole - polonistyczno-historyczne studia nauczycielskie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"807",
+       "name":"Humanitarian Action",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"9879",
+       "name":"Human resources i coaching",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"438",
+       "name":"Iberystyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"560",
+       "name":"Indywidualne studia informatyczno-matematyczne",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"661",
+       "name":"Infobrokerstwo, zarządzanie dokumentacją i archiwistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"285",
+       "name":"Informacja naukowa i bibliotekoznawstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"355",
+       "name":"Informacja w e-społeczeństwie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"611",
+       "name":"Informacja w instytucjach e-społeczeństwa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"771",
+       "name":"Informacja w środowisku cyfrowym",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1203",
+       "name":"Informatologia z biznesowym językiem angielskim",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"843",
+       "name":"Informatyczne techniki zarządzania",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"8",
+       "name":"Informatyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"11412",
+       "name":"Informatyka algorytmiczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"286",
+       "name":"Informatyka analityczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13362",
+       "name":"Informatyka gier komputerowych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"416",
+       "name":"Informatyka i agroinżynieria",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"118",
+       "name":"Informatyka i ekonometria",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"366",
+       "name":"Informatyka i Systemy Informacyjne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"713",
+       "name":"Informatyka przemysłowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1215",
+       "name":"Informatyka społeczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"346",
+       "name":"Informatyka stosowana",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"365",
+       "name":"Informatyka Stosowana",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1153",
+       "name":"Informatyka stosowana i systemy pomiarowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"223",
+       "name":"Informatyka stosowana - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"11434",
+       "name":"Informatyka techniczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"813",
+       "name":"Informatyka w biznesie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"675",
+       "name":"Informatyka w biznesie i administracji",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"473",
+       "name":"Informatyka w biznesie - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"655",
+       "name":"Informatyka w medycynie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13399",
+       "name":"Infotronika",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1097",
+       "name":"Innovation Management",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1088",
+       "name":"Innowacje w biznesie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"711",
+       "name":"Innowacyjna gospodarka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"927",
+       "name":"Innowacyjne technologie i nowoczesne materiały",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"696",
+       "name":"Innowacyjność i zarządzanie sferą publiczną",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1139",
+       "name":"Inspekcja weterynaryjna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"120",
+       "name":"Instrumentalistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1218",
+       "name":"Intellectual Property and New Technologies",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12383",
+       "name":"Interdyscyplinarne studia strategiczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"939",
+       "name":"Intermedia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"345",
+       "name":"Intermedia - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1109",
+       "name":"International and Political Studies",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"200",
+       "name":"International Business",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"384",
+       "name":"International Business Program",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1110",
+       "name":"International Marketing",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1243",
+       "name":"International Relations",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"553",
+       "name":"International Relations and Area Studies",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1219",
+       "name":"International Security and Development",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"780",
+       "name":"Inwestycje i nieruchomości",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"341",
+       "name":"Inżynieria akustyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"22",
+       "name":"Inżynieria bezpieczeństwa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"790",
+       "name":"Inżynieria bezpieczeństwa i higiena pracy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1279",
+       "name":"Inżynieria bezpieczeństwa pracy",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"265",
+       "name":"Inżynieria bezpieczeństwa pracy - k. unikatowy",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"271",
+       "name":"Inżynieria biochemiczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"21",
+       "name":"Inżynieria biomedyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1036",
+       "name":"Inżynieria Biomedyczna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"705",
+       "name":"Inżynieria biotworzyw",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"147",
+       "name":"Inżynieria chemiczna i procesowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"680",
+       "name":"Inżynieria ciepła",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"542",
+       "name":"Inżynieria cyfryzacji",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"535",
+       "name":"Inżynieria danych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"219",
+       "name":"Inżynieria ekologiczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"963",
+       "name":"Inżynieria geologiczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"14016",
+       "name":"Inżynieria górnicza",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1055",
+       "name":"Inżynieria i analiza danych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12604",
+       "name":"Inżynieria i Analiza Danych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"965",
+       "name":"Inżynieria i automatyzacja w przemyśle drzewnym",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"540",
+       "name":"Inżynieria i gospodarka wodna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"340",
+       "name":"Inżynieria i gospodarka wodna - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"14022",
+       "name":"Inżynieria i monitoring środowiska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1141",
+       "name":"Inżynieria informacji",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"14028",
+       "name":"Inżynieria i ochrona środowiska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"14032",
+       "name":"Inżynieria i zarządzanie procesami przemysłowymi",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1031",
+       "name":"Inżynieria kosmiczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1157",
+       "name":"Inżynieria kosmiczna i satelitarna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"14027",
+       "name":"Inżynieria kształtowania środowiska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1047",
+       "name":"Inżynieria kwantowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"58",
+       "name":"Inżynieria materiałowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"595",
+       "name":"Inżynieria mechaniczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"2475",
+       "name":"Inżynieria mechaniczna dla przemysłu lotniczego",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"372",
+       "name":"Inżynieria Mechaniczna i Materiałowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"4301",
+       "name":"Inżynieria mechaniczno-medyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"430",
+       "name":"Inżynieria mechaniczno-medyczna - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"482",
+       "name":"Inżynieria mechatroniczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"637",
+       "name":"Inżynieria medyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"14020",
+       "name":"Inżynieria metali nieżelaznych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"11435",
+       "name":"Inżynieria mikrosystemów mechatronicznych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"14434",
+       "name":"Inżynieria morska i brzegowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"376",
+       "name":"Inżynieria naftowa i gazownicza",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"185",
+       "name":"Inżynieria nanostruktur",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"697",
+       "name":"Inżynieria nowoczesnych materiałów",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"371",
+       "name":"Inżynieria obliczeniowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"278",
+       "name":"Inżynieria odnawialnych źródeł energii",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"809",
+       "name":"Inżynieria organizacji i zarządzania",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"566",
+       "name":"Inżynieria Pojazdów Elektrycznych i Hybrydowych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"629",
+       "name":"Inżynieria precyzyjna w produkcji rolno-spożywczej",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"505",
+       "name":"Inżynieria procesowa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1042",
+       "name":"Inżynieria procesowa i aparatura przemysłowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"485",
+       "name":"Inżynieria Procesów Odlewniczych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"263",
+       "name":"Inżynieria produkcji",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"14042",
+       "name":"Inżynieria produkcji i jakości",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"617",
+       "name":"Inżynieria przemysłu spożywczego",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"704",
+       "name":"Inżynieria rolnicza",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"923",
+       "name":"Inżynieria rolnicza i leśna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"6791",
+       "name":"Inżynieria rolno-spożywcza",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"679",
+       "name":"Inżynieria rolno-spożywcza i leśna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"3501",
+       "name":"Inżynieria systemów",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"557",
+       "name":"Inżynieria systemów bezpieczeństwa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1058",
+       "name":"Inżynieria systemów biotechnicznych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"35",
+       "name":"Inżynieria systemów - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"15940",
+       "name":"Inżynieria środków transportu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"75",
+       "name":"Inżynieria środowiska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"501",
+       "name":"Inżynieria techniczno-informatyczna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"929",
+       "name":"Inżynieria testowa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"6991",
+       "name":"Inżynieria transportu",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"699",
+       "name":"Inżynieria transportu i logistyki",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"588",
+       "name":"Inżynieria wzornictwa przemysłowego",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1135",
+       "name":"Inżynieria zagrożeń środowiskowych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"367",
+       "name":"Inżynieria zarządzania",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"392",
+       "name":"Italianistyka z elementami studiów nad chrześcijaństwem",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"842",
+       "name":"Jakość i bezpieczeństwo środowiska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1128",
+       "name":"Jakość i bezpieczeństwo żywności",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"724",
+       "name":"Jakość i Bezpieczeństwo Żywności",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"10213",
+       "name":"Japonistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"126",
+       "name":"Jazz i muzyka estradowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"880",
+       "name":"Jazz i muzyka rozrywkowa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1245",
+       "name":"Język angielski w biznesie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"995",
+       "name":"Język biznesu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"10107",
+       "name":"Języki obce w mediach i biznesie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"996",
+       "name":"Języki obce w sektorze usług",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"784",
+       "name":"Język i społeczeństwo: interdyscyplinarne studia nad dyskursem",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1073",
+       "name":"Język niemiecki i komunikacja w biznesie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"744",
+       "name":"Język obcy w biznesie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"642",
+       "name":"Język polski w komunikacji społecznej",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12948",
+       "name":"Język rosyjski w tłumaczeniach specjalistycznych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"329",
+       "name":"Judaistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13808",
+       "name":"Kartografia i geomatyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"806",
+       "name":"Kierunek administracyjno-ekonomiczny",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"160",
+       "name":"Kierunek lekarski",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"161",
+       "name":"Kierunek lekarsko-dentystyczny",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"575",
+       "name":"Kierunek prawno-ekonomiczny",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"315",
+       "name":"Kognitywistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"791",
+       "name":"Kognitywistyka i komunikacja",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"226",
+       "name":"Kognitywistyka - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"530",
+       "name":"Kognitywistyka komunikacji",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"673",
+       "name":"Kompozycja, dyrygentura i teoria muzyki",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"272",
+       "name":"Kompozycja i teoria muzyki",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"277",
+       "name":"Komputerowe Wspomaganie Procesów Inżynierskich",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"640",
+       "name":"Komunikacja biznesowa w języku rosyjskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"570",
+       "name":"Komunikacja europejska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"231",
+       "name":"Komunikacja europejska - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"748",
+       "name":"Komunikacja i media",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"750",
+       "name":"Komunikacja i psychologia w biznesie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"211",
+       "name":"Komunikacja promocyjna i kryzysowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"213",
+       "name":"Komunikacja wizerunkowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"874",
+       "name":"Konserwacja i degradacja materiałów",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"124",
+       "name":"Konserwacja i restauracja dzieł sztuki",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"14184",
+       "name":"Konstrukcja i eksploatacja środków transportu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"886",
+       "name":"Konsulting prawny i gospodarczy",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"906",
+       "name":"Koordynowana opieka senioralna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1023",
+       "name":"Korozja",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"85",
+       "name":"Kosmetologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"350",
+       "name":"Krajoznawstwo i Turystyka Historyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"852",
+       "name":"Krajoznawstwo i turystyka historyczna - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"290",
+       "name":"Krajoznawstwo i turystyka kulturowa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"657",
+       "name":"Kreatywność społeczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1180",
+       "name":"Kryminalistyka i nauki sądowe",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"16999",
+       "name":"Kryminalistyka i nauki sądowe w zakresie biologia i genetyka sądowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"17001",
+       "name":"Kryminalistyka i nauki sądowe w zakresie kryminalistyka ogólna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"916",
+       "name":"Kryminalistyka i systemy bezpieczeństwa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"474",
+       "name":"Kryminologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"763",
+       "name":"Kryminologia stosowana",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"656",
+       "name":"Kryptologia i cyberbezpieczeństwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12820",
+       "name":"Krytyka literacka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"783",
+       "name":"Kultura fizyczna osób starszych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"561",
+       "name":"Kultura i praktyka tekstu: twórcze pisanie i edytorstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"53",
+       "name":"Kulturoznawstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"847",
+       "name":"Kulturoznawstwo Europy Środkowo -Wschodniej",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"12969",
+       "name":"Kulturoznawstwo Europy Środkowo - Wschodniej",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"215",
+       "name":"Kulturoznawstwo i wiedza o mediach",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"439",
+       "name":"Kulturoznawstwo - wiedza o kulturze",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"515",
+       "name":"Kultury mediów",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1162",
+       "name":"Kynologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1221",
+       "name":"Latynoamerykanistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"76",
+       "name":"Leśnictwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"545",
+       "name":"Lingwistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"581",
+       "name":"Lingwistyka dla biznesu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1273",
+       "name":"Lingwistyka dla biznesu - tłumaczenia rosyjsko-polsko-niemieckie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"761",
+       "name":"Lingwistyka praktyczna i copywriting",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"317",
+       "name":"Lingwistyka stosowana",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"406",
+       "name":"Lingwistyka stosowana - k. unikatowy (UMCS)",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"169",
+       "name":"Lingwistyka stosowana - translatoryka - glottodydaktyka; specjalizacja: dwujęzykowe studia dla tłumaczy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"848",
+       "name":"Lingwistyka stosowana - translatoryka - glottodydaktyka; specjalizacja: filologia rosyjska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"168",
+       "name":"Lingwistyka stosowana - translatoryka - glottodydaktyka; specjalizacja: filologia ukraińska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1146",
+       "name":"Lingwistyka w biznesie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"740",
+       "name":"Literatura popularna i kreacja światów gier",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"562",
+       "name":"LL.B. International and European Law",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"752",
+       "name":"LL.M. International and European Law",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"16",
+       "name":"Logistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"458",
+       "name":"Logistyka i administrowanie w mediach",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"36381",
+       "name":"Logistyka inżynierska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"457",
+       "name":"Logistyka mediów",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1089",
+       "name":"Logistyka międzynarodowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13242",
+       "name":"Logistyka w biznesie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12966",
+       "name":"Logistyka w gospodarce",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"264",
+       "name":"Logopedia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"850",
+       "name":"Logopedia - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"717",
+       "name":"Logopedia ogólna i kliniczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"159",
+       "name":"Logopedia ogólna i kliniczna - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1189",
+       "name":"Logopedia z audiologią",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"300",
+       "name":"Logopedia z audiologią - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"3221",
+       "name":"Logopedia z fonoaudiologią",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"322",
+       "name":"Logopedia z fonoaudiologią - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1124",
+       "name":"Logopedia z językiem polskim nauczycielska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"246",
+       "name":"Lotnictwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"64",
+       "name":"Lotnictwo i Kosmonautyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"326",
+       "name":"Makrokierunek - automatyka i robot.,elektronika i telekom., informatyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"851",
+       "name":"Makrokierunek - bioinformatyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"288",
+       "name":"Makrokierunek - informatyka przemysłowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"337",
+       "name":"Makrokierunek - informatyka stosowana z komputerową nauką o materiałach",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"89",
+       "name":"Makrokierunek - International Business",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"269",
+       "name":"Makrokierunek - nanotechnologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"338",
+       "name":"Makrokierunek - nanotechnologia i technologie procesów mat.",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"254",
+       "name":"Makrokierunek - nanotechnologie i nanomateriały",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"853",
+       "name":"Makrokierunek - przyroda",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"849",
+       "name":"Makrokierunek - rosjoznawstwo",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"325",
+       "name":"Makrokierunek - technologia i inżynieria chemiczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"121",
+       "name":"Malarstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"624",
+       "name":"Management and Finance",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"760",
+       "name":"Management instytucji publicznych i Public Relations",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"301",
+       "name":"Marketing",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1211",
+       "name":"Marketing i biznes elektroniczny",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"651",
+       "name":"Marketing i komunikacja rynkowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12858",
+       "name":"Marketing i logistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"718",
+       "name":"Marketing internetowy",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1246",
+       "name":"Marketing i sprzedaż",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1126",
+       "name":"Master of Liberal Arts",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"155",
+       "name":"Matematyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"351",
+       "name":"Matematyka i finanse",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1043",
+       "name":"Matematyka i Statystyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"205",
+       "name":"Matematyka komputerowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"257",
+       "name":"Matematyka stosowana",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1241",
+       "name":"Matematyka w finansach",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1038",
+       "name":"Matematyka w technice",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"14088",
+       "name":"Materiały i Technologie Metali Nieżelaznych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"421",
+       "name":"Materiały współczesnych technologii",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"682",
+       "name":"Meblarstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"279",
+       "name":"Mechaniczna inżynieria tworzyw",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"6",
+       "name":"Mechanika i budowa maszyn",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"11396",
+       "name":"Mechanika i budowa maszyn energetycznych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1258",
+       "name":"Mechanika i Projektowanie Maszyn",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1261",
+       "name":"Mechanika Pojazdów i Maszyn Roboczych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12",
+       "name":"Mechatronika",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1017",
+       "name":"Mechatronika/mechatronics",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1251",
+       "name":"Mechatronika pojazdów",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"912",
+       "name":"Mechatronika Pojazdów i Maszyn Roboczych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"316",
+       "name":"Mediacja międzykulturowa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"342",
+       "name":"Mediacja Sztuki",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1161",
+       "name":"Media cyfrowe i komunikacja wizerunkowa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1006",
+       "name":"Media design i marketing wizerunkowy",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"534",
+       "name":"Media i cywilizacja",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"348",
+       "name":"Media interaktywne i widowiska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"982",
+       "name":"Media kreatywne: game desing, animacja, efekty specjalne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"9880",
+       "name":"Media Kreatywne: projektowanie gier i animacji",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12847",
+       "name":"Media społecznościowe w zarządzaniu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"755",
+       "name":"Medioznawstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"593",
+       "name":"Mediteranistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"415",
+       "name":"Mediteranistyka - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"207",
+       "name":"Medycyna roślin",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"584",
+       "name":"Menadżer produkcji i przetwórstwa mięsa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1064",
+       "name":"Menedżerski",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1054",
+       "name":"Menedżerskie studia ekonomiczno-prawne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"720",
+       "name":"Menedżersko-prawny",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1028",
+       "name":"Menedżer żywności i żywienia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"444",
+       "name":"Metalurgia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"10650",
+       "name":"Metody ilościowe w ekonomii i systemy informacyjne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"90",
+       "name":"Metody ilościowe w ekonomii i systemy informacyjne - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"182",
+       "name":"Międzykierunkowe studia ekonomiczno - matematyczne",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"183",
+       "name":"Międzykierunkowe studia ekonomiczno - menedżerskie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"932",
+       "name":"Międzynarodowa komunikacja językowa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"153",
+       "name":"Międzynarodowe stosunki gospodarcze",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"352",
+       "name":"Międzynarodowe Stosunki Gospodarcze",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"91",
+       "name":"Międzynarodowe stosunki gospodarcze - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"513",
+       "name":"Międzynarodowe studia kulturowe - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"516",
+       "name":"Międzynarodowe studia polskie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"385",
+       "name":"Międzywydziałowe studia ochrony środowiska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1224",
+       "name":"Migracje międzynarodowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"398",
+       "name":"Mikrobiologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"496",
+       "name":"Mikrobiologia - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"731",
+       "name":"Mikrobiologia stosowana",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"323",
+       "name":"Mikrobiologia stosowana - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1159",
+       "name":"Mikrobiznes",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"681",
+       "name":"Mikroelektronika w technice i medycynie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1165",
+       "name":"Modelowanie matematyczne i analiza danych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1090",
+       "name":"Modern Business Management",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"599",
+       "name":"Modern business - zarządzanie i rachunkowość",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"10350",
+       "name":"Multimedia i grafika komputerowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"695",
+       "name":"Musical i choreografia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"659",
+       "name":"Muzeologia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1302",
+       "name":"Muzyka kościelna - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"241",
+       "name":"Muzykologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1223",
+       "name":"Muzykoterapia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"122",
+       "name":"Muzykoterapia - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"210",
+       "name":"Nanotechnologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1025",
+       "name":"Nanotechnologie i nanomateriały",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"772",
+       "name":"Nauczanie chemii",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12822",
+       "name":"Nauczanie języka polskiego jako obcego i drugiego",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"863",
+       "name":"Nauczanie języków obcych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"846",
+       "name":"Nauczanie języków obcych; specjalizacja: język angielski (nauczanie)",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"166",
+       "name":"Nauczanie języków obcych; specjalizacja: język francuski (nauczanie)",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"167",
+       "name":"Nauczanie języków obcych; specjalizacja: język niemiecki (nauczanie)",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"423",
+       "name":"Nauczanie języków obcych; specjalizacja: specjalności główne: nauczanie j.angielskiego,nauczanie j.francuskiego,nauczanie j.niemieckiego",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"797",
+       "name":"Nauczanie matematyki i informatyki",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"714",
+       "name":"Nauki o polityce",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"105",
+       "name":"Nauki o rodzinie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13",
+       "name":"Nawigacja",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"860",
+       "name":"Neofilologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"61",
+       "name":"Neofilologia; specjalizacja: filologia angielska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"72",
+       "name":"Neofilologia; specjalizacja: filologia angielska z językiem niemieckim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"548",
+       "name":"Neofilologia; specjalizacja: filologia francuska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"62",
+       "name":"Neofilologia; specjalizacja: filologia germańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"73",
+       "name":"Neofilologia; specjalizacja: filologia germańska z językiem angielskim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"63",
+       "name":"Neofilologia; specjalizacja: filologia hiszpańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"498",
+       "name":"Neofilologia; specjalizacja: filologia orientalna - arabistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"65",
+       "name":"Neofilologia; specjalizacja: filologia orientalna - indianistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"78",
+       "name":"Neofilologia; specjalizacja: filologia orientalna - japonistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1345",
+       "name":"Neofilologia; specjalizacja: filologia orientalna - sinologia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"499",
+       "name":"Neofilologia; specjalizacja: filologia portugalska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"69",
+       "name":"Neofilologia; specjalizacja: filologia romańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"70",
+       "name":"Neofilologia; specjalizacja: filologia rosyjska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"549",
+       "name":"Neofilologia; specjalizacja: filologia słowiańska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"56",
+       "name":"Neofilologia; specjalizacja: filologia słowiańska - chorwacka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"59",
+       "name":"Neofilologia; specjalizacja: filologia szwedzka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"60",
+       "name":"Neofilologia; specjalizacja: filologia ukraińska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"500",
+       "name":"Neofilologia; specjalizacja: filologia węgierska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"71",
+       "name":"Neofilologia; specjalizacja: filologia włoska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"79",
+       "name":"Neofilologia; specjalizacja: filologia w zakresie języka hiszpańskiego",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"80",
+       "name":"Neofilologia; specjalizacja: filologia w zakresie języka włoskiego",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"82",
+       "name":"Neofilologia; specjalizacja: język i kultura Rosji",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"81",
+       "name":"Neofilologia; specjalizacja: kultura Rosji i narodów sąsiednich",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"845",
+       "name":"Neofilologia; specjalizacja: neofilologia angielska z językiem niemieckim",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1375",
+       "name":"Neofilologia; specjalizacja: przekład literacki",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"318",
+       "name":"Neurobiologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"267",
+       "name":"Niemcoznawstwo",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"781",
+       "name":"Nowe media",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"565",
+       "name":"Nowe media, reklama, kultura współczesna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1194",
+       "name":"Nowe media i e-biznes",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1249",
+       "name":"Nowe media i kultura cyfrowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"247",
+       "name":"Obronność",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"742",
+       "name":"Obronność państwa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"354",
+       "name":"Oceanografia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"324",
+       "name":"Oceanotechnika",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"156",
+       "name":"Ochrona dóbr kultury",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"194",
+       "name":"Ochrona dóbr kultury i środowiska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1270",
+       "name":"Ochrona i inżynieria środowiska przyrodniczego",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"729",
+       "name":"Ochrona przyrody",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"197",
+       "name":"Ochrona roślin i kontrola fitosanitarna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"139",
+       "name":"Ochrona środowiska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1169",
+       "name":"Ochrona zasobów przyrodniczych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1059",
+       "name":"Ochrona zdrowia roślin",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"539",
+       "name":"Odnawialne źródła energii",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"20",
+       "name":"Odnawialne źródła energii i gospodarka odpadami",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"349",
+       "name":"Odnawialne źródła energii i gospodarka odpadami - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1026",
+       "name":"Odnawialne źródła energii i infrastruktura komunalna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"662",
+       "name":"Odnowa biologiczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"134",
+       "name":"Ogrodnictwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"275",
+       "name":"Ogrody zoologiczne i zwierzęta amatorskie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"631",
+       "name":"Oligofrenopedagogika z arteterapią",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"284",
+       "name":"Optometria",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"3601",
+       "name":"Optyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"36",
+       "name":"Optyka - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1278",
+       "name":"Optyka okularowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"649",
+       "name":"Optyka okularowa z elementami optometrii",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1228",
+       "name":"Organizacja i ekonomika ochrony zdrowia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"810",
+       "name":"Organizacja i zarządzanie - studia menedżerskie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"749",
+       "name":"Organizacja opieki nad osobą starszą",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"100",
+       "name":"Organizacja produkcji filmowej i telewizyjnej",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"785",
+       "name":"Organizowanie rynku pracy",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12696",
+       "name":"Orientalistyka - japonistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"382",
+       "name":"Orientalistyka - k. unikatowy (UW)",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"14072",
+       "name":"Paliwa i Środowisko",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"113",
+       "name":"Papiernictwo i poligrafia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"47",
+       "name":"Pedagogika",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"470",
+       "name":"Pedagogika małego dziecka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"471",
+       "name":"Pedagogika nauczycielska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"823",
+       "name":"Pedagogika osób niepełnosprawnych z arteterapią",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"653",
+       "name":"Pedagogika przedszkolna i wczesnoszkolna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"794",
+       "name":"Pedagogika przedszkolna i wczesnoszkolna z nauczaniem języka obcego",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"9292",
+       "name":"Pedagogika przedszkolna i wczesnoszkolna z rozszerzoną edukacją artystyczną",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1108",
+       "name":"Pedagogika resocjalizacyjna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"108",
+       "name":"Pedagogika specjalna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"472",
+       "name":"Pedagogika specjalna i edukacja społeczna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"469",
+       "name":"Pedagogika społeczno - wychowawcza",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"12957",
+       "name":"Pedagogika szkolna z terapią pedagogiczną",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"520",
+       "name":"Pedagogika wczesnej edukacji",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"433",
+       "name":"Pedagogika wczesnoszkolna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12746",
+       "name":"Physics (Studies in English)",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"97",
+       "name":"Pielęgniarstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"333",
+       "name":"Pielęgniarstwo (pomostowe)",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"12719",
+       "name":"Planowanie i organizacja przestrzeni",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"521",
+       "name":"Podatki i doradztwo podatkowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13345",
+       "name":"Pojazdy samochodowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"83",
+       "name":"Politologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"393",
+       "name":"Polityka publiczna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"319",
+       "name":"Polityka społeczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12825",
+       "name":"Polonistyka antropologiczno-kulturowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"287",
+       "name":"Polonistyka - komparatystyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"792",
+       "name":"Polski system prawny",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"165",
+       "name":"Położnictwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"336",
+       "name":"Położnictwo (pomostowe)",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"43",
+       "name":"Praca socjalna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"788",
+       "name":"Praca socjalna z elementami organizacji i zarządzania",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"10794",
+       "name":"Prawno-administracyjny",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"708",
+       "name":"Prawno-biznesowy",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"800",
+       "name":"Prawno-menedżerski",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"95",
+       "name":"Prawo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"574",
+       "name":"Prawo europejskie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"686",
+       "name":"Prawo finansowe i skarbowość",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"3",
+       "name":"Prawo kanoniczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"625",
+       "name":"Prawo medyczne",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"13002",
+       "name":"Prawo ochrony danych osobowych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"764",
+       "name":"Prawo ochrony środowiska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"307",
+       "name":"Prawo podatkowe i rachunkowość",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1012",
+       "name":"Prawo Unii Europejskiej",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"692",
+       "name":"Prawo urzędnicze",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1166",
+       "name":"Prawo w administracji i gospodarce",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"635",
+       "name":"Prawo w bizesie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"569",
+       "name":"Prawo w biznesie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"690",
+       "name":"Prawo w działalności gospodarczej",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"638",
+       "name":"Prawo własności intelektualnej i nowych mediów",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13411",
+       "name":"Prawo zatrudnienia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"580",
+       "name":"Prawo zatrudnienia – kadry i płace",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"935",
+       "name":"Produkcja i bezpieczeństwo żywności",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"709",
+       "name":"Produkcja medialna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1201",
+       "name":"Produkcja teatralna i organizacja widowisk",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"4751",
+       "name":"Profilaktyka społeczna i resocjalizacja",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"475",
+       "name":"Profilaktyka społeczna i resocjalizacja - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1191",
+       "name":"Projektowanie architektury wnętrz i otoczenia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"212",
+       "name":"Projektowanie gier i przestrzeni wirtualnej",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"544",
+       "name":"Projektowanie graficzne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"577",
+       "name":"Projektowanie mebla",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"541",
+       "name":"Projektowanie mebli",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"32311",
+       "name":"Projektowanie żywności",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"701",
+       "name":"Protetyka słuchu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"517",
+       "name":"Przedsiębiorczość",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"703",
+       "name":"Przedsiębiorczość i finanse",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"533",
+       "name":"Przedsiębiorczość i inwestycje",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"773",
+       "name":"Przedsiębiorczość i zarządzanie innowacjami",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12949",
+       "name":"Przekład literacki",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12950",
+       "name":"Przekładoznawstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1007",
+       "name":"Przemysł farmaceutyczny i kosmetyczny",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"841",
+       "name":"Przemysły kreatywne",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"280",
+       "name":"Przetwórstwo tworzyw sztucznych",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"268",
+       "name":"Przyroda",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"983",
+       "name":"Psychofizyczne kształtowanie człowieka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"693",
+       "name":"Psychokryminalistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"96",
+       "name":"Psychologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1177",
+       "name":"Psychologia medyczna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"601",
+       "name":"Psychologia w biznesie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1160",
+       "name":"Psychologia w zarządzaniu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1008",
+       "name":"Psychologia zdrowia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"917",
+       "name":"Psychoprofilaktyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1267",
+       "name":"Public management",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1117",
+       "name":"Public relations",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"960",
+       "name":"Public relations i doradztwo medialne",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"563",
+       "name":"Publikowanie cyfrowe i sieciowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12762",
+       "name":"Quantitative Finance",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"302",
+       "name":"Rachunkowość",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"8701",
+       "name":"Rachunkowość i controlling",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"11236",
+       "name":"Rachunkowość I controlling",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"87",
+       "name":"Rachunkowość i controlling - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"22624",
+       "name":"Rachunkowość i finanse biznesu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"926",
+       "name":"Rachunkowość i podatki",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"12848",
+       "name":"Rachunkowość i zarządzanie finansami",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"104",
+       "name":"Ratownictwo medyczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"149",
+       "name":"Realizacja obrazu filmowego,telewizyjnego i fotografia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"674",
+       "name":"Regionalistyka europejska",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"641",
+       "name":"Relacje międzykulturowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"330",
+       "name":"Religioznawstwo – interdyscyplinarne studia nad religiami i kulturami świata",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"854",
+       "name":"Religioznawstwo - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1010",
+       "name":"Retoryka stosowana",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"441",
+       "name":"Retoryka stosowana - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1105",
+       "name":"Rewitalizacja dróg wodnych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"390",
+       "name":"Rewitalizacja dróg wodnych - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1257",
+       "name":"Rewitalizacja miast",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"370",
+       "name":"Reżyseria",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"237",
+       "name":"Reżyseria dźwięku",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"11448",
+       "name":"Robotyka i automatyzacja procesów",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"117",
+       "name":"Rolnictwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"801",
+       "name":"Romanistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"362",
+       "name":"Rosjoznawstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"802",
+       "name":"Rusycystyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"339",
+       "name":"Rybactwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"774",
+       "name":"Rynek finansowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"829",
+       "name":"Rynek nieruchomości",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1092",
+       "name":"Rynki finansowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"125",
+       "name":"Rzeźba",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"691",
+       "name":"Samochody i bezpieczeństwo w transporcie drogowym",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"189",
+       "name":"Samorząd terytorialny i polityka regionalna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"502",
+       "name":"Scenografia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"10857",
+       "name":"Sieci i instalacie w inżynierii środowiska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"522",
+       "name":"Sinologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"251",
+       "name":"Skandynawistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"757",
+       "name":"Skandynawistyka studia filologiczno-biznesowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"361",
+       "name":"Slawistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"46",
+       "name":"Socjologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12748",
+       "name":"Socjologia cyfrowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"905",
+       "name":"Socjologia ekonomiczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"564",
+       "name":"Socjologia grup dyspozycyjnych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"476",
+       "name":"Socjologia stosowana i antropologia społeczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"10950",
+       "name":"Specjalistyczne studia teologiczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1244",
+       "name":"Społeczeństwo informacyjne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"150",
+       "name":"Sport",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1114",
+       "name":"Sport i wellness",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"615",
+       "name":"Stosowane nauki społeczne",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"50",
+       "name":"Stosunki międzynarodowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"10161",
+       "name":"Stosunki transgraniczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"158",
+       "name":"Studia amerykanistyczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"572",
+       "name":"Studia azjatyckie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"725",
+       "name":"Studia azjatyckie: Chiny i Azja Wschodnia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"735",
+       "name":"Studia bałkańskie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"511",
+       "name":"Studia Bałtyckie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"768",
+       "name":"Studia eurazjatyckie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"459",
+       "name":"Studia euroazjatyckie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"12834",
+       "name":"Studia europejskie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"437",
+       "name":"Studia filologiczno - kulturoznawcze",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"11272",
+       "name":"Studia menadżersko-prawne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"931",
+       "name":"Studia menedżerskie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"510",
+       "name":"Studia miejskie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"93",
+       "name":"Studia międzykierunkowe: wzornictwo i mechatronika",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"587",
+       "name":"Studia nad słowiańszczyzną wschodnią",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"529",
+       "name":"Studia nad wojną i wojskowością",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"303",
+       "name":"Studia regionalne",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"945",
+       "name":"Studia Skandynawsko-Bałtyckie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"422",
+       "name":"Studia wschodnie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"467",
+       "name":"Studia wschodnie - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"712",
+       "name":"Studia wschodnioeuropejskie",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"23",
+       "name":"Studia wschodnioeuropejskie - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"17004",
+       "name":"Sustainable Development",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"976",
+       "name":"Systemy diagnostyczne w medycynie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"652",
+       "name":"Systemy informacyjne w bezpieczeństwie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13346",
+       "name":"Systemy i urządzenia przemysłowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1030",
+       "name":"Systemy sterowania inteligentnymi budynkami",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"343",
+       "name":"Sztuka i Wzornictwo Ceramiki",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"344",
+       "name":"Sztuka i Wzornictwo Szkła",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"12968",
+       "name":"Sztuka mediów",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"431",
+       "name":"Sztuka mediów i edukacja wizualna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"180",
+       "name":"Sztuka mediów - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"818",
+       "name":"Sztuka Ogrodowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"610",
+       "name":"Sztuka pisania",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"193",
+       "name":"Sztuka rejestracji obrazu - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1099",
+       "name":"Sztuki plastyczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13329",
+       "name":"Sztuki sceniczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12753",
+       "name":"Sztuki społeczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"426",
+       "name":"Sztuki wizualne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"128",
+       "name":"Taniec",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"787",
+       "name":"Taniec w kulturze fizycznej",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"736",
+       "name":"Teatrologia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"308",
+       "name":"Technika rolnicza i leśna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"162",
+       "name":"Techniki dentystyczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"730",
+       "name":"Techniki geodezyjne w inżynierii",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"135",
+       "name":"Technologia chemiczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"309",
+       "name":"Technologia drewna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"733",
+       "name":"Technologia kosmetyków",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"844",
+       "name":"Technologia Roślin Leczniczych i Prozdrowotnych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"187",
+       "name":"Technologia żywności i żywienie człowieka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"710",
+       "name":"Technologie cyfrowe w animacji kultury",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1035",
+       "name":"Technologie energetyki odnawialnej",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"310",
+       "name":"Technologie energii odnawialnej",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"930",
+       "name":"Technologie informatyczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"583",
+       "name":"Technologie informatyczne w logistyce",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"238",
+       "name":"Technologie komputerowe",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"887",
+       "name":"Technologie Kosmiczne i Satelitarne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"839",
+       "name":"Technologie metali",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"479",
+       "name":"Technologie ochrony środowiska",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"399",
+       "name":"Technologie ochrony środowiska - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"594",
+       "name":"Teksty kultury i animacja sieci",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"48",
+       "name":"Teleinformatyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"282",
+       "name":"Teleinformatyka - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"258",
+       "name":"Telekomunikacja",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"148",
+       "name":"Teologia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"994",
+       "name":"Teologia II",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"726",
+       "name":"Terapia artystyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"199",
+       "name":"Terapia zajęciowa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13801",
+       "name":"Tkanina i ubiór",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"138",
+       "name":"Tkanina i ubiór - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"112",
+       "name":"Towaroznawstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"803",
+       "name":"Translacja konferencyjna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"14",
+       "name":"Transport",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"432",
+       "name":"Transport i logistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"987",
+       "name":"Transport kolejowy",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"618",
+       "name":"Transport w inżynierii produkcji",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1210",
+       "name":"Trener osobisty z dietetyką sportową",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1005",
+       "name":"Trener Personalny",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"536",
+       "name":"Turystyka",
+       "availability":"DEFAULT"
+    },
+    {
+       "code":"356",
+       "name":"Turystyka historyczna",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"777",
+       "name":"Turystyka historyczna i dziedzictwo kulturowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"881",
+       "name":"Turystyka historyczna i kulturowa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"4",
+       "name":"Turystyka i rekreacja",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"597",
+       "name":"Turystyka krajoznawcza i kulturowa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"796",
+       "name":"Turystyka kulturowa",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"706",
+       "name":"Turystyka przyrodnicza",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"666",
+       "name":"Turystyka religijna",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"883",
+       "name":"Ukrainistyka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"586",
+       "name":"Undergraduate Programme in International Relations",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"734",
+       "name":"Waloryzacja i zarządzanie zasobami przyrody",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"151",
+       "name":"Weterynaria",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"698",
+       "name":"Wiedza o filmie i kulturze audiowizualnej",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"232",
+       "name":"Wiedza o teatrze",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"276",
+       "name":"Wirtotechnologia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"270",
+       "name":"Włókiennictwo",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1027",
+       "name":"Włókiennictwo i przemysł mody",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"727",
+       "name":"Wojsko w systemie służb publicznych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"396",
+       "name":"Wojskoznawstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"123",
+       "name":"Wokalistyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"242",
+       "name":"Wschodoznawstwo - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"33",
+       "name":"Wychowanie fizyczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1387",
+       "name":"Wychowanie  fizyczne",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1004",
+       "name":"Wychowanie fizyczne w służbach mundurowych",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"834",
+       "name":"Wychowanie fizyczne w zdrowiu publicznym",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"106",
+       "name":"Wzornictwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"636",
+       "name":"Wzornictwo przemysłowe",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"13841",
+       "name":"Wzornictwo ubioru i akcesoriów mody",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"331",
+       "name":"Zaawansowane materiały i nanotechnologia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"9",
+       "name":"Zarządzanie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"683",
+       "name":"Zarządzanie bezpieczeństwem i jakością żywności",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1104",
+       "name":"Zarządzanie bezpieczeństwem narodowym",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"753",
+       "name":"Zarządzanie bezpieczeństwem państwa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12768",
+       "name":"Zarządzanie Big Data",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1202",
+       "name":"Zarządzanie biznesem",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"747",
+       "name":"Zarządzanie biznesem wielokulturowym",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1103",
+       "name":"Zarządzanie dziedzictwem kulturowym",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"391",
+       "name":"Zarządzanie dziedzictwem kulturowym i ochrona zabytków",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"13282",
+       "name":"Zarządzanie finansami i rachunkowość",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1085",
+       "name":"Zarządzanie finansami państwa i samorządu terytorialnego",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1062",
+       "name":"Zarządzanie finansami przedsiębiorstwa",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"808",
+       "name":"Zarządzanie i coaching",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"249",
+       "name":"Zarządzanie i dowodzenie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"5",
+       "name":"Zarządzanie i inżynieria produkcji",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1013",
+       "name":"Zarządzanie i inżynieria usług",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"639",
+       "name":"Zarządzanie informacją",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"397",
+       "name":"Zarządzanie informacją i bibliologia",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"830",
+       "name":"Zarządzanie informacją i publikowanie cyfrowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"715",
+       "name":"Zarządzanie informacją w nowych mediach",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"911",
+       "name":"Zarządzanie i nowe technologie w sferze publicznej",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"523",
+       "name":"Zarządzanie instytucjami artystycznymi",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"13701",
+       "name":"Zarządzanie inżynierskie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"137",
+       "name":"Zarządzanie inżynierskie - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"835",
+       "name":"Zarządzanie i prawo w biznesie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1066",
+       "name":"Zarządzanie i przywództwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"648",
+       "name":"Zarządzanie Jakością i Analiza Żywności",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"804",
+       "name":"Zarządzanie kreatywne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"291",
+       "name":"Zarządzanie kulturą i mediami",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12852",
+       "name":"Zarządzanie kulturą współczesną",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12854",
+       "name":"Zarządzanie mediami i reklamą",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1204",
+       "name":"Zarządzanie miastem",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"576",
+       "name":"Zarządzanie międzykulturowe",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"1091",
+       "name":"Zarządzanie międzynarodowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"670",
+       "name":"Zarządzanie obszarami wiejskimi",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"660",
+       "name":"Zarządzanie oświatą i organizacjami pozarządowymi",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"573",
+       "name":"Zarządzanie państwem",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1063",
+       "name":"Zarządzanie projektami",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"754",
+       "name":"Zarządzanie projektami społecznymi",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12850",
+       "name":"Zarządzanie – psychologia w zarządzaniu",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"304",
+       "name":"Zarządzanie publiczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1095",
+       "name":"Zarządzanie ryzykiem finansowym",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"832",
+       "name":"Zarządzanie ryzykiem zdrowotnym",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"435",
+       "name":"Zarządzanie środowiskiem",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"567",
+       "name":"Zarządzanie środowiskiem przyrodniczym",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"12720",
+       "name":"Zarządzanie w administracji publicznej",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"101",
+       "name":"Zarządzanie własnością intelektualną",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"14303",
+       "name":"Zarządzanie w nowoczesnej gospodarce",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"550",
+       "name":"Zarządzanie w politykach publicznych",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"12856",
+       "name":"Zarządzanie w turystyce i w sporcie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"305",
+       "name":"Zarządzanie zasobami ludzkimi",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"767",
+       "name":"Zarządzanie zasobami przyrody",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"840",
+       "name":"Zarządzanie ze specjalistycznym językiem obcym",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"4631",
+       "name":"Zastosowania fizyki w biologii i medycynie",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"463",
+       "name":"Zastosowania fizyki w biologii i medycynie - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"92",
+       "name":"Zdrowie publiczne",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1687",
+       "name":"Zdrowie środowiskowe",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"11167",
+       "name":"Zdrowie środowiskowe i bhp",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"528",
+       "name":"Zdrowie środowiskowe - k. unikatowy",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"933",
+       "name":"Zielarstwo",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"526",
+       "name":"Zielarstwo i terapie roślinne",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"820",
+       "name":"Zielone technologie i monitoring",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"634",
+       "name":"Zoofizjoterapia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"262",
+       "name":"Zootechnika",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1144",
+       "name":"Zwierzęta w rekreacji, edukacji i terapii",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"537",
+       "name":"Żywienie człowieka",
+       "availability":"NOTAVAILABLE"
+    },
+    {
+       "code":"616",
+       "name":"Żywienie człowieka i dietetyka",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"1154",
+       "name":"Żywienie człowieka i dietoterapia",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"311",
+       "name":"Żywienie człowieka i ocena żywności",
+       "availability":"AVAILABLE"
+    },
+    {
+       "code":"4613",
+       "name":"Żywienie zwierząt",
+       "availability":"AVAILABLE"
+    }
+ ]
