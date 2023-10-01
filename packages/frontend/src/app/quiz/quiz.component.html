@@ -3,7 +3,7 @@
         <div class="card" *ngIf="!showFunFuct()">
 
             <div class="card-header">
-              Pytanie {{currentQuestion + 1}} z {{questions.length}}
+              Pytanie {{currentQuestion + 1}} z 10
             </div>
             <div class="card-body">
               <h5 class="card-title">{{questions[currentQuestion].description}}</h5>
@@ -27,14 +27,7 @@
                   <span>{{questions[currentQuestion].answers[3].description}}</span>
                 </div>
               </div>
-                <!-- <div class="form-check" *ngFor="let answer of questions[currentQuestion].answers; index as i">
 
-                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1"
-                    (click)="onAnswerClick(i)">
-                    <label class="form-check-label" for="flexRadioDefault1">
-                        {{answer.description}}
-                    </label>
-                </div> -->
               <button 
                 href="#" 
                 class="btn btn-secondary btn-previous" 
