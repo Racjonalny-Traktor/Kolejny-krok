@@ -60,6 +60,7 @@ export class QuizComponent implements OnInit{
 
   onAnswerClick(index: number) {
     this.userAnswers[this.currentQuestion] = index;
+    this.onNextQuestionClick();
   }
 
   isFinalQuestion() {

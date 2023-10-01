@@ -1,24 +1,40 @@
 <div class="quiz-container">
     <div class="question-container">
-        <div class="card" style="width: 24rem;" *ngIf="!showFunFuct()">
+        <div class="card" *ngIf="!showFunFuct()">
+
             <div class="card-header">
               Question {{currentQuestion + 1}} of {{questions.length}}
             </div>
             <div class="card-body">
-                <h5 class="card-title">{{questions[currentQuestion].description}}</h5>
-                <div class="form-check" *ngFor="let answer of questions[currentQuestion].answers; index as i">
+              <h5 class="card-title">{{questions[currentQuestion].description}}</h5>
+              <div class="row">
+                <div class="col-5 quiz-answer" style="background-color: #E21B3C; flex: 1;"
+                  (click)="onAnswerClick(0)">
+                  <span>{{questions[currentQuestion].answers[0].description}}</span>
+                </div>
+                <div class="col-5 quiz-answer" style="background-color: #D89E00; flex: 1;"
+                  (click)="onAnswerClick(1)">
+                  <span>{{questions[currentQuestion].answers[1].description}}</span>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-5 quiz-answer" style="background-color: #26890C; flex: 1;"
+                (click)="onAnswerClick(2)">
+                  <span>{{questions[currentQuestion].answers[2].description}}</span>
+                </div>
+                <div class="col-5 quiz-answer" style="background-color: #1368CE; flex: 1;"
+                (click)="onAnswerClick(3)">
+                  <span>{{questions[currentQuestion].answers[3].description}}</span>
+                </div>
+              </div>
+                <!-- <div class="form-check" *ngFor="let answer of questions[currentQuestion].answers; index as i">
+
                     <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1"
                     (click)="onAnswerClick(i)">
                     <label class="form-check-label" for="flexRadioDefault1">
                         {{answer.description}}
                     </label>
-                </div>
-              <button 
-                href="#" 
-                class="btn btn-primary btn-next" 
-                style="margin-top: 1rem;"
-                [disabled]="isNextButtonDisabled()"
-                (click)="onNextQuestionClick()">{{isFinalQuestion() ? 'Submit' : 'Next'}}</button>
+                </div> -->
               <button 
                 href="#" 
                 class="btn btn-secondary btn-previous" 

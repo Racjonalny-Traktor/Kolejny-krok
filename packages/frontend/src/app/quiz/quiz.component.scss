@@ -7,10 +7,19 @@
     top: 8rem;
     left: 50%;
     transform: translateX(-50%);
+    @media screen and (max-width: 800px) {
+        height: 100vw;
+        top: 0;
+    }
+    .card {
+        width: 32rem;
+        @media screen and (max-width: 800px) {
+            width: 100vw;
+        }
+    }
 }
 
 .question-card {
-    width: 24rem;
     border-radius: 1rem;
     padding: 1rem;
     box-shadow: 0 14px 28px rgba(0,0,0,0.25);
@@ -18,4 +27,21 @@
 
 .btn-next {
     float: right;
+}
+
+.quiz-answer {
+    border-radius: 2px;
+    height: 4rem;
+    text-align: center;
+    margin: 0.5rem;
+    position: relative;
+    cursor: pointer;
+    span {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+        color: white;
+    }
+    
 }
