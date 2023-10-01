@@ -1,0 +1,3070 @@
+[
+    {
+       "code":"74",
+       "name":"Administracja"
+    },
+    {
+       "code":"598",
+       "name":"Administracja i bezpieczeństwo wewnętrzne"
+    },
+    {
+       "code":"1142",
+       "name":"Administracja i cyfryzacja"
+    },
+    {
+       "code":"514",
+       "name":"Administracja i polityka publiczna"
+    },
+    {
+       "code":"677",
+       "name":"Administracja publiczna"
+    },
+    {
+       "code":"12629",
+       "name":"Agri-food Economics and Trade"
+    },
+    {
+       "code":"524",
+       "name":"Agrobiznes"
+    },
+    {
+       "code":"131",
+       "name":"Aktorstwo"
+    },
+    {
+       "code":"743",
+       "name":"Aktywność fizyczna i żywienie w zdrowiu publicznym"
+    },
+    {
+       "code":"2331",
+       "name":"Akustyka"
+    },
+    {
+       "code":"221",
+       "name":"Amerykanistyka"
+    },
+    {
+       "code":"1239",
+       "name":"Analityka biznesowa"
+    },
+    {
+       "code":"294",
+       "name":"Analityka biznesu"
+    },
+    {
+       "code":"292",
+       "name":"Analityka chemiczna"
+    },
+    {
+       "code":"633",
+       "name":"Analityka chemiczna i spożywcza"
+    },
+    {
+       "code":"455",
+       "name":"Analityka gospodarcza"
+    },
+    {
+       "code":"1001",
+       "name":"Analityka i komunikacja w biznesie"
+    },
+    {
+       "code":"980",
+       "name":"Analityka kryminalistyczna i sądowa"
+    },
+    {
+       "code":"163",
+       "name":"Analityka medyczna"
+    },
+    {
+       "code":"884",
+       "name":"Analityka żywności"
+    },
+    {
+       "code":"1247",
+       "name":"Analiza danych"
+    },
+    {
+       "code":"721",
+       "name":"Analiza danych - big data"
+    },
+    {
+       "code":"1143",
+       "name":"Analiza i kreowanie trendów"
+    },
+    {
+       "code":"1075",
+       "name":"Analiza i przetwarzanie danych"
+    },
+    {
+       "code":"997",
+       "name":"Angielski język biznesu"
+    },
+    {
+       "code":"799",
+       "name":"Anglistyka"
+    },
+    {
+       "code":"357",
+       "name":"Animacja kultury"
+    },
+    {
+       "code":"685",
+       "name":"Antropologia literatury, teatru i filmu"
+    },
+    {
+       "code":"885",
+       "name":"Aplikacje Internetu Rzeczy"
+    },
+    {
+       "code":"819",
+       "name":"Applied Mathematics"
+    },
+    {
+       "code":"239",
+       "name":"Archeologia"
+    },
+    {
+       "code":"67",
+       "name":"Architektura"
+    },
+    {
+       "code":"554",
+       "name":"Architektura informacji"
+    },
+    {
+       "code":"66",
+       "name":"Architektura i urbanistyka"
+    },
+    {
+       "code":"68",
+       "name":"Architektura krajobrazu"
+    },
+    {
+       "code":"1187",
+       "name":"Architektura przestrzeni informacyjnych"
+    },
+    {
+       "code":"627",
+       "name":"Architektura przestrzeni kulturowych"
+    },
+    {
+       "code":"45",
+       "name":"Architektura wnętrz"
+    },
+    {
+       "code":"1173",
+       "name":"Archiwistyka, zarządzanie dokumentacją i infobrokerstwo"
+    },
+    {
+       "code":"353",
+       "name":"Archiwistyka i nowoczesne zarządzanie zapisami informacyjnymi"
+    },
+    {
+       "code":"1102",
+       "name":"Archiwistyka i zarządzanie dokumentacją"
+    },
+    {
+       "code":"1174",
+       "name":"Art&Design"
+    },
+    {
+       "code":"1254",
+       "name":"Arteterapia"
+    },
+    {
+       "code":"868",
+       "name":"Astronomia"
+    },
+    {
+       "code":"508",
+       "name":"Audiofonologia"
+    },
+    {
+       "code":"552",
+       "name":"Audiofonologia z protetyką słuchu"
+    },
+    {
+       "code":"23022",
+       "name":"Automatyka, cybernetyka i robotyka"
+    },
+    {
+       "code":"1259",
+       "name":"Automatyka, Robotyka i Informatyka Przemysłowa"
+    },
+    {
+       "code":"23041",
+       "name":"Automatyka, robotyka i systemy sterowania"
+    },
+    {
+       "code":"1040",
+       "name":"Automatyka i informatyka przemysłowa"
+    },
+    {
+       "code":"111",
+       "name":"Automatyka i robotyka"
+    },
+    {
+       "code":"363",
+       "name":"Automatyka i Robotyka Stosowana"
+    },
+    {
+       "code":"10854",
+       "name":"Automatyka i sterowanie robotów"
+    },
+    {
+       "code":"11401",
+       "name":"Automatyka przemysłowa"
+    },
+    {
+       "code":"1260",
+       "name":"Automatyzacja i Robotyzacja Procesów Produkcyjnych"
+    },
+    {
+       "code":"1150",
+       "name":"Bachelor of Business and Administration"
+    },
+    {
+       "code":"769",
+       "name":"Bankowość i finanse cyfrowe"
+    },
+    {
+       "code":"1086",
+       "name":"Bankowość i zarządzanie ryzykiem"
+    },
+    {
+       "code":"504",
+       "name":"Behawiorystyka zwierząt"
+    },
+    {
+       "code":"817",
+       "name":"Bezpieczeństwo i certyfikacja żywności"
+    },
+    {
+       "code":"42",
+       "name":"Bezpieczeństwo i higiena pracy"
+    },
+    {
+       "code":"1250",
+       "name":"Bezpieczeństwo informacyjne"
+    },
+    {
+       "code":"13099",
+       "name":"Bezpieczeństwo i prawo"
+    },
+    {
+       "code":"2824",
+       "name":"Bezpieczeństwo i systemy ochrony"
+    },
+    {
+       "code":"558",
+       "name":"Bezpieczeństwo międzynarodowe"
+    },
+    {
+       "code":"1237",
+       "name":"Bezpieczeństwo międzynarodowe i dyplomacja"
+    },
+    {
+       "code":"765",
+       "name":"Bezpieczeństwo morskie państwa"
+    },
+    {
+       "code":"7",
+       "name":"Bezpieczeństwo narodowe"
+    },
+    {
+       "code":"17308",
+       "name":"Bezpieczeństwo Narodowe"
+    },
+    {
+       "code":"614",
+       "name":"Bezpieczeństwo narodowe i międzynarodowe"
+    },
+    {
+       "code":"665",
+       "name":"Bezpieczeństwo państwa"
+    },
+    {
+       "code":"671",
+       "name":"Bezpieczeństwo w biznesie i administracji"
+    },
+    {
+       "code":"18",
+       "name":"Bezpieczeństwo wewnętrzne"
+    },
+    {
+       "code":"13866",
+       "name":"Bezpieczeństwo wewnętrzne z administracja publiczną"
+    },
+    {
+       "code":"10948",
+       "name":"Bezpieczeństwo w gospodarce cyfrowej"
+    },
+    {
+       "code":"568",
+       "name":"Bezpieczeństwo zdrowotne"
+    },
+    {
+       "code":"217",
+       "name":"Bezpieczeństwo żywności"
+    },
+    {
+       "code":"2650",
+       "name":"Big Data Analytics"
+    },
+    {
+       "code":"281",
+       "name":"Biochemia"
+    },
+    {
+       "code":"1134",
+       "name":"Biofizyka"
+    },
+    {
+       "code":"1233",
+       "name":"Biogospodarka"
+    },
+    {
+       "code":"266",
+       "name":"Bioinformatyka"
+    },
+    {
+       "code":"261",
+       "name":"Bioinżynieria produkcji żywności"
+    },
+    {
+       "code":"546",
+       "name":"Bioinżynieria zwierząt"
+    },
+    {
+       "code":"1234",
+       "name":"Bioinżynieria Zwierząt"
+    },
+    {
+       "code":"224",
+       "name":"Biologia"
+    },
+    {
+       "code":"628",
+       "name":"Biologia człowieka"
+    },
+    {
+       "code":"1069",
+       "name":"Biologia i zdrowie człowieka"
+    },
+    {
+       "code":"620",
+       "name":"Biologia medyczna"
+    },
+    {
+       "code":"762",
+       "name":"Biologia sądowa"
+    },
+    {
+       "code":"1230",
+       "name":"Biologia stosowana"
+    },
+    {
+       "code":"11449",
+       "name":"Biomechanika inżynierska"
+    },
+    {
+       "code":"739",
+       "name":"Biomedycyna"
+    },
+    {
+       "code":"99",
+       "name":"Biotechnologia"
+    },
+    {
+       "code":"386",
+       "name":"Biotechnologia medyczna"
+    },
+    {
+       "code":"283",
+       "name":"Biotechnologia molekularna"
+    },
+    {
+       "code":"630",
+       "name":"Biotechnologia stosowana roślin"
+    },
+    {
+       "code":"1152",
+       "name":"Biotechnology"
+    },
+    {
+       "code":"1170",
+       "name":"Biznes chemiczny"
+    },
+    {
+       "code":"972",
+       "name":"Biznes elektroniczny"
+    },
+    {
+       "code":"1000",
+       "name":"Biznes i języki obce"
+    },
+    {
+       "code":"518",
+       "name":"Biznes i technologia ekologiczna"
+    },
+    {
+       "code":"49",
+       "name":"Budowa jachtów"
+    },
+    {
+       "code":"1048",
+       "name":"Budowa maszyn i pojazdów"
+    },
+    {
+       "code":"32",
+       "name":"Budownictwo"
+    },
+    {
+       "code":"12864",
+       "name":"Business and Finance Management"
+    },
+    {
+       "code":"295",
+       "name":"Business management"
+    },
+    {
+       "code":"11221",
+       "name":"Business Management"
+    },
+    {
+       "code":"57",
+       "name":"Chemia"
+    },
+    {
+       "code":"1045",
+       "name":"Chemia i analityka przemysłowa"
+    },
+    {
+       "code":"11416",
+       "name":"Chemia i Inżynieria Materiałów"
+    },
+    {
+       "code":"669",
+       "name":"Chemia i technologia żywności"
+    },
+    {
+       "code":"879",
+       "name":"Chemia i toksykologia sądowa"
+    },
+    {
+       "code":"296",
+       "name":"Chemia kosmetyczna"
+    },
+    {
+       "code":"1195",
+       "name":"Chemia kosmetyków i farmaceutyków z elementami biznesu"
+    },
+    {
+       "code":"1176",
+       "name":"Chemia kryminalistyczna i sądowa"
+    },
+    {
+       "code":"745",
+       "name":"Chemia medyczna"
+    },
+    {
+       "code":"10502",
+       "name":"Coaching stylu życia"
+    },
+    {
+       "code":"1016",
+       "name":"Construction and Building Systems Engineering"
+    },
+    {
+       "code":"1044",
+       "name":"Cyberbezpieczeństwo"
+    },
+    {
+       "code":"1196",
+       "name":"Cyfryzacja i zarządzanie danymi w biznesie"
+    },
+    {
+       "code":"1101",
+       "name":"Człowiek w cyberprzestrzeni"
+    },
+    {
+       "code":"12425",
+       "name":"Data Science and Business Analytics"
+    },
+    {
+       "code":"1019",
+       "name":"Design i zarządzanie projektami"
+    },
+    {
+       "code":"811",
+       "name":"Design w biznesie"
+    },
+    {
+       "code":"1113",
+       "name":"Diagnostyka molekularna"
+    },
+    {
+       "code":"1266",
+       "name":"Diagnostyka sportowa"
+    },
+    {
+       "code":"571",
+       "name":"Dialog i doradztwo społeczne"
+    },
+    {
+       "code":"94",
+       "name":"Dietetyka"
+    },
+    {
+       "code":"789",
+       "name":"Dietetyka i ekologiczna żywność"
+    },
+    {
+       "code":"555",
+       "name":"Digital Design"
+    },
+    {
+       "code":"208",
+       "name":"Doradztwo filozoficzne i coaching"
+    },
+    {
+       "code":"607",
+       "name":"Doradztwo i coaching"
+    },
+    {
+       "code":"1009",
+       "name":"Doradztwo kariery i doradztwo personalne"
+    },
+    {
+       "code":"672",
+       "name":"Doradztwo podatkowe"
+    },
+    {
+       "code":"613",
+       "name":"Doradztwo polityczne i publiczne"
+    },
+    {
+       "code":"11105",
+       "name":"DUO OTM - Ocena Technologi Medycznych"
+    },
+    {
+       "code":"738",
+       "name":"Dyplomacja"
+    },
+    {
+       "code":"480",
+       "name":"Dyplomacja europejska"
+    },
+    {
+       "code":"1298",
+       "name":"Dyrygentura"
+    },
+    {
+       "code":"559",
+       "name":"Dziedzictwo kultury materialnej - ochrona, promocja, gospodarowanie"
+    },
+    {
+       "code":"816",
+       "name":"Dziennikarstwo"
+    },
+    {
+       "code":"84",
+       "name":"Dziennikarstwo i komunikacja społeczna"
+    },
+    {
+       "code":"689",
+       "name":"Dziennikarstwo i medioznawstwo"
+    },
+    {
+       "code":"589",
+       "name":"Dziennikarstwo i nowe media"
+    },
+    {
+       "code":"828",
+       "name":"Dziennikarstwo i zarządzanie mediami"
+    },
+    {
+       "code":"1198",
+       "name":"Dziennikarstwo międzynarodowe"
+    },
+    {
+       "code":"722",
+       "name":"E-biznes"
+    },
+    {
+       "code":"1226",
+       "name":"Ecology and Evolution"
+    },
+    {
+       "code":"11493",
+       "name":"E-commerce"
+    },
+    {
+       "code":"1268",
+       "name":"Economics and IT Applications"
+    },
+    {
+       "code":"119",
+       "name":"Edukacja artystyczna w zakresie sztuki muzycznej"
+    },
+    {
+       "code":"229",
+       "name":"Edukacja artystyczna w zakresie sztuk plastycznych"
+    },
+    {
+       "code":"805",
+       "name":"Edukacja prorozwojowa"
+    },
+    {
+       "code":"918",
+       "name":"Edukacja przedszkolna i wczesnoszkolna"
+    },
+    {
+       "code":"107",
+       "name":"Edukacja techniczno-informatyczna"
+    },
+    {
+       "code":"289",
+       "name":"Edytorstwo"
+    },
+    {
+       "code":"707",
+       "name":"E-edytorstwo i techniki redakcyjne"
+    },
+    {
+       "code":"766",
+       "name":"E-gospodarka przestrzenna"
+    },
+    {
+       "code":"1175",
+       "name":"Ekobiznes"
+    },
+    {
+       "code":"152",
+       "name":"Ekoenergetyka"
+    },
+    {
+       "code":"274",
+       "name":"Ekologiczne Źródła Energii"
+    },
+    {
+       "code":"1207",
+       "name":"EkoMiasto"
+    },
+    {
+       "code":"41",
+       "name":"Ekonomia"
+    },
+    {
+       "code":"14299",
+       "name":"Ekonomia biznesu i finanse"
+    },
+    {
+       "code":"756",
+       "name":"Ekonomia menedżerska"
+    },
+    {
+       "code":"831",
+       "name":"Ekonomia społeczna"
+    },
+    {
+       "code":"3259",
+       "name":"Ekonomiczna analiza prawa"
+    },
+    {
+       "code":"186",
+       "name":"Ekonomiczno-prawny"
+    },
+    {
+       "code":"833",
+       "name":"Ekonomika i organizacja przedsiębiorstw"
+    },
+    {
+       "code":"1046",
+       "name":"Electronic and computer engineering"
+    },
+    {
+       "code":"328",
+       "name":"Elektroniczne przetwarzanie informacji"
+    },
+    {
+       "code":"256",
+       "name":"Elektronika"
+    },
+    {
+       "code":"10",
+       "name":"Elektronika i telekomunikacja"
+    },
+    {
+       "code":"368",
+       "name":"Elektroradiologia"
+    },
+    {
+       "code":"110",
+       "name":"Elektrotechnika"
+    },
+    {
+       "code":"11",
+       "name":"Energetyka"
+    },
+    {
+       "code":"1214",
+       "name":"Energetyka odnawialna i zarządzanie energią"
+    },
+    {
+       "code":"15846",
+       "name":"Energetyka przemysłowa i odnawialna"
+    },
+    {
+       "code":"538",
+       "name":"English in Public Communication"
+    },
+    {
+       "code":"204",
+       "name":"English Philology"
+    },
+    {
+       "code":"10015",
+       "name":"English Philology – Teacher Training Programme"
+    },
+    {
+       "code":"464",
+       "name":"Etnologia i antropologia kulturowa"
+    },
+    {
+       "code":"654",
+       "name":"Etyka - mediacje i negocjacje"
+    },
+    {
+       "code":"1217",
+       "name":"European Studies"
+    },
+    {
+       "code":"25",
+       "name":"Europeistyka"
+    },
+    {
+       "code":"1179",
+       "name":"Europeistyka - integracja europejska"
+    },
+    {
+       "code":"1183",
+       "name":"Europejskie studia optyki okularowej i optometrii"
+    },
+    {
+       "code":"13860",
+       "name":"Executive Master of Business Administration"
+    },
+    {
+       "code":"164",
+       "name":"Farmacja"
+    },
+    {
+       "code":"600",
+       "name":"Film i multimedia"
+    },
+    {
+       "code":"1200",
+       "name":"Filmoznawstwo"
+    },
+    {
+       "code":"377",
+       "name":"Filmoznawstwo i kultura mediów"
+    },
+    {
+       "code":"503",
+       "name":"Filmoznawstwo i wiedza o nowych mediach"
+    },
+    {
+       "code":"26",
+       "name":"Filologia"
+    },
+    {
+       "code":"206",
+       "name":"Filologia angielska"
+    },
+    {
+       "code":"12802",
+       "name":"Filologia angielska z językiem niemieckim"
+    },
+    {
+       "code":"798",
+       "name":"Filologia angielska z pedagogiką"
+    },
+    {
+       "code":"12803",
+       "name":"Filologia francuska"
+    },
+    {
+       "code":"209",
+       "name":"Filologia germańska"
+    },
+    {
+       "code":"12806",
+       "name":"Filologia hiszpańska"
+    },
+    {
+       "code":"12731",
+       "name":"Filologia hiszpańska z amerykanistyką filologiczną"
+    },
+    {
+       "code":"387",
+       "name":"Filologia iberyjska"
+    },
+    {
+       "code":"984",
+       "name":"Filologia niderlandzka"
+    },
+    {
+       "code":"12807",
+       "name":"Filologia orientalna – arabistyka"
+    },
+    {
+       "code":"12809",
+       "name":"Filologia orientalna – japonistyka"
+    },
+    {
+       "code":"12810",
+       "name":"Filologia orientalna – sinologia"
+    },
+    {
+       "code":"228",
+       "name":"Filologia polska"
+    },
+    {
+       "code":"12816",
+       "name":"Filologia polska nauczycielska"
+    },
+    {
+       "code":"12525",
+       "name":"Filologia polskiego języka migowego"
+    },
+    {
+       "code":"12812",
+       "name":"Filologia portugalska"
+    },
+    {
+       "code":"250",
+       "name":"Filologia romańska"
+    },
+    {
+       "code":"360",
+       "name":"Filologia rosyjska"
+    },
+    {
+       "code":"201",
+       "name":"Filologia słowiańska"
+    },
+    {
+       "code":"12944",
+       "name":"Filologia szwedzka"
+    },
+    {
+       "code":"388",
+       "name":"Filologia włoska"
+    },
+    {
+       "code":"11487",
+       "name":"Filologia wschodniosłowiańska"
+    },
+    {
+       "code":"195",
+       "name":"Filozofia"
+    },
+    {
+       "code":"684",
+       "name":"Finance"
+    },
+    {
+       "code":"22583",
+       "name":"Finanse, audyt, inwestycje"
+    },
+    {
+       "code":"465",
+       "name":"Finanse, inwestycje i rachunkowość"
+    },
+    {
+       "code":"650",
+       "name":"Finanse, rachunkowość i podatki"
+    },
+    {
+       "code":"477",
+       "name":"Finanse, rachunkowość i ubezpieczenia"
+    },
+    {
+       "code":"12963",
+       "name":"Finanse i biznes międzynarodowy"
+    },
+    {
+       "code":"12845",
+       "name":"Finanse i controlling"
+    },
+    {
+       "code":"297",
+       "name":"Finanse i inwestycje"
+    },
+    {
+       "code":"44",
+       "name":"Finanse i rachunkowość"
+    },
+    {
+       "code":"378",
+       "name":"Finanse i rachunkowość biznesu"
+    },
+    {
+       "code":"3891",
+       "name":"Finanse i zarządzanie w ochronie zdrowia"
+    },
+    {
+       "code":"836",
+       "name":"Finanse i zarządzanie w przedsiębiorstwie"
+    },
+    {
+       "code":"702",
+       "name":"Finanse menedżerskie"
+    },
+    {
+       "code":"1199",
+       "name":"Finanse międzynarodowe"
+    },
+    {
+       "code":"909",
+       "name":"Finanse z elementami matematyki"
+    },
+    {
+       "code":"812",
+       "name":"Finansowo-prawny"
+    },
+    {
+       "code":"86",
+       "name":"Fizjoterapia"
+    },
+    {
+       "code":"235",
+       "name":"Fizyka"
+    },
+    {
+       "code":"236",
+       "name":"Fizyka medyczna"
+    },
+    {
+       "code":"24",
+       "name":"Fizyka techniczna"
+    },
+    {
+       "code":"306",
+       "name":"Fotonika"
+    },
+    {
+       "code":"1122",
+       "name":"Games studies"
+    },
+    {
+       "code":"1265",
+       "name":"Gastronomia"
+    },
+    {
+       "code":"547",
+       "name":"Gastronomia i hotelarstwo"
+    },
+    {
+       "code":"922",
+       "name":"Gastronomia i sztuka kulinarna"
+    },
+    {
+       "code":"425",
+       "name":"Gastronomia - sztuka kulinarna"
+    },
+    {
+       "code":"658",
+       "name":"Genetyka i biologia eksperymentalna"
+    },
+    {
+       "code":"15",
+       "name":"Geodezja i kartografia"
+    },
+    {
+       "code":"373",
+       "name":"Geofizyka"
+    },
+    {
+       "code":"243",
+       "name":"Geografia"
+    },
+    {
+       "code":"13250",
+       "name":"Geografia fizyczna z geoinformacją"
+    },
+    {
+       "code":"13251",
+       "name":"Geografia społeczno-ekonomiczna z elementami GIS"
+    },
+    {
+       "code":"216",
+       "name":"Geoinformacja"
+    },
+    {
+       "code":"551",
+       "name":"Geoinformatyka"
+    },
+    {
+       "code":"244",
+       "name":"Geologia"
+    },
+    {
+       "code":"380",
+       "name":"Geologia stosowana"
+    },
+    {
+       "code":"299",
+       "name":"Geomonitoring"
+    },
+    {
+       "code":"203",
+       "name":"Germanistik"
+    },
+    {
+       "code":"10019",
+       "name":"Germanistik-Lehramt"
+    },
+    {
+       "code":"466",
+       "name":"Germanistyka"
+    },
+    {
+       "code":"1272",
+       "name":"Global Communication"
+    },
+    {
+       "code":"723",
+       "name":"Globalny biznes, finanse i zarządzanie (governance)"
+    },
+    {
+       "code":"10106",
+       "name":"Gospodarka i administracja publiczna"
+    },
+    {
+       "code":"400",
+       "name":"Gospodarka i zarządzanie publiczne"
+    },
+    {
+       "code":"532",
+       "name":"Gospodarka nieruchomościami"
+    },
+    {
+       "code":"17",
+       "name":"Gospodarka przestrzenna"
+    },
+    {
+       "code":"13785",
+       "name":"Gospodarka przestrzenna i geozarządzanie"
+    },
+    {
+       "code":"401",
+       "name":"Gospodarka turystyczna"
+    },
+    {
+       "code":"647",
+       "name":"Gospodarka w ekosystemach rolnych i leśnych"
+    },
+    {
+       "code":"621",
+       "name":"Gospodarka wodna i ochrona zasobów wód"
+    },
+    {
+       "code":"116",
+       "name":"Górnictwo i geologia"
+    },
+    {
+       "code":"460",
+       "name":"Graduate Programme in International Relations"
+    },
+    {
+       "code":"115",
+       "name":"Grafika"
+    },
+    {
+       "code":"793",
+       "name":"Grafika komputerowa i produkcja multimedialna"
+    },
+    {
+       "code":"644",
+       "name":"Grafika reklamowa i multimedia"
+    },
+    {
+       "code":"413",
+       "name":"Gry i grafika interaktywna"
+    },
+    {
+       "code":"364",
+       "name":"Handel międzynarodowy"
+    },
+    {
+       "code":"12538",
+       "name":"Helwetologia- studia szwajcarskie"
+    },
+    {
+       "code":"198",
+       "name":"Hipologia i jeździectwo"
+    },
+    {
+       "code":"1011",
+       "name":"Hispanistyka"
+    },
+    {
+       "code":"127",
+       "name":"Historia"
+    },
+    {
+       "code":"196",
+       "name":"Historia sztuki"
+    },
+    {
+       "code":"218",
+       "name":"Hodowla i ochrona zwierząt towarzyszących i dzikich"
+    },
+    {
+       "code":"838",
+       "name":"Humanistyka cyfrowa"
+    },
+    {
+       "code":"596",
+       "name":"Humanistyka drugiej generacji"
+    },
+    {
+       "code":"9879",
+       "name":"Human resources i coaching"
+    },
+    {
+       "code":"438",
+       "name":"Iberystyka"
+    },
+    {
+       "code":"285",
+       "name":"Informacja naukowa i bibliotekoznawstwo"
+    },
+    {
+       "code":"771",
+       "name":"Informacja w środowisku cyfrowym"
+    },
+    {
+       "code":"1203",
+       "name":"Informatologia z biznesowym językiem angielskim"
+    },
+    {
+       "code":"843",
+       "name":"Informatyczne techniki zarządzania"
+    },
+    {
+       "code":"8",
+       "name":"Informatyka"
+    },
+    {
+       "code":"11412",
+       "name":"Informatyka algorytmiczna"
+    },
+    {
+       "code":"286",
+       "name":"Informatyka analityczna"
+    },
+    {
+       "code":"13362",
+       "name":"Informatyka gier komputerowych"
+    },
+    {
+       "code":"118",
+       "name":"Informatyka i ekonometria"
+    },
+    {
+       "code":"366",
+       "name":"Informatyka i Systemy Informacyjne"
+    },
+    {
+       "code":"713",
+       "name":"Informatyka przemysłowa"
+    },
+    {
+       "code":"1215",
+       "name":"Informatyka społeczna"
+    },
+    {
+       "code":"346",
+       "name":"Informatyka stosowana"
+    },
+    {
+       "code":"365",
+       "name":"Informatyka Stosowana"
+    },
+    {
+       "code":"1153",
+       "name":"Informatyka stosowana i systemy pomiarowe"
+    },
+    {
+       "code":"11434",
+       "name":"Informatyka techniczna"
+    },
+    {
+       "code":"813",
+       "name":"Informatyka w biznesie"
+    },
+    {
+       "code":"675",
+       "name":"Informatyka w biznesie i administracji"
+    },
+    {
+       "code":"655",
+       "name":"Informatyka w medycynie"
+    },
+    {
+       "code":"13399",
+       "name":"Infotronika"
+    },
+    {
+       "code":"1097",
+       "name":"Innovation Management"
+    },
+    {
+       "code":"1088",
+       "name":"Innowacje w biznesie"
+    },
+    {
+       "code":"711",
+       "name":"Innowacyjna gospodarka"
+    },
+    {
+       "code":"927",
+       "name":"Innowacyjne technologie i nowoczesne materiały"
+    },
+    {
+       "code":"696",
+       "name":"Innowacyjność i zarządzanie sferą publiczną"
+    },
+    {
+       "code":"1139",
+       "name":"Inspekcja weterynaryjna"
+    },
+    {
+       "code":"120",
+       "name":"Instrumentalistyka"
+    },
+    {
+       "code":"1218",
+       "name":"Intellectual Property and New Technologies"
+    },
+    {
+       "code":"12383",
+       "name":"Interdyscyplinarne studia strategiczne"
+    },
+    {
+       "code":"939",
+       "name":"Intermedia"
+    },
+    {
+       "code":"1109",
+       "name":"International and Political Studies"
+    },
+    {
+       "code":"200",
+       "name":"International Business"
+    },
+    {
+       "code":"384",
+       "name":"International Business Program"
+    },
+    {
+       "code":"1110",
+       "name":"International Marketing"
+    },
+    {
+       "code":"1243",
+       "name":"International Relations"
+    },
+    {
+       "code":"780",
+       "name":"Inwestycje i nieruchomości"
+    },
+    {
+       "code":"341",
+       "name":"Inżynieria akustyczna"
+    },
+    {
+       "code":"22",
+       "name":"Inżynieria bezpieczeństwa"
+    },
+    {
+       "code":"1279",
+       "name":"Inżynieria bezpieczeństwa pracy"
+    },
+    {
+       "code":"265",
+       "name":"Inżynieria bezpieczeństwa pracy - k. unikatowy"
+    },
+    {
+       "code":"271",
+       "name":"Inżynieria biochemiczna"
+    },
+    {
+       "code":"21",
+       "name":"Inżynieria biomedyczna"
+    },
+    {
+       "code":"147",
+       "name":"Inżynieria chemiczna i procesowa"
+    },
+    {
+       "code":"680",
+       "name":"Inżynieria ciepła"
+    },
+    {
+       "code":"542",
+       "name":"Inżynieria cyfryzacji"
+    },
+    {
+       "code":"535",
+       "name":"Inżynieria danych"
+    },
+    {
+       "code":"219",
+       "name":"Inżynieria ekologiczna"
+    },
+    {
+       "code":"963",
+       "name":"Inżynieria geologiczna"
+    },
+    {
+       "code":"14016",
+       "name":"Inżynieria górnicza"
+    },
+    {
+       "code":"1055",
+       "name":"Inżynieria i analiza danych"
+    },
+    {
+       "code":"12604",
+       "name":"Inżynieria i Analiza Danych"
+    },
+    {
+       "code":"540",
+       "name":"Inżynieria i gospodarka wodna"
+    },
+    {
+       "code":"14022",
+       "name":"Inżynieria i monitoring środowiska"
+    },
+    {
+       "code":"1141",
+       "name":"Inżynieria informacji"
+    },
+    {
+       "code":"14028",
+       "name":"Inżynieria i ochrona środowiska"
+    },
+    {
+       "code":"14032",
+       "name":"Inżynieria i zarządzanie procesami przemysłowymi"
+    },
+    {
+       "code":"1031",
+       "name":"Inżynieria kosmiczna"
+    },
+    {
+       "code":"14027",
+       "name":"Inżynieria kształtowania środowiska"
+    },
+    {
+       "code":"1047",
+       "name":"Inżynieria kwantowa"
+    },
+    {
+       "code":"58",
+       "name":"Inżynieria materiałowa"
+    },
+    {
+       "code":"595",
+       "name":"Inżynieria mechaniczna"
+    },
+    {
+       "code":"2475",
+       "name":"Inżynieria mechaniczna dla przemysłu lotniczego"
+    },
+    {
+       "code":"372",
+       "name":"Inżynieria Mechaniczna i Materiałowa"
+    },
+    {
+       "code":"4301",
+       "name":"Inżynieria mechaniczno-medyczna"
+    },
+    {
+       "code":"482",
+       "name":"Inżynieria mechatroniczna"
+    },
+    {
+       "code":"637",
+       "name":"Inżynieria medyczna"
+    },
+    {
+       "code":"14020",
+       "name":"Inżynieria metali nieżelaznych"
+    },
+    {
+       "code":"11435",
+       "name":"Inżynieria mikrosystemów mechatronicznych"
+    },
+    {
+       "code":"14434",
+       "name":"Inżynieria morska i brzegowa"
+    },
+    {
+       "code":"376",
+       "name":"Inżynieria naftowa i gazownicza"
+    },
+    {
+       "code":"185",
+       "name":"Inżynieria nanostruktur"
+    },
+    {
+       "code":"697",
+       "name":"Inżynieria nowoczesnych materiałów"
+    },
+    {
+       "code":"371",
+       "name":"Inżynieria obliczeniowa"
+    },
+    {
+       "code":"278",
+       "name":"Inżynieria odnawialnych źródeł energii"
+    },
+    {
+       "code":"809",
+       "name":"Inżynieria organizacji i zarządzania"
+    },
+    {
+       "code":"566",
+       "name":"Inżynieria Pojazdów Elektrycznych i Hybrydowych"
+    },
+    {
+       "code":"629",
+       "name":"Inżynieria precyzyjna w produkcji rolno-spożywczej"
+    },
+    {
+       "code":"1042",
+       "name":"Inżynieria procesowa i aparatura przemysłowa"
+    },
+    {
+       "code":"485",
+       "name":"Inżynieria Procesów Odlewniczych"
+    },
+    {
+       "code":"263",
+       "name":"Inżynieria produkcji"
+    },
+    {
+       "code":"14042",
+       "name":"Inżynieria produkcji i jakości"
+    },
+    {
+       "code":"617",
+       "name":"Inżynieria przemysłu spożywczego"
+    },
+    {
+       "code":"704",
+       "name":"Inżynieria rolnicza"
+    },
+    {
+       "code":"923",
+       "name":"Inżynieria rolnicza i leśna"
+    },
+    {
+       "code":"679",
+       "name":"Inżynieria rolno-spożywcza i leśna"
+    },
+    {
+       "code":"3501",
+       "name":"Inżynieria systemów"
+    },
+    {
+       "code":"1058",
+       "name":"Inżynieria systemów biotechnicznych"
+    },
+    {
+       "code":"15940",
+       "name":"Inżynieria środków transportu"
+    },
+    {
+       "code":"75",
+       "name":"Inżynieria środowiska"
+    },
+    {
+       "code":"699",
+       "name":"Inżynieria transportu i logistyki"
+    },
+    {
+       "code":"588",
+       "name":"Inżynieria wzornictwa przemysłowego"
+    },
+    {
+       "code":"1135",
+       "name":"Inżynieria zagrożeń środowiskowych"
+    },
+    {
+       "code":"367",
+       "name":"Inżynieria zarządzania"
+    },
+    {
+       "code":"392",
+       "name":"Italianistyka z elementami studiów nad chrześcijaństwem"
+    },
+    {
+       "code":"842",
+       "name":"Jakość i bezpieczeństwo środowiska"
+    },
+    {
+       "code":"1128",
+       "name":"Jakość i bezpieczeństwo żywności"
+    },
+    {
+       "code":"724",
+       "name":"Jakość i Bezpieczeństwo Żywności"
+    },
+    {
+       "code":"10213",
+       "name":"Japonistyka"
+    },
+    {
+       "code":"126",
+       "name":"Jazz i muzyka estradowa"
+    },
+    {
+       "code":"1245",
+       "name":"Język angielski w biznesie"
+    },
+    {
+       "code":"995",
+       "name":"Język biznesu"
+    },
+    {
+       "code":"10107",
+       "name":"Języki obce w mediach i biznesie"
+    },
+    {
+       "code":"784",
+       "name":"Język i społeczeństwo: interdyscyplinarne studia nad dyskursem"
+    },
+    {
+       "code":"1073",
+       "name":"Język niemiecki i komunikacja w biznesie"
+    },
+    {
+       "code":"642",
+       "name":"Język polski w komunikacji społecznej"
+    },
+    {
+       "code":"12948",
+       "name":"Język rosyjski w tłumaczeniach specjalistycznych"
+    },
+    {
+       "code":"329",
+       "name":"Judaistyka"
+    },
+    {
+       "code":"13808",
+       "name":"Kartografia i geomatyka"
+    },
+    {
+       "code":"806",
+       "name":"Kierunek administracyjno-ekonomiczny"
+    },
+    {
+       "code":"160",
+       "name":"Kierunek lekarski"
+    },
+    {
+       "code":"161",
+       "name":"Kierunek lekarsko-dentystyczny"
+    },
+    {
+       "code":"575",
+       "name":"Kierunek prawno-ekonomiczny"
+    },
+    {
+       "code":"315",
+       "name":"Kognitywistyka"
+    },
+    {
+       "code":"791",
+       "name":"Kognitywistyka i komunikacja"
+    },
+    {
+       "code":"530",
+       "name":"Kognitywistyka komunikacji"
+    },
+    {
+       "code":"673",
+       "name":"Kompozycja, dyrygentura i teoria muzyki"
+    },
+    {
+       "code":"272",
+       "name":"Kompozycja i teoria muzyki"
+    },
+    {
+       "code":"277",
+       "name":"Komputerowe Wspomaganie Procesów Inżynierskich"
+    },
+    {
+       "code":"570",
+       "name":"Komunikacja europejska"
+    },
+    {
+       "code":"748",
+       "name":"Komunikacja i media"
+    },
+    {
+       "code":"750",
+       "name":"Komunikacja i psychologia w biznesie"
+    },
+    {
+       "code":"211",
+       "name":"Komunikacja promocyjna i kryzysowa"
+    },
+    {
+       "code":"213",
+       "name":"Komunikacja wizerunkowa"
+    },
+    {
+       "code":"124",
+       "name":"Konserwacja i restauracja dzieł sztuki"
+    },
+    {
+       "code":"14184",
+       "name":"Konstrukcja i eksploatacja środków transportu"
+    },
+    {
+       "code":"886",
+       "name":"Konsulting prawny i gospodarczy"
+    },
+    {
+       "code":"906",
+       "name":"Koordynowana opieka senioralna"
+    },
+    {
+       "code":"1023",
+       "name":"Korozja"
+    },
+    {
+       "code":"85",
+       "name":"Kosmetologia"
+    },
+    {
+       "code":"350",
+       "name":"Krajoznawstwo i Turystyka Historyczna"
+    },
+    {
+       "code":"657",
+       "name":"Kreatywność społeczna"
+    },
+    {
+       "code":"16999",
+       "name":"Kryminalistyka i nauki sądowe w zakresie biologia i genetyka sądowa"
+    },
+    {
+       "code":"17001",
+       "name":"Kryminalistyka i nauki sądowe w zakresie kryminalistyka ogólna"
+    },
+    {
+       "code":"916",
+       "name":"Kryminalistyka i systemy bezpieczeństwa"
+    },
+    {
+       "code":"474",
+       "name":"Kryminologia"
+    },
+    {
+       "code":"763",
+       "name":"Kryminologia stosowana"
+    },
+    {
+       "code":"656",
+       "name":"Kryptologia i cyberbezpieczeństwo"
+    },
+    {
+       "code":"12820",
+       "name":"Krytyka literacka"
+    },
+    {
+       "code":"783",
+       "name":"Kultura fizyczna osób starszych"
+    },
+    {
+       "code":"561",
+       "name":"Kultura i praktyka tekstu: twórcze pisanie i edytorstwo"
+    },
+    {
+       "code":"53",
+       "name":"Kulturoznawstwo"
+    },
+    {
+       "code":"12969",
+       "name":"Kulturoznawstwo Europy Środkowo - Wschodniej"
+    },
+    {
+       "code":"215",
+       "name":"Kulturoznawstwo i wiedza o mediach"
+    },
+    {
+       "code":"439",
+       "name":"Kulturoznawstwo - wiedza o kulturze"
+    },
+    {
+       "code":"515",
+       "name":"Kultury mediów"
+    },
+    {
+       "code":"1162",
+       "name":"Kynologia"
+    },
+    {
+       "code":"1221",
+       "name":"Latynoamerykanistyka"
+    },
+    {
+       "code":"76",
+       "name":"Leśnictwo"
+    },
+    {
+       "code":"581",
+       "name":"Lingwistyka dla biznesu"
+    },
+    {
+       "code":"1273",
+       "name":"Lingwistyka dla biznesu - tłumaczenia rosyjsko-polsko-niemieckie"
+    },
+    {
+       "code":"761",
+       "name":"Lingwistyka praktyczna i copywriting"
+    },
+    {
+       "code":"317",
+       "name":"Lingwistyka stosowana"
+    },
+    {
+       "code":"1146",
+       "name":"Lingwistyka w biznesie"
+    },
+    {
+       "code":"752",
+       "name":"LL.M. International and European Law"
+    },
+    {
+       "code":"16",
+       "name":"Logistyka"
+    },
+    {
+       "code":"458",
+       "name":"Logistyka i administrowanie w mediach"
+    },
+    {
+       "code":"36381",
+       "name":"Logistyka inżynierska"
+    },
+    {
+       "code":"1089",
+       "name":"Logistyka międzynarodowa"
+    },
+    {
+       "code":"13242",
+       "name":"Logistyka w biznesie"
+    },
+    {
+       "code":"12966",
+       "name":"Logistyka w gospodarce"
+    },
+    {
+       "code":"264",
+       "name":"Logopedia"
+    },
+    {
+       "code":"717",
+       "name":"Logopedia ogólna i kliniczna"
+    },
+    {
+       "code":"1189",
+       "name":"Logopedia z audiologią"
+    },
+    {
+       "code":"3221",
+       "name":"Logopedia z fonoaudiologią"
+    },
+    {
+       "code":"1124",
+       "name":"Logopedia z językiem polskim nauczycielska"
+    },
+    {
+       "code":"246",
+       "name":"Lotnictwo"
+    },
+    {
+       "code":"64",
+       "name":"Lotnictwo i Kosmonautyka"
+    },
+    {
+       "code":"326",
+       "name":"Makrokierunek - automatyka i robot.,elektronika i telekom., informatyka"
+    },
+    {
+       "code":"851",
+       "name":"Makrokierunek - bioinformatyka"
+    },
+    {
+       "code":"288",
+       "name":"Makrokierunek - informatyka przemysłowa"
+    },
+    {
+       "code":"269",
+       "name":"Makrokierunek - nanotechnologia"
+    },
+    {
+       "code":"325",
+       "name":"Makrokierunek - technologia i inżynieria chemiczna"
+    },
+    {
+       "code":"121",
+       "name":"Malarstwo"
+    },
+    {
+       "code":"624",
+       "name":"Management and Finance"
+    },
+    {
+       "code":"760",
+       "name":"Management instytucji publicznych i Public Relations"
+    },
+    {
+       "code":"301",
+       "name":"Marketing"
+    },
+    {
+       "code":"1211",
+       "name":"Marketing i biznes elektroniczny"
+    },
+    {
+       "code":"651",
+       "name":"Marketing i komunikacja rynkowa"
+    },
+    {
+       "code":"12858",
+       "name":"Marketing i logistyka"
+    },
+    {
+       "code":"718",
+       "name":"Marketing internetowy"
+    },
+    {
+       "code":"1246",
+       "name":"Marketing i sprzedaż"
+    },
+    {
+       "code":"155",
+       "name":"Matematyka"
+    },
+    {
+       "code":"1043",
+       "name":"Matematyka i Statystyka"
+    },
+    {
+       "code":"205",
+       "name":"Matematyka komputerowa"
+    },
+    {
+       "code":"257",
+       "name":"Matematyka stosowana"
+    },
+    {
+       "code":"1241",
+       "name":"Matematyka w finansach"
+    },
+    {
+       "code":"1038",
+       "name":"Matematyka w technice"
+    },
+    {
+       "code":"14088",
+       "name":"Materiały i Technologie Metali Nieżelaznych"
+    },
+    {
+       "code":"682",
+       "name":"Meblarstwo"
+    },
+    {
+       "code":"6",
+       "name":"Mechanika i budowa maszyn"
+    },
+    {
+       "code":"11396",
+       "name":"Mechanika i budowa maszyn energetycznych"
+    },
+    {
+       "code":"1258",
+       "name":"Mechanika i Projektowanie Maszyn"
+    },
+    {
+       "code":"1261",
+       "name":"Mechanika Pojazdów i Maszyn Roboczych"
+    },
+    {
+       "code":"12",
+       "name":"Mechatronika"
+    },
+    {
+       "code":"1017",
+       "name":"Mechatronika/mechatronics"
+    },
+    {
+       "code":"1251",
+       "name":"Mechatronika pojazdów"
+    },
+    {
+       "code":"912",
+       "name":"Mechatronika Pojazdów i Maszyn Roboczych"
+    },
+    {
+       "code":"342",
+       "name":"Mediacja Sztuki"
+    },
+    {
+       "code":"1006",
+       "name":"Media design i marketing wizerunkowy"
+    },
+    {
+       "code":"348",
+       "name":"Media interaktywne i widowiska"
+    },
+    {
+       "code":"982",
+       "name":"Media kreatywne: game desing, animacja, efekty specjalne"
+    },
+    {
+       "code":"9880",
+       "name":"Media Kreatywne: projektowanie gier i animacji"
+    },
+    {
+       "code":"12847",
+       "name":"Media społecznościowe w zarządzaniu"
+    },
+    {
+       "code":"755",
+       "name":"Medioznawstwo"
+    },
+    {
+       "code":"1064",
+       "name":"Menedżerski"
+    },
+    {
+       "code":"1054",
+       "name":"Menedżerskie studia ekonomiczno-prawne"
+    },
+    {
+       "code":"720",
+       "name":"Menedżersko-prawny"
+    },
+    {
+       "code":"1028",
+       "name":"Menedżer żywności i żywienia"
+    },
+    {
+       "code":"444",
+       "name":"Metalurgia"
+    },
+    {
+       "code":"10650",
+       "name":"Metody ilościowe w ekonomii i systemy informacyjne"
+    },
+    {
+       "code":"153",
+       "name":"Międzynarodowe stosunki gospodarcze"
+    },
+    {
+       "code":"352",
+       "name":"Międzynarodowe Stosunki Gospodarcze"
+    },
+    {
+       "code":"1224",
+       "name":"Migracje międzynarodowe"
+    },
+    {
+       "code":"398",
+       "name":"Mikrobiologia"
+    },
+    {
+       "code":"1159",
+       "name":"Mikrobiznes"
+    },
+    {
+       "code":"681",
+       "name":"Mikroelektronika w technice i medycynie"
+    },
+    {
+       "code":"1165",
+       "name":"Modelowanie matematyczne i analiza danych"
+    },
+    {
+       "code":"1090",
+       "name":"Modern Business Management"
+    },
+    {
+       "code":"599",
+       "name":"Modern business - zarządzanie i rachunkowość"
+    },
+    {
+       "code":"10350",
+       "name":"Multimedia i grafika komputerowa"
+    },
+    {
+       "code":"695",
+       "name":"Musical i choreografia"
+    },
+    {
+       "code":"241",
+       "name":"Muzykologia"
+    },
+    {
+       "code":"1223",
+       "name":"Muzykoterapia"
+    },
+    {
+       "code":"210",
+       "name":"Nanotechnologia"
+    },
+    {
+       "code":"1025",
+       "name":"Nanotechnologie i nanomateriały"
+    },
+    {
+       "code":"772",
+       "name":"Nauczanie chemii"
+    },
+    {
+       "code":"12822",
+       "name":"Nauczanie języka polskiego jako obcego i drugiego"
+    },
+    {
+       "code":"863",
+       "name":"Nauczanie języków obcych"
+    },
+    {
+       "code":"797",
+       "name":"Nauczanie matematyki i informatyki"
+    },
+    {
+       "code":"714",
+       "name":"Nauki o polityce"
+    },
+    {
+       "code":"105",
+       "name":"Nauki o rodzinie"
+    },
+    {
+       "code":"13",
+       "name":"Nawigacja"
+    },
+    {
+       "code":"860",
+       "name":"Neofilologia"
+    },
+    {
+       "code":"318",
+       "name":"Neurobiologia"
+    },
+    {
+       "code":"781",
+       "name":"Nowe media"
+    },
+    {
+       "code":"1194",
+       "name":"Nowe media i e-biznes"
+    },
+    {
+       "code":"1249",
+       "name":"Nowe media i kultura cyfrowa"
+    },
+    {
+       "code":"247",
+       "name":"Obronność"
+    },
+    {
+       "code":"742",
+       "name":"Obronność państwa"
+    },
+    {
+       "code":"354",
+       "name":"Oceanografia"
+    },
+    {
+       "code":"324",
+       "name":"Oceanotechnika"
+    },
+    {
+       "code":"156",
+       "name":"Ochrona dóbr kultury"
+    },
+    {
+       "code":"194",
+       "name":"Ochrona dóbr kultury i środowiska"
+    },
+    {
+       "code":"1270",
+       "name":"Ochrona i inżynieria środowiska przyrodniczego"
+    },
+    {
+       "code":"139",
+       "name":"Ochrona środowiska"
+    },
+    {
+       "code":"1169",
+       "name":"Ochrona zasobów przyrodniczych"
+    },
+    {
+       "code":"1059",
+       "name":"Ochrona zdrowia roślin"
+    },
+    {
+       "code":"539",
+       "name":"Odnawialne źródła energii"
+    },
+    {
+       "code":"20",
+       "name":"Odnawialne źródła energii i gospodarka odpadami"
+    },
+    {
+       "code":"1026",
+       "name":"Odnawialne źródła energii i infrastruktura komunalna"
+    },
+    {
+       "code":"662",
+       "name":"Odnowa biologiczna"
+    },
+    {
+       "code":"134",
+       "name":"Ogrodnictwo"
+    },
+    {
+       "code":"631",
+       "name":"Oligofrenopedagogika z arteterapią"
+    },
+    {
+       "code":"284",
+       "name":"Optometria"
+    },
+    {
+       "code":"3601",
+       "name":"Optyka"
+    },
+    {
+       "code":"1278",
+       "name":"Optyka okularowa"
+    },
+    {
+       "code":"649",
+       "name":"Optyka okularowa z elementami optometrii"
+    },
+    {
+       "code":"1228",
+       "name":"Organizacja i ekonomika ochrony zdrowia"
+    },
+    {
+       "code":"810",
+       "name":"Organizacja i zarządzanie - studia menedżerskie"
+    },
+    {
+       "code":"100",
+       "name":"Organizacja produkcji filmowej i telewizyjnej"
+    },
+    {
+       "code":"785",
+       "name":"Organizowanie rynku pracy"
+    },
+    {
+       "code":"12696",
+       "name":"Orientalistyka - japonistyka"
+    },
+    {
+       "code":"14072",
+       "name":"Paliwa i Środowisko"
+    },
+    {
+       "code":"113",
+       "name":"Papiernictwo i poligrafia"
+    },
+    {
+       "code":"47",
+       "name":"Pedagogika"
+    },
+    {
+       "code":"471",
+       "name":"Pedagogika nauczycielska"
+    },
+    {
+       "code":"823",
+       "name":"Pedagogika osób niepełnosprawnych z arteterapią"
+    },
+    {
+       "code":"653",
+       "name":"Pedagogika przedszkolna i wczesnoszkolna"
+    },
+    {
+       "code":"794",
+       "name":"Pedagogika przedszkolna i wczesnoszkolna z nauczaniem języka obcego"
+    },
+    {
+       "code":"9292",
+       "name":"Pedagogika przedszkolna i wczesnoszkolna z rozszerzoną edukacją artystyczną"
+    },
+    {
+       "code":"1108",
+       "name":"Pedagogika resocjalizacyjna"
+    },
+    {
+       "code":"108",
+       "name":"Pedagogika specjalna"
+    },
+    {
+       "code":"12957",
+       "name":"Pedagogika szkolna z terapią pedagogiczną"
+    },
+    {
+       "code":"520",
+       "name":"Pedagogika wczesnej edukacji"
+    },
+    {
+       "code":"433",
+       "name":"Pedagogika wczesnoszkolna"
+    },
+    {
+       "code":"12746",
+       "name":"Physics (Studies in English)"
+    },
+    {
+       "code":"97",
+       "name":"Pielęgniarstwo"
+    },
+    {
+       "code":"12719",
+       "name":"Planowanie i organizacja przestrzeni"
+    },
+    {
+       "code":"521",
+       "name":"Podatki i doradztwo podatkowe"
+    },
+    {
+       "code":"13345",
+       "name":"Pojazdy samochodowe"
+    },
+    {
+       "code":"83",
+       "name":"Politologia"
+    },
+    {
+       "code":"319",
+       "name":"Polityka społeczna"
+    },
+    {
+       "code":"12825",
+       "name":"Polonistyka antropologiczno-kulturowa"
+    },
+    {
+       "code":"287",
+       "name":"Polonistyka - komparatystyka"
+    },
+    {
+       "code":"165",
+       "name":"Położnictwo"
+    },
+    {
+       "code":"43",
+       "name":"Praca socjalna"
+    },
+    {
+       "code":"788",
+       "name":"Praca socjalna z elementami organizacji i zarządzania"
+    },
+    {
+       "code":"10794",
+       "name":"Prawno-administracyjny"
+    },
+    {
+       "code":"708",
+       "name":"Prawno-biznesowy"
+    },
+    {
+       "code":"800",
+       "name":"Prawno-menedżerski"
+    },
+    {
+       "code":"95",
+       "name":"Prawo"
+    },
+    {
+       "code":"574",
+       "name":"Prawo europejskie"
+    },
+    {
+       "code":"686",
+       "name":"Prawo finansowe i skarbowość"
+    },
+    {
+       "code":"3",
+       "name":"Prawo kanoniczne"
+    },
+    {
+       "code":"13002",
+       "name":"Prawo ochrony danych osobowych"
+    },
+    {
+       "code":"307",
+       "name":"Prawo podatkowe i rachunkowość"
+    },
+    {
+       "code":"1012",
+       "name":"Prawo Unii Europejskiej"
+    },
+    {
+       "code":"1166",
+       "name":"Prawo w administracji i gospodarce"
+    },
+    {
+       "code":"569",
+       "name":"Prawo w biznesie"
+    },
+    {
+       "code":"638",
+       "name":"Prawo własności intelektualnej i nowych mediów"
+    },
+    {
+       "code":"13411",
+       "name":"Prawo zatrudnienia"
+    },
+    {
+       "code":"580",
+       "name":"Prawo zatrudnienia – kadry i płace"
+    },
+    {
+       "code":"935",
+       "name":"Produkcja i bezpieczeństwo żywności"
+    },
+    {
+       "code":"709",
+       "name":"Produkcja medialna"
+    },
+    {
+       "code":"1201",
+       "name":"Produkcja teatralna i organizacja widowisk"
+    },
+    {
+       "code":"4751",
+       "name":"Profilaktyka społeczna i resocjalizacja"
+    },
+    {
+       "code":"1191",
+       "name":"Projektowanie architektury wnętrz i otoczenia"
+    },
+    {
+       "code":"212",
+       "name":"Projektowanie gier i przestrzeni wirtualnej"
+    },
+    {
+       "code":"544",
+       "name":"Projektowanie graficzne"
+    },
+    {
+       "code":"577",
+       "name":"Projektowanie mebla"
+    },
+    {
+       "code":"541",
+       "name":"Projektowanie mebli"
+    },
+    {
+       "code":"701",
+       "name":"Protetyka słuchu"
+    },
+    {
+       "code":"517",
+       "name":"Przedsiębiorczość"
+    },
+    {
+       "code":"703",
+       "name":"Przedsiębiorczość i finanse"
+    },
+    {
+       "code":"773",
+       "name":"Przedsiębiorczość i zarządzanie innowacjami"
+    },
+    {
+       "code":"12949",
+       "name":"Przekład literacki"
+    },
+    {
+       "code":"12950",
+       "name":"Przekładoznawstwo"
+    },
+    {
+       "code":"1007",
+       "name":"Przemysł farmaceutyczny i kosmetyczny"
+    },
+    {
+       "code":"983",
+       "name":"Psychofizyczne kształtowanie człowieka"
+    },
+    {
+       "code":"693",
+       "name":"Psychokryminalistyka"
+    },
+    {
+       "code":"96",
+       "name":"Psychologia"
+    },
+    {
+       "code":"601",
+       "name":"Psychologia w biznesie"
+    },
+    {
+       "code":"1160",
+       "name":"Psychologia w zarządzaniu"
+    },
+    {
+       "code":"1008",
+       "name":"Psychologia zdrowia"
+    },
+    {
+       "code":"917",
+       "name":"Psychoprofilaktyka"
+    },
+    {
+       "code":"1267",
+       "name":"Public management"
+    },
+    {
+       "code":"1117",
+       "name":"Public relations"
+    },
+    {
+       "code":"563",
+       "name":"Publikowanie cyfrowe i sieciowe"
+    },
+    {
+       "code":"12762",
+       "name":"Quantitative Finance"
+    },
+    {
+       "code":"302",
+       "name":"Rachunkowość"
+    },
+    {
+       "code":"8701",
+       "name":"Rachunkowość i controlling"
+    },
+    {
+       "code":"11236",
+       "name":"Rachunkowość I controlling"
+    },
+    {
+       "code":"22624",
+       "name":"Rachunkowość i finanse biznesu"
+    },
+    {
+       "code":"12848",
+       "name":"Rachunkowość i zarządzanie finansami"
+    },
+    {
+       "code":"104",
+       "name":"Ratownictwo medyczne"
+    },
+    {
+       "code":"149",
+       "name":"Realizacja obrazu filmowego,telewizyjnego i fotografia"
+    },
+    {
+       "code":"641",
+       "name":"Relacje międzykulturowe"
+    },
+    {
+       "code":"1105",
+       "name":"Rewitalizacja dróg wodnych"
+    },
+    {
+       "code":"370",
+       "name":"Reżyseria"
+    },
+    {
+       "code":"237",
+       "name":"Reżyseria dźwięku"
+    },
+    {
+       "code":"11448",
+       "name":"Robotyka i automatyzacja procesów"
+    },
+    {
+       "code":"117",
+       "name":"Rolnictwo"
+    },
+    {
+       "code":"801",
+       "name":"Romanistyka"
+    },
+    {
+       "code":"362",
+       "name":"Rosjoznawstwo"
+    },
+    {
+       "code":"802",
+       "name":"Rusycystyka"
+    },
+    {
+       "code":"339",
+       "name":"Rybactwo"
+    },
+    {
+       "code":"829",
+       "name":"Rynek nieruchomości"
+    },
+    {
+       "code":"1092",
+       "name":"Rynki finansowe"
+    },
+    {
+       "code":"125",
+       "name":"Rzeźba"
+    },
+    {
+       "code":"691",
+       "name":"Samochody i bezpieczeństwo w transporcie drogowym"
+    },
+    {
+       "code":"189",
+       "name":"Samorząd terytorialny i polityka regionalna"
+    },
+    {
+       "code":"10857",
+       "name":"Sieci i instalacie w inżynierii środowiska"
+    },
+    {
+       "code":"522",
+       "name":"Sinologia"
+    },
+    {
+       "code":"251",
+       "name":"Skandynawistyka"
+    },
+    {
+       "code":"757",
+       "name":"Skandynawistyka studia filologiczno-biznesowe"
+    },
+    {
+       "code":"361",
+       "name":"Slawistyka"
+    },
+    {
+       "code":"46",
+       "name":"Socjologia"
+    },
+    {
+       "code":"12748",
+       "name":"Socjologia cyfrowa"
+    },
+    {
+       "code":"905",
+       "name":"Socjologia ekonomiczna"
+    },
+    {
+       "code":"564",
+       "name":"Socjologia grup dyspozycyjnych"
+    },
+    {
+       "code":"476",
+       "name":"Socjologia stosowana i antropologia społeczna"
+    },
+    {
+       "code":"10950",
+       "name":"Specjalistyczne studia teologiczne"
+    },
+    {
+       "code":"1244",
+       "name":"Społeczeństwo informacyjne"
+    },
+    {
+       "code":"150",
+       "name":"Sport"
+    },
+    {
+       "code":"1114",
+       "name":"Sport i wellness"
+    },
+    {
+       "code":"50",
+       "name":"Stosunki międzynarodowe"
+    },
+    {
+       "code":"10161",
+       "name":"Stosunki transgraniczne"
+    },
+    {
+       "code":"158",
+       "name":"Studia amerykanistyczne"
+    },
+    {
+       "code":"572",
+       "name":"Studia azjatyckie"
+    },
+    {
+       "code":"725",
+       "name":"Studia azjatyckie: Chiny i Azja Wschodnia"
+    },
+    {
+       "code":"12834",
+       "name":"Studia europejskie"
+    },
+    {
+       "code":"437",
+       "name":"Studia filologiczno - kulturoznawcze"
+    },
+    {
+       "code":"11272",
+       "name":"Studia menadżersko-prawne"
+    },
+    {
+       "code":"931",
+       "name":"Studia menedżerskie"
+    },
+    {
+       "code":"945",
+       "name":"Studia Skandynawsko-Bałtyckie"
+    },
+    {
+       "code":"422",
+       "name":"Studia wschodnie"
+    },
+    {
+       "code":"17004",
+       "name":"Sustainable Development"
+    },
+    {
+       "code":"976",
+       "name":"Systemy diagnostyczne w medycynie"
+    },
+    {
+       "code":"652",
+       "name":"Systemy informacyjne w bezpieczeństwie"
+    },
+    {
+       "code":"13346",
+       "name":"Systemy i urządzenia przemysłowe"
+    },
+    {
+       "code":"1030",
+       "name":"Systemy sterowania inteligentnymi budynkami"
+    },
+    {
+       "code":"343",
+       "name":"Sztuka i Wzornictwo Ceramiki"
+    },
+    {
+       "code":"12968",
+       "name":"Sztuka mediów"
+    },
+    {
+       "code":"431",
+       "name":"Sztuka mediów i edukacja wizualna"
+    },
+    {
+       "code":"818",
+       "name":"Sztuka Ogrodowa"
+    },
+    {
+       "code":"610",
+       "name":"Sztuka pisania"
+    },
+    {
+       "code":"1099",
+       "name":"Sztuki plastyczne"
+    },
+    {
+       "code":"13329",
+       "name":"Sztuki sceniczne"
+    },
+    {
+       "code":"12753",
+       "name":"Sztuki społeczne"
+    },
+    {
+       "code":"426",
+       "name":"Sztuki wizualne"
+    },
+    {
+       "code":"128",
+       "name":"Taniec"
+    },
+    {
+       "code":"787",
+       "name":"Taniec w kulturze fizycznej"
+    },
+    {
+       "code":"162",
+       "name":"Techniki dentystyczne"
+    },
+    {
+       "code":"135",
+       "name":"Technologia chemiczna"
+    },
+    {
+       "code":"309",
+       "name":"Technologia drewna"
+    },
+    {
+       "code":"733",
+       "name":"Technologia kosmetyków"
+    },
+    {
+       "code":"844",
+       "name":"Technologia Roślin Leczniczych i Prozdrowotnych"
+    },
+    {
+       "code":"187",
+       "name":"Technologia żywności i żywienie człowieka"
+    },
+    {
+       "code":"710",
+       "name":"Technologie cyfrowe w animacji kultury"
+    },
+    {
+       "code":"310",
+       "name":"Technologie energii odnawialnej"
+    },
+    {
+       "code":"930",
+       "name":"Technologie informatyczne"
+    },
+    {
+       "code":"887",
+       "name":"Technologie Kosmiczne i Satelitarne"
+    },
+    {
+       "code":"479",
+       "name":"Technologie ochrony środowiska"
+    },
+    {
+       "code":"48",
+       "name":"Teleinformatyka"
+    },
+    {
+       "code":"258",
+       "name":"Telekomunikacja"
+    },
+    {
+       "code":"148",
+       "name":"Teologia"
+    },
+    {
+       "code":"994",
+       "name":"Teologia II"
+    },
+    {
+       "code":"726",
+       "name":"Terapia artystyczna"
+    },
+    {
+       "code":"199",
+       "name":"Terapia zajęciowa"
+    },
+    {
+       "code":"13801",
+       "name":"Tkanina i ubiór"
+    },
+    {
+       "code":"112",
+       "name":"Towaroznawstwo"
+    },
+    {
+       "code":"14",
+       "name":"Transport"
+    },
+    {
+       "code":"432",
+       "name":"Transport i logistyka"
+    },
+    {
+       "code":"987",
+       "name":"Transport kolejowy"
+    },
+    {
+       "code":"1210",
+       "name":"Trener osobisty z dietetyką sportową"
+    },
+    {
+       "code":"1005",
+       "name":"Trener Personalny"
+    },
+    {
+       "code":"356",
+       "name":"Turystyka historyczna"
+    },
+    {
+       "code":"777",
+       "name":"Turystyka historyczna i dziedzictwo kulturowe"
+    },
+    {
+       "code":"4",
+       "name":"Turystyka i rekreacja"
+    },
+    {
+       "code":"586",
+       "name":"Undergraduate Programme in International Relations"
+    },
+    {
+       "code":"151",
+       "name":"Weterynaria"
+    },
+    {
+       "code":"698",
+       "name":"Wiedza o filmie i kulturze audiowizualnej"
+    },
+    {
+       "code":"232",
+       "name":"Wiedza o teatrze"
+    },
+    {
+       "code":"1027",
+       "name":"Włókiennictwo i przemysł mody"
+    },
+    {
+       "code":"727",
+       "name":"Wojsko w systemie służb publicznych"
+    },
+    {
+       "code":"396",
+       "name":"Wojskoznawstwo"
+    },
+    {
+       "code":"123",
+       "name":"Wokalistyka"
+    },
+    {
+       "code":"33",
+       "name":"Wychowanie fizyczne"
+    },
+    {
+       "code":"1004",
+       "name":"Wychowanie fizyczne w służbach mundurowych"
+    },
+    {
+       "code":"106",
+       "name":"Wzornictwo"
+    },
+    {
+       "code":"9",
+       "name":"Zarządzanie"
+    },
+    {
+       "code":"1104",
+       "name":"Zarządzanie bezpieczeństwem narodowym"
+    },
+    {
+       "code":"753",
+       "name":"Zarządzanie bezpieczeństwem państwa"
+    },
+    {
+       "code":"12768",
+       "name":"Zarządzanie Big Data"
+    },
+    {
+       "code":"1202",
+       "name":"Zarządzanie biznesem"
+    },
+    {
+       "code":"1103",
+       "name":"Zarządzanie dziedzictwem kulturowym"
+    },
+    {
+       "code":"13282",
+       "name":"Zarządzanie finansami i rachunkowość"
+    },
+    {
+       "code":"1062",
+       "name":"Zarządzanie finansami przedsiębiorstwa"
+    },
+    {
+       "code":"808",
+       "name":"Zarządzanie i coaching"
+    },
+    {
+       "code":"249",
+       "name":"Zarządzanie i dowodzenie"
+    },
+    {
+       "code":"5",
+       "name":"Zarządzanie i inżynieria produkcji"
+    },
+    {
+       "code":"1013",
+       "name":"Zarządzanie i inżynieria usług"
+    },
+    {
+       "code":"639",
+       "name":"Zarządzanie informacją"
+    },
+    {
+       "code":"830",
+       "name":"Zarządzanie informacją i publikowanie cyfrowe"
+    },
+    {
+       "code":"911",
+       "name":"Zarządzanie i nowe technologie w sferze publicznej"
+    },
+    {
+       "code":"523",
+       "name":"Zarządzanie instytucjami artystycznymi"
+    },
+    {
+       "code":"13701",
+       "name":"Zarządzanie inżynierskie"
+    },
+    {
+       "code":"835",
+       "name":"Zarządzanie i prawo w biznesie"
+    },
+    {
+       "code":"1066",
+       "name":"Zarządzanie i przywództwo"
+    },
+    {
+       "code":"648",
+       "name":"Zarządzanie Jakością i Analiza Żywności"
+    },
+    {
+       "code":"804",
+       "name":"Zarządzanie kreatywne"
+    },
+    {
+       "code":"291",
+       "name":"Zarządzanie kulturą i mediami"
+    },
+    {
+       "code":"12852",
+       "name":"Zarządzanie kulturą współczesną"
+    },
+    {
+       "code":"12854",
+       "name":"Zarządzanie mediami i reklamą"
+    },
+    {
+       "code":"1204",
+       "name":"Zarządzanie miastem"
+    },
+    {
+       "code":"1091",
+       "name":"Zarządzanie międzynarodowe"
+    },
+    {
+       "code":"660",
+       "name":"Zarządzanie oświatą i organizacjami pozarządowymi"
+    },
+    {
+       "code":"573",
+       "name":"Zarządzanie państwem"
+    },
+    {
+       "code":"1063",
+       "name":"Zarządzanie projektami"
+    },
+    {
+       "code":"754",
+       "name":"Zarządzanie projektami społecznymi"
+    },
+    {
+       "code":"12850",
+       "name":"Zarządzanie – psychologia w zarządzaniu"
+    },
+    {
+       "code":"304",
+       "name":"Zarządzanie publiczne"
+    },
+    {
+       "code":"1095",
+       "name":"Zarządzanie ryzykiem finansowym"
+    },
+    {
+       "code":"832",
+       "name":"Zarządzanie ryzykiem zdrowotnym"
+    },
+    {
+       "code":"435",
+       "name":"Zarządzanie środowiskiem"
+    },
+    {
+       "code":"567",
+       "name":"Zarządzanie środowiskiem przyrodniczym"
+    },
+    {
+       "code":"12720",
+       "name":"Zarządzanie w administracji publicznej"
+    },
+    {
+       "code":"14303",
+       "name":"Zarządzanie w nowoczesnej gospodarce"
+    },
+    {
+       "code":"12856",
+       "name":"Zarządzanie w turystyce i w sporcie"
+    },
+    {
+       "code":"305",
+       "name":"Zarządzanie zasobami ludzkimi"
+    },
+    {
+       "code":"4631",
+       "name":"Zastosowania fizyki w biologii i medycynie"
+    },
+    {
+       "code":"92",
+       "name":"Zdrowie publiczne"
+    },
+    {
+       "code":"1687",
+       "name":"Zdrowie środowiskowe"
+    },
+    {
+       "code":"11167",
+       "name":"Zdrowie środowiskowe i bhp"
+    },
+    {
+       "code":"933",
+       "name":"Zielarstwo"
+    },
+    {
+       "code":"634",
+       "name":"Zoofizjoterapia"
+    },
+    {
+       "code":"262",
+       "name":"Zootechnika"
+    },
+    {
+       "code":"1144",
+       "name":"Zwierzęta w rekreacji, edukacji i terapii"
+    },
+    {
+       "code":"616",
+       "name":"Żywienie człowieka i dietetyka"
+    },
+    {
+       "code":"1154",
+       "name":"Żywienie człowieka i dietoterapia"
+    },
+    {
+       "code":"311",
+       "name":"Żywienie człowieka i ocena żywności"
+    },
+    {
+       "code":"4613",
+       "name":"Żywienie zwierząt"
+    }
+ ]

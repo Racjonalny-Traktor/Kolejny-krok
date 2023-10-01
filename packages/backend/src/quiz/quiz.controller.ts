@@ -1,12 +1,14 @@
+import { Body, Controller, Get, Post, Logger, Param } from '@nestjs/common';
+
+const fetch = (...args) => {
+  // @ts-ignore
+  return import('node-fetch').then(({ default: fetch }) => fetch(...args));
+};
+
 import {
-  Body,
-  Controller,
-  Get,
-  Post,
-  Logger,
-  Param,
-  BadRequestException,
-} from '@nestjs/common';
+  getLinkForFindingUniveristies,
+  getLinkToGenerateInfoGraphics,
+} from 'src/ela/urls';
 
 import { questions as exampleQuestions } from 'src/examples/questions';
 import {
@@ -16,10 +18,14 @@ import {
   SubmitAnswerResponseDTO,
   SubmitSingleAnswerDTO,
 } from 'src/models/DTOs';
+import { Root } from 'src/models/graphics';
+import { RolesService } from 'src/roles/roles.service';
 
 @Controller('quiz')
 export class QuizController {
   private readonly logger = new Logger(QuizController.name);
+
+  constructor(private readonly rolesService: RolesService) {}
 
   @Get('/questions')
   async getAllQueststions(): Promise<GetAllQuestionsResponseDTO> {
@@ -50,8 +56,38 @@ export class QuizController {
     };
   }
 
-  @Get('/results')
-  async getResults(): Promise<GetResultsResponseDTO> {
-    return {} as any;
+  @Get('/results/:name')
+  async getResults(
+    @Param('name') name: string,
+  ): Promise<GetResultsResponseDTO | any> {
+    const code =
+      await this.rolesService.findUniversitiesWithSpecificEducation(name);
+    this.logger.debug(`Got the CODE: ${code}`);
+
+    const link = getLinkForFindingUniveristies(code);
+
+    try {
+      const html = await fetch(link);
+      const response = (await html.json()) as Root;
+
+      const insitutions = response.data.map((university) => {
+        const link = university.major?.links[0]?.link;
+
+        const seachParams = new URLSearchParams(link);
+
+        return seachParams.get('institution');
+      });
+
+      this.logger.debug(`Institutions: ${insitutions}`);
+
+      const linksToGenerateInfoGraphics = insitutions.map(
+        getLinkToGenerateInfoGraphics,
+      );
+
+      return linksToGenerateInfoGraphics;
+    } catch (error) {
+      this.logger.error(error);
+      throw new Error(error);
+    }
   }
 }
