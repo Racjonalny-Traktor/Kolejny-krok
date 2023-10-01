@@ -1,4 +1,12 @@
-import { Body, Controller, Get, Post, Logger } from '@nestjs/common';
+import {
+  Body,
+  Controller,
+  Get,
+  Post,
+  Logger,
+  Param,
+  BadRequestException,
+} from '@nestjs/common';
 
 import { questions as exampleQuestions } from 'src/examples/questions';
 import {
@@ -6,6 +14,7 @@ import {
   GetResultsResponseDTO,
   SubmitAnswerDTO,
   SubmitAnswerResponseDTO,
+  SubmitSingleAnswerDTO,
 } from 'src/models/DTOs';
 
 @Controller('quiz')
@@ -23,8 +32,16 @@ export class QuizController {
     };
   }
 
+  @Post('/answer')
+  async submitSingleAnswer(
+    @Body() answer: SubmitSingleAnswerDTO,
+  ): Promise<void> {
+    this.logger.log(JSON.stringify(answer));
+    return;
+  }
+
   @Post('/answers')
-  async submitAnswer(
+  async submitMultipleAnswers(
     @Body() answers: SubmitAnswerDTO,
   ): Promise<SubmitAnswerResponseDTO> {
     this.logger.log(JSON.stringify(answers));

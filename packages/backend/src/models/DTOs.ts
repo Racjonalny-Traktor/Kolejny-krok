@@ -6,6 +6,8 @@ export interface GetAllQuestionsResponseDTO {
   size: number;
 }
 
+export type SubmitSingleAnswerDTO = Pick<Answer, 'answerId' | 'questionId'>;
+
 export interface SubmitAnswerDTO {
   answers: Pick<Answer, 'answerId' | 'questionId'>[];
 }
