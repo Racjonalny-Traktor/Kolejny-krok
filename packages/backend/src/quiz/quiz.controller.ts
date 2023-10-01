@@ -42,6 +42,37 @@ export class QuizController {
   async submitSingleAnswer(
     @Body() answer: SubmitSingleAnswerDTO,
   ): Promise<void> {
+    try {
+      this.logger.debug({ answer });
+
+      const response = await fetch('https://alii.serveo.net/calculate', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          id: answer.questionId,
+          answer: answer.answerId,
+        }),
+      });
+
+      this.logger.debug({ response });
+
+      if (!response.ok) {
+        throw new Error('Error occureed in flask vbackend');
+      }
+
+      const roles = await response.json();
+
+      this.logger.debug({ roles });
+
+      // return roles;
+
+      return roles;
+    } catch (error) {
+      this.logger.error(error);
+    }
+
     this.logger.log(JSON.stringify(answer));
     return;
   }
@@ -59,6 +90,12 @@ export class QuizController {
   @Get('/results/:name')
   async getResults(
     @Param('name') name: string,
+  ): Promise<GetResultsResponseDTO | any> {
+    return this.getResultsLinks(name);
+  }
+
+  private async getResultsLinks(
+    name: string,
   ): Promise<GetResultsResponseDTO | any> {
     const code =
       await this.rolesService.findUniversitiesWithSpecificEducation(name);
