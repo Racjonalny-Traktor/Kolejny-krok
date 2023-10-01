@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "question": "Czy lubisz zwierzęta?"
+    },
+    {
+        "id": 2,
+        "question": "Czy lubisz pomagać innym?"
+    },
+    {
+        "id": 3,
+        "question": "Czy lubisz pracę biurową?"
+    },
+    {
+        "id": 4,
+        "question": "Czy lubisz pracę fizyczną?"
+    },
+    {
+        "id": 5,
+        "question": "Czy lubisz biologię?"
+    },
+    {
+        "id": 6,
+        "question": "Czy lubisz fizykę?"
+    },
+    {
+        "id": 7,
+        "question": "Czy lubisz pracę z ludźmi?"
+    },
+    {
+        "id": 8,
+        "question": "Czy będziesz kiedyś studiować?"
+    },
+    {
+        "id": 9,
+        "question": "Czy interesujesz się danymi?"
+    },
+    {
+        "id": 10,
+        "question": "Czy interesujesz się naukami społecznymi?"
+    }
+]
