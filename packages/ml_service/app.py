@@ -34,9 +34,12 @@ def compare_context(text1, text2):
     return similarity
 
 def load_csv():
+    # csv_filename = 'occupations.csv'
+    # df = pd.read_csv(csv_filename)
+    csv_path = os.path.join(os.getcwd(), 'packages/ml_service/')
     csv_filename = 'occupations.csv'
-    df = pd.read_csv(csv_filename)
-
+    path_to_csv = os.path.join(csv_path, csv_filename)
+    df = pd.read_csv(path_to_csv)
     return df
 
 def data_preparation(df):
@@ -124,14 +127,20 @@ def merge_columns(df):
     return merged_df
 
 def save_json(career_results):
+    json_path = os.path.join(os.getcwd(), 'packages/ml_service/')
     file_name = "career_results.json"
+    path_to_json = os.path.join(json_path, file_name)
 
     with open(file_name, "w") as json_file:
         # Use json.dump to write the dictionary to the file
         json.dump(career_results, json_file)
 
 def load_json(file_name):
-    with open(file_name, "r") as json_file:
+
+    json_path = os.path.join(os.getcwd(), 'packages/ml_service/')
+    path_to_json = os.path.join(json_path, file_name)
+
+    with open(path_to_json, "r") as json_file:
         loaded_data = json.load(json_file)
         return loaded_data
 
@@ -141,33 +150,36 @@ def solve(career_results, df, question, answer):
         random_number = random.random()
 
         if random_number < 0.01:
-            career_results[key] = value + compare_context(df['description'][key], question) * answer
+            career_results[key] = value + compare_context(df.loc[int(key), 'description'], question) * answer
 
     return career_results
 
 def return_solution(career_results, df_input):
 
     top_3_careers = sorted(career_results, key=lambda k: career_results[k], reverse=True)[:3]
+    int_list = list(map(int, top_3_careers))
 
-    result = df_input[df_input['id'].isin(top_3_careers)]
+    result = df_input[df_input['id'].isin(int_list)]
 
     return result
 
 def get_answer(value):
-    if value == 'tak':
+    if value == 0:
         return 1
-    elif value == 'raczej tak':
+    elif value == 1:
         return 0.5
-    elif value == 'raczej nie':
+    elif value == 2:
         return -0.5
-    elif value == 'nie':
+    elif value == 3:
         return -1
     else:
         raise ValueError(f'There is no such answer as {value}!')
     
 def get_question(id):
-    json_file = 'questions.json'
-    with open(json_file, 'r', encoding='utf-8') as file:
+    json_path = os.path.join(os.getcwd(), 'packages/ml_service/')
+    file_name = 'questions.json'
+    path_to_json = os.path.join(json_path, file_name)
+    with open(path_to_json, 'r', encoding='utf-8') as file:
         data = json.load(file)
     
     for item in data:
@@ -179,26 +191,33 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 
-@app.route('/calculate', methods=['POST'])
+@app.route('/calculate', methods=['GET', 'POST'])
 def calculate():
     data = request.get_json()
 
     if not data or 'id' not in data or 'answer' not in data:
         return jsonify({"error": "Both 'id' and 'answer' must be provided"}), 400
-
-    try:
-        df_input = load_csv()
-        df = df_input.copy()
-        data_preparation(df)
-        df = merge_columns(df)
-        career_results = load_json('career_results.json')
-        career_results = solve(career_results, df, get_question(data.question), get_answer(data.answer))
-        save_json(career_results)
-        result = return_solution(career_results, df_input)
-        json_result = result.to_json(orient='records')
-        return jsonify(json_result)
-    except ValueError:
-        return jsonify({"error": "Invalid input. Both 'id' and 'answer' must be integers"}), 400
+    
+    # data = {
+    # "id": 3,
+    # "answer": 0
+    # }
+    json_data = json.dumps(data)
+    print(json_data)
+    current_path = os.getcwd()
+    print("Current Path:", current_path)
+    df_input = load_csv()
+    df = df_input.copy()
+    data_preparation(df)
+    df = merge_columns(df)
+    career_results = load_json('career_results.json')
+    career_results = solve(career_results, df, get_question(data['id']), get_answer(data['answer']))
+    save_json(career_results)
+    result = return_solution(career_results, df_input)
+    print(result)
+    json_result = result.to_json(orient='records')
+    print(json_result)
+    return jsonify(json_result)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=5001)
