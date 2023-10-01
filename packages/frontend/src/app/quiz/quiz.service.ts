@@ -1,5 +1,5 @@
 import { Injectable } from "@angular/core";
-import { Observable, of, tap } from "rxjs";
+import { Observable, map, of, tap } from "rxjs";
 
 import { Question } from "../dto";
 import { HttpClient } from "@angular/common/http";
@@ -9,21 +9,25 @@ export class QuizService {
 
     private questions: Question[];
 
-    private apiPath = 'localhost:3000/v1/quiz/';
+    private apiPath = 'http://localhost:3000/v1/quiz/';
 
     constructor(private http: HttpClient) {}
     fetchQuestions(): Observable<Question[]>{
-        return this.http.get<Question[]>(`${this.apiPath}/questions`);
+        return this.http.get<any>(`${this.apiPath}questions`)
+            .pipe(
+                map(result => result.questions),
+                tap((questions: []) => {this.questions = questions})
+            );
         return of([
             {
                 answers: [
-                    {description: 'Jabłkiem', answerId: '0'}, 
-                    {description: 'Parówką', answerId: '1'},
-                    {description: 'Sokiem', answerId: '2'},
-                    {description: 'Żwirkiem', answerId: '3'}
+                    {description: 'Zdecydowanie tak', answerId: '0'}, 
+                    {description: 'Raczej tak', answerId: '1'},
+                    {description: 'Raczej nie', answerId: '2'},
+                    {description: 'Zdecydowanie nie', answerId: '3'}
                 ], 
 
-                description: 'Jakim warzywem chciałbyś być ?', 
+                description: 'Czy lubisz zwierzęta ?', 
                 questionId: 0
             },
             {

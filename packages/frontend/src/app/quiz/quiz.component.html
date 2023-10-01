@@ -3,7 +3,7 @@
         <div class="card" *ngIf="!showFunFuct()">
 
             <div class="card-header">
-              Question {{currentQuestion + 1}} of {{questions.length}}
+              Pytanie {{currentQuestion + 1}} z {{questions.length}}
             </div>
             <div class="card-body">
               <h5 class="card-title">{{questions[currentQuestion].description}}</h5>
@@ -40,7 +40,7 @@
                 class="btn btn-secondary btn-previous" 
                 style="margin-top: 1rem;"
                 [disabled]="isPreviousButtonDisabled()"
-                (click)="onPreviousQuestionClick()">Previous</button>
+                (click)="onPreviousQuestionClick()">Poprzednie</button>
             </div>
         </div>
         <div *ngIf="showFunFuct()">
