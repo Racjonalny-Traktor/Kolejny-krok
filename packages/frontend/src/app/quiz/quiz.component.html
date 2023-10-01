@@ -1,6 +1,7 @@
 <div class="quiz-container">
     <div class="question-container">
         <div class="card" *ngIf="!showFunFuct()">
+
             <div class="card-header">
               Question {{currentQuestion + 1}} of {{questions.length}}
             </div>
@@ -27,6 +28,7 @@
                 </div>
               </div>
                 <!-- <div class="form-check" *ngFor="let answer of questions[currentQuestion].answers; index as i">
+
                     <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1"
                     (click)="onAnswerClick(i)">
                     <label class="form-check-label" for="flexRadioDefault1">

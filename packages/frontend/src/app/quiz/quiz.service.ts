@@ -1,5 +1,6 @@
 import { Injectable } from "@angular/core";
 import { Observable, of, tap } from "rxjs";
+
 import { Question } from "../dto";
 
 @Injectable({providedIn: 'root'})
@@ -16,6 +17,7 @@ export class QuizService {
                     {description: 'Sokiem', answerId: '2'},
                     {description: 'Żwirkiem', answerId: '3'}
                 ], 
+
                 description: 'Jakim warzywem chciałbyś być ?', 
                 questionId: 0
             },
@@ -25,6 +27,7 @@ export class QuizService {
                 questionId: 1
             }
         ]).pipe(tap((questions: []) => {this.questions = questions}));
+
     }
 
     submitAnswers(answers: number[]): Observable<any> {

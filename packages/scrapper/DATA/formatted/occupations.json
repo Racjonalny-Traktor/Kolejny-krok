@@ -1,0 +1,3822 @@
+[
+  {
+    "id": 415,
+    "name": "Administratorka baz danych",
+    "future": false
+  },
+  {
+    "id": 893,
+    "name": "Administratorka budynków mieszkalnych",
+    "future": false
+  },
+  {
+    "id": 1147,
+    "name": "Administratorka systemów komputerowych",
+    "future": false
+  },
+  {
+    "id": 58,
+    "name": "Adwokatka",
+    "future": false
+  },
+  {
+    "id": 1948,
+    "name": "Agentka literacka",
+    "future": false
+  },
+  {
+    "id": 1325,
+    "name": "Agentka nieruchomości",
+    "future": false
+  },
+  {
+    "id": 1046,
+    "name": "Agentka ubezpieczeniowa",
+    "future": false
+  },
+  {
+    "id": 2019,
+    "name": "Agile Coach",
+    "future": false
+  },
+  {
+    "id": 847,
+    "name": "Akrobatka",
+    "future": false
+  },
+  {
+    "id": 32,
+    "name": "Aktorka",
+    "future": false
+  },
+  {
+    "id": 403,
+    "name": "Aktorka lalkarka",
+    "future": false
+  },
+  {
+    "id": 1123,
+    "name": "Aktuariuszka",
+    "future": false
+  },
+  {
+    "id": 769,
+    "name": "Alpinistka przemysłowa",
+    "future": false
+  },
+  {
+    "id": 1007,
+    "name": "Analityczka biznesowa",
+    "future": false
+  },
+  {
+    "id": 1216,
+    "name": "Analityczka cyber-miasta",
+    "future": true
+  },
+  {
+    "id": 1915,
+    "name": "Analityczka dozoru jądrowego",
+    "future": false
+  },
+  {
+    "id": 1750,
+    "name": "Analityczka GIS",
+    "future": false
+  },
+  {
+    "id": 1272,
+    "name": "Analityczka laboratoryjna",
+    "future": false
+  },
+  {
+    "id": 1164,
+    "name": "Analityczka ruchu w sieci",
+    "future": false
+  },
+  {
+    "id": 766,
+    "name": "Analityczka sportowa",
+    "future": false
+  },
+  {
+    "id": 99,
+    "name": "Analityczka systemowa",
+    "future": false
+  },
+  {
+    "id": 2029,
+    "name": "Analityczka telemetrii",
+    "future": false
+  },
+  {
+    "id": 2008,
+    "name": "Anestezjolożka",
+    "future": false
+  },
+  {
+    "id": 1198,
+    "name": "Animatorka czasu wolnego",
+    "future": false
+  },
+  {
+    "id": 628,
+    "name": "Animatorka kultury",
+    "future": false
+  },
+  {
+    "id": 1362,
+    "name": "Ankieterka",
+    "future": false
+  },
+  {
+    "id": 1226,
+    "name": "Antykwariuszka",
+    "future": false
+  },
+  {
+    "id": 1112,
+    "name": "Antyterrorystka",
+    "future": false
+  },
+  {
+    "id": 1500,
+    "name": "Antywindykatorka",
+    "future": true
+  },
+  {
+    "id": 1522,
+    "name": "Aranżerka wnętrz",
+    "future": false
+  },
+  {
+    "id": 824,
+    "name": "Arborystka",
+    "future": false
+  },
+  {
+    "id": 235,
+    "name": "Archeolożka",
+    "future": false
+  },
+  {
+    "id": 56,
+    "name": "Architektka",
+    "future": false
+  },
+  {
+    "id": 857,
+    "name": "Architektka krajobrazu",
+    "future": false
+  },
+  {
+    "id": 265,
+    "name": "Architektka wnętrz",
+    "future": false
+  },
+  {
+    "id": 725,
+    "name": "Archiwistka",
+    "future": false
+  },
+  {
+    "id": 984,
+    "name": "Archiwistka zakładowa",
+    "future": false
+  },
+  {
+    "id": 600,
+    "name": "Arteterapeutka",
+    "future": false
+  },
+  {
+    "id": 1893,
+    "name": "Astrobiolożka",
+    "future": false
+  },
+  {
+    "id": 376,
+    "name": "Astrofizyczka",
+    "future": false
+  },
+  {
+    "id": 1328,
+    "name": "Astronautka",
+    "future": false
+  },
+  {
+    "id": 206,
+    "name": "Astronomka",
+    "future": false
+  },
+  {
+    "id": 1640,
+    "name": "Asystentka badań klinicznych",
+    "future": false
+  },
+  {
+    "id": 1201,
+    "name": "Asystentka medyczna",
+    "future": false
+  },
+  {
+    "id": 350,
+    "name": "Asystentka nauczyciela",
+    "future": false
+  },
+  {
+    "id": 716,
+    "name": "Asystentka osobista",
+    "future": false
+  },
+  {
+    "id": 588,
+    "name": "Asystentka osoby z niepełnosprawnością",
+    "future": false
+  },
+  {
+    "id": 2078,
+    "name": "Asystentka rodziny",
+    "future": false
+  },
+  {
+    "id": 1953,
+    "name": "Asystentka sędziego",
+    "future": false
+  },
+  {
+    "id": 400,
+    "name": "Asystentka stomatologiczna",
+    "future": false
+  },
+  {
+    "id": 2050,
+    "name": "Audiolożka",
+    "future": false
+  },
+  {
+    "id": 1480,
+    "name": "Audytorka dostępności stron WWW",
+    "future": false
+  },
+  {
+    "id": 1985,
+    "name": "Audytorka energetyczna",
+    "future": false
+  },
+  {
+    "id": 1133,
+    "name": "Audytorka środowiskowa",
+    "future": false
+  },
+  {
+    "id": 1743,
+    "name": "Automatyczka",
+    "future": false
+  },
+  {
+    "id": 1213,
+    "name": "Automatyczka ruchu kolejowego",
+    "future": false
+  },
+  {
+    "id": 1858,
+    "name": "Autorka tekstów medycznych",
+    "future": false
+  },
+  {
+    "id": 839,
+    "name": "Baca",
+    "future": false
+  },
+  {
+    "id": 1973,
+    "name": "Badaczka rynku",
+    "future": false
+  },
+  {
+    "id": 1664,
+    "name": "Balsamistka",
+    "future": false
+  },
+  {
+    "id": 1024,
+    "name": "Baristka",
+    "future": false
+  },
+  {
+    "id": 1215,
+    "name": "Barmanka",
+    "future": false
+  },
+  {
+    "id": 646,
+    "name": "Betoniarka-zbrojarka",
+    "future": false
+  },
+  {
+    "id": 2035,
+    "name": "BI Developerka",
+    "future": false
+  },
+  {
+    "id": 666,
+    "name": "Bibliotekarka",
+    "future": false
+  },
+  {
+    "id": 1475,
+    "name": "Biegła rewidentka",
+    "future": false
+  },
+  {
+    "id": 298,
+    "name": "Bioinformatyczka",
+    "future": false
+  },
+  {
+    "id": 504,
+    "name": "Biolożka",
+    "future": false
+  },
+  {
+    "id": 1154,
+    "name": "Biolożka gatunków wymarłych",
+    "future": true
+  },
+  {
+    "id": 1666,
+    "name": "Biolożka molekularna",
+    "future": false
+  },
+  {
+    "id": 1977,
+    "name": "Biolożka morska",
+    "future": false
+  },
+  {
+    "id": 1703,
+    "name": "Biolożka starzenia",
+    "future": true
+  },
+  {
+    "id": 1787,
+    "name": "Biostatystyczka",
+    "future": false
+  },
+  {
+    "id": 51,
+    "name": "Biotechnolożka",
+    "future": false
+  },
+  {
+    "id": 430,
+    "name": "Blacharka",
+    "future": false
+  },
+  {
+    "id": 728,
+    "name": "Blogerka",
+    "future": false
+  },
+  {
+    "id": 1191,
+    "name": "Brokerka danych osobowych",
+    "future": false
+  },
+  {
+    "id": 544,
+    "name": "Brokerka informacji",
+    "future": false
+  },
+  {
+    "id": 1377,
+    "name": "Brokerka prywatności",
+    "future": true
+  },
+  {
+    "id": 104,
+    "name": "Brokerka ubezpieczeniowa",
+    "future": false
+  },
+  {
+    "id": 723,
+    "name": "Brukarka",
+    "future": false
+  },
+  {
+    "id": 1089,
+    "name": "Bukmacherka",
+    "future": false
+  },
+  {
+    "id": 1695,
+    "name": "Bursztyniarka",
+    "future": false
+  },
+  {
+    "id": 81,
+    "name": "Celniczka",
+    "future": false
+  },
+  {
+    "id": 794,
+    "name": "Ceramiczka budowlana",
+    "future": false
+  },
+  {
+    "id": 863,
+    "name": "Ceramiczka wyrobów ozdobnych",
+    "future": false
+  },
+  {
+    "id": 1755,
+    "name": "Charakteryzatorka",
+    "future": false
+  },
+  {
+    "id": 300,
+    "name": "Chemiczka",
+    "future": false
+  },
+  {
+    "id": 1748,
+    "name": "Chemiczka organiczka",
+    "future": false
+  },
+  {
+    "id": 1822,
+    "name": "Chemiczka reaktorowa",
+    "future": false
+  },
+  {
+    "id": 1871,
+    "name": "Chief Happiness Officer",
+    "future": false
+  },
+  {
+    "id": 25,
+    "name": "Chirurżka",
+    "future": false
+  },
+  {
+    "id": 2043,
+    "name": "Chirurżka plastyczna",
+    "future": false
+  },
+  {
+    "id": 116,
+    "name": "Chmielarka",
+    "future": false
+  },
+  {
+    "id": 1233,
+    "name": "Choreografka",
+    "future": false
+  },
+  {
+    "id": 607,
+    "name": "Cieśla",
+    "future": false
+  },
+  {
+    "id": 898,
+    "name": "Coacherka",
+    "future": false
+  },
+  {
+    "id": 91,
+    "name": "Copywriterka",
+    "future": false
+  },
+  {
+    "id": 282,
+    "name": "Cukierniczka",
+    "future": false
+  },
+  {
+    "id": 1708,
+    "name": "Cyberprofilerka",
+    "future": true
+  },
+  {
+    "id": 1673,
+    "name": "Cyfrowa krawcowa",
+    "future": true
+  },
+  {
+    "id": 1906,
+    "name": "Cyfrowa lingwistka",
+    "future": true
+  },
+  {
+    "id": 1035,
+    "name": "Data Scientist",
+    "future": false
+  },
+  {
+    "id": 1870,
+    "name": "Dealerka aktywów finansowych",
+    "future": false
+  },
+  {
+    "id": 966,
+    "name": "Dekarka",
+    "future": false
+  },
+  {
+    "id": 359,
+    "name": "Demografka",
+    "future": false
+  },
+  {
+    "id": 902,
+    "name": "Deratyzatorka",
+    "future": false
+  },
+  {
+    "id": 1265,
+    "name": "Dermatolożka",
+    "future": false
+  },
+  {
+    "id": 365,
+    "name": "Detektywka prywatna",
+    "future": false
+  },
+  {
+    "id": 210,
+    "name": "Diagnostka laboratoryjna",
+    "future": false
+  },
+  {
+    "id": 369,
+    "name": "Diagnostka samochodowa",
+    "future": false
+  },
+  {
+    "id": 220,
+    "name": "Dietetyczka",
+    "future": false
+  },
+  {
+    "id": 1163,
+    "name": "Dietetyczka flory jelitowej",
+    "future": true
+  },
+  {
+    "id": 208,
+    "name": "DJ-ka",
+    "future": false
+  },
+  {
+    "id": 923,
+    "name": "Doradczyni ADR",
+    "future": false
+  },
+  {
+    "id": 1720,
+    "name": "Doradczyni edukacyjna",
+    "future": false
+  },
+  {
+    "id": 347,
+    "name": "Doradczyni finansowa",
+    "future": false
+  },
+  {
+    "id": 1359,
+    "name": "Doradczyni firm farmaceutycznych",
+    "future": false
+  },
+  {
+    "id": 1141,
+    "name": "Doradczyni klienta",
+    "future": false
+  },
+  {
+    "id": 1696,
+    "name": "Doradczyni kryptowalutowa",
+    "future": false
+  },
+  {
+    "id": 73,
+    "name": "Doradczyni podatkowa",
+    "future": false
+  },
+  {
+    "id": 1117,
+    "name": "Doradczyni rolnicza",
+    "future": false
+  },
+  {
+    "id": 955,
+    "name": "Doradczyni zawodowa",
+    "future": false
+  },
+  {
+    "id": 910,
+    "name": "Dorożkarka",
+    "future": false
+  },
+  {
+    "id": 842,
+    "name": "Dostawczyni potraw",
+    "future": false
+  },
+  {
+    "id": 1230,
+    "name": "Doula",
+    "future": false
+  },
+  {
+    "id": 1379,
+    "name": "Dozorczyni",
+    "future": false
+  },
+  {
+    "id": 1001,
+    "name": "Dójka",
+    "future": false
+  },
+  {
+    "id": 626,
+    "name": "Dróżniczka przejazdowa",
+    "future": false
+  },
+  {
+    "id": 634,
+    "name": "Drukarka",
+    "future": false
+  },
+  {
+    "id": 114,
+    "name": "Drwalka",
+    "future": false
+  },
+  {
+    "id": 79,
+    "name": "Duchowna",
+    "future": false
+  },
+  {
+    "id": 1791,
+    "name": "Dyplomatka",
+    "future": false
+  },
+  {
+    "id": 428,
+    "name": "Dyrektorka placówki oświatowej",
+    "future": false
+  },
+  {
+    "id": 2075,
+    "name": "Dyrektorka rozwoju i realizacji projektów budowlanych",
+    "future": false
+  },
+  {
+    "id": 311,
+    "name": "Dyrektorka więzienia",
+    "future": false
+  },
+  {
+    "id": 584,
+    "name": "Dyrygentka",
+    "future": false
+  },
+  {
+    "id": 328,
+    "name": "Dyspozytorka lotnicza",
+    "future": false
+  },
+  {
+    "id": 1371,
+    "name": "Dystrybutorka ulotek",
+    "future": false
+  },
+  {
+    "id": 278,
+    "name": "Dziennikarka",
+    "future": false
+  },
+  {
+    "id": 1302,
+    "name": "Dziewiarka ",
+    "future": false
+  },
+  {
+    "id": 805,
+    "name": "Dżokejka",
+    "future": false
+  },
+  {
+    "id": 1508,
+    "name": "E-sportowczyni",
+    "future": false
+  },
+  {
+    "id": 456,
+    "name": "Edukatorka ekologiczna",
+    "future": false
+  },
+  {
+    "id": 1704,
+    "name": "Edukatorka technologii holodeck",
+    "future": true
+  },
+  {
+    "id": 111,
+    "name": "Edukatorka zdrowia",
+    "future": false
+  },
+  {
+    "id": 575,
+    "name": "Ekolożka",
+    "future": false
+  },
+  {
+    "id": 407,
+    "name": "Ekonomistka",
+    "future": false
+  },
+  {
+    "id": 1014,
+    "name": "Ekspedientka pocztowa",
+    "future": false
+  },
+  {
+    "id": 946,
+    "name": "Elektroenergetyczka elektrowni cieplnych",
+    "future": false
+  },
+  {
+    "id": 2044,
+    "name": "Elektroenergetyczka pomiarów i zabezpieczeń",
+    "future": false
+  },
+  {
+    "id": 1834,
+    "name": "Elektroenergetyczka transportu szynowego",
+    "future": false
+  },
+  {
+    "id": 1746,
+    "name": "Elektromechaniczka",
+    "future": false
+  },
+  {
+    "id": 1502,
+    "name": "Elektromonterka elektroenergetyczna",
+    "future": false
+  },
+  {
+    "id": 787,
+    "name": "Elektroniczka",
+    "future": false
+  },
+  {
+    "id": 340,
+    "name": "Elektroradiolożka",
+    "future": false
+  },
+  {
+    "id": 808,
+    "name": "Elektryczka",
+    "future": false
+  },
+  {
+    "id": 1925,
+    "name": "Energetyczka",
+    "future": false
+  },
+  {
+    "id": 1745,
+    "name": "Entomolożka",
+    "future": false
+  },
+  {
+    "id": 1659,
+    "name": "Epidemiolożka",
+    "future": false
+  },
+  {
+    "id": 1235,
+    "name": "Etnografka",
+    "future": false
+  },
+  {
+    "id": 1060,
+    "name": "Etyczna hakerka",
+    "future": false
+  },
+  {
+    "id": 274,
+    "name": "Farmaceutka",
+    "future": false
+  },
+  {
+    "id": 1744,
+    "name": "Farmakolożka kliniczna",
+    "future": false
+  },
+  {
+    "id": 52,
+    "name": "Fizjoterapeutka",
+    "future": false
+  },
+  {
+    "id": 385,
+    "name": "Fizyczka",
+    "future": false
+  },
+  {
+    "id": 1922,
+    "name": "Fizyczka reaktorowa",
+    "future": false
+  },
+  {
+    "id": 71,
+    "name": "Florystka",
+    "future": false
+  },
+  {
+    "id": 1366,
+    "name": "Formierka odlewniczka",
+    "future": false
+  },
+  {
+    "id": 88,
+    "name": "Fotografka",
+    "future": false
+  },
+  {
+    "id": 809,
+    "name": "Fotoreporterka",
+    "future": false
+  },
+  {
+    "id": 26,
+    "name": "Fryzjerka",
+    "future": false
+  },
+  {
+    "id": 1975,
+    "name": "Full Stack Developerka",
+    "future": false
+  },
+  {
+    "id": 792,
+    "name": "Fundraiserka",
+    "future": false
+  },
+  {
+    "id": 290,
+    "name": "Funkcjonariuszka SOK",
+    "future": false
+  },
+  {
+    "id": 657,
+    "name": "Funkcjonariuszka straży granicznej",
+    "future": false
+  },
+  {
+    "id": 844,
+    "name": "Galwanizerka",
+    "future": false
+  },
+  {
+    "id": 1249,
+    "name": "Gamifikatorka",
+    "future": false
+  },
+  {
+    "id": 1294,
+    "name": "Garbarka",
+    "future": false
+  },
+  {
+    "id": 662,
+    "name": "Gazowniczka",
+    "future": false
+  },
+  {
+    "id": 854,
+    "name": "Gemmolożka",
+    "future": false
+  },
+  {
+    "id": 1483,
+    "name": "Genetyczka",
+    "future": false
+  },
+  {
+    "id": 1105,
+    "name": "Geodetka ",
+    "future": false
+  },
+  {
+    "id": 1459,
+    "name": "Geofizyczka",
+    "future": false
+  },
+  {
+    "id": 523,
+    "name": "Geografka",
+    "future": false
+  },
+  {
+    "id": 1078,
+    "name": "Geolożka",
+    "future": false
+  },
+  {
+    "id": 1146,
+    "name": "Ginekolożka",
+    "future": false
+  },
+  {
+    "id": 757,
+    "name": "Glazurniczka",
+    "future": false
+  },
+  {
+    "id": 1095,
+    "name": "Gleboznawczyni",
+    "future": false
+  },
+  {
+    "id": 1877,
+    "name": "Główna technolożka",
+    "future": false
+  },
+  {
+    "id": 512,
+    "name": "Gospodyni agroturystyki",
+    "future": false
+  },
+  {
+    "id": 872,
+    "name": "Górniczka odkrywkowa",
+    "future": false
+  },
+  {
+    "id": 833,
+    "name": "Górniczka otworowa",
+    "future": false
+  },
+  {
+    "id": 660,
+    "name": "Górniczka podziemna",
+    "future": false
+  },
+  {
+    "id": 760,
+    "name": "Grabarka",
+    "future": false
+  },
+  {
+    "id": 620,
+    "name": "Graficzka DTP",
+    "future": false
+  },
+  {
+    "id": 1735,
+    "name": "Grawerka",
+    "future": false
+  },
+  {
+    "id": 759,
+    "name": "Greenkeeperka",
+    "future": false
+  },
+  {
+    "id": 201,
+    "name": "Groomerka",
+    "future": false
+  },
+  {
+    "id": 865,
+    "name": "Grzyboznawczyni",
+    "future": false
+  },
+  {
+    "id": 986,
+    "name": "Handlowczyni",
+    "future": false
+  },
+  {
+    "id": 1448,
+    "name": "Higienistka stomatologiczna",
+    "future": false
+  },
+  {
+    "id": 1415,
+    "name": "Historyczka",
+    "future": false
+  },
+  {
+    "id": 1124,
+    "name": "Hodowczyni owadów",
+    "future": true
+  },
+  {
+    "id": 1107,
+    "name": "Hodowczyni ryb",
+    "future": false
+  },
+  {
+    "id": 755,
+    "name": "Hodowczyni zwierząt futerkowych",
+    "future": false
+  },
+  {
+    "id": 1050,
+    "name": "Hodowczyni zwierząt gospodarskich",
+    "future": false
+  },
+  {
+    "id": 1378,
+    "name": "Hostessa",
+    "future": false
+  },
+  {
+    "id": 510,
+    "name": "Hotelarka",
+    "future": false
+  },
+  {
+    "id": 1413,
+    "name": "HR Business Partnerka",
+    "future": false
+  },
+  {
+    "id": 748,
+    "name": "Hutniczka dmuchaczka szkła",
+    "future": false
+  },
+  {
+    "id": 598,
+    "name": "Hydrauliczka",
+    "future": false
+  },
+  {
+    "id": 453,
+    "name": "Hydrografka",
+    "future": false
+  },
+  {
+    "id": 1091,
+    "name": "Hydrolożka",
+    "future": false
+  },
+  {
+    "id": 345,
+    "name": "Ilustratorka",
+    "future": false
+  },
+  {
+    "id": 754,
+    "name": "Iluzjonistka",
+    "future": false
+  },
+  {
+    "id": 466,
+    "name": "Informatorka pasażerska",
+    "future": false
+  },
+  {
+    "id": 968,
+    "name": "Informatyczka",
+    "future": false
+  },
+  {
+    "id": 1713,
+    "name": "Inspektorka bezpieczeństwa inteligentnej budowy",
+    "future": true
+  },
+  {
+    "id": 1139,
+    "name": "Inspektorka dozoru jądrowego",
+    "future": false
+  },
+  {
+    "id": 1810,
+    "name": "Inspektorka kontroli skarbowej",
+    "future": false
+  },
+  {
+    "id": 115,
+    "name": "Inspektorka morska",
+    "future": false
+  },
+  {
+    "id": 976,
+    "name": "Inspektorka nadzoru budowlanego",
+    "future": false
+  },
+  {
+    "id": 1082,
+    "name": "Inspektorka ochrony danych",
+    "future": false
+  },
+  {
+    "id": 816,
+    "name": "Inspektorka ochrony radiologicznej",
+    "future": false
+  },
+  {
+    "id": 820,
+    "name": "Inspektorka pracy",
+    "future": false
+  },
+  {
+    "id": 1656,
+    "name": "Inspektorka transportu drogowego",
+    "future": false
+  },
+  {
+    "id": 1330,
+    "name": "Instalatorka sensorów zdrowotnych",
+    "future": true
+  },
+  {
+    "id": 436,
+    "name": "Instalatorka systemów alarmowych",
+    "future": false
+  },
+  {
+    "id": 229,
+    "name": "Instruktorka fitness",
+    "future": false
+  },
+  {
+    "id": 604,
+    "name": "Instruktorka jazdy konnej",
+    "future": false
+  },
+  {
+    "id": 999,
+    "name": "Instruktorka narciarstwa",
+    "future": false
+  },
+  {
+    "id": 705,
+    "name": "Instruktorka nauki jazdy",
+    "future": false
+  },
+  {
+    "id": 670,
+    "name": "Instruktorka odnowy biologicznej",
+    "future": false
+  },
+  {
+    "id": 1375,
+    "name": "Instruktorka osób z niepełnosprawnością",
+    "future": false
+  },
+  {
+    "id": 2053,
+    "name": "Instruktorka reintegracji zawodowej",
+    "future": false
+  },
+  {
+    "id": 405,
+    "name": "Instruktorka sztuki walki",
+    "future": false
+  },
+  {
+    "id": 331,
+    "name": "Instruktorka tańca",
+    "future": false
+  },
+  {
+    "id": 1172,
+    "name": "Instruktorka terapii uzależnień ",
+    "future": false
+  },
+  {
+    "id": 1319,
+    "name": "Intendentka",
+    "future": false
+  },
+  {
+    "id": 1083,
+    "name": "Interplanetarna agentka turystyczna",
+    "future": true
+  },
+  {
+    "id": 1869,
+    "name": "Inżynierka analizy danych",
+    "future": false
+  },
+  {
+    "id": 1679,
+    "name": "Inżynierka audiowizualna",
+    "future": false
+  },
+  {
+    "id": 822,
+    "name": "Inżynierka automatyki i robotyki",
+    "future": false
+  },
+  {
+    "id": 861,
+    "name": "Inżynierka awionik",
+    "future": false
+  },
+  {
+    "id": 446,
+    "name": "Inżynierka biomedyczna",
+    "future": false
+  },
+  {
+    "id": 1796,
+    "name": "Inżynierka budowy",
+    "future": false
+  },
+  {
+    "id": 1445,
+    "name": "Inżynierka budowy mostów",
+    "future": false
+  },
+  {
+    "id": 1505,
+    "name": "Inżynierka DevOps",
+    "future": false
+  },
+  {
+    "id": 2051,
+    "name": "Inżynierka elektroenergetyczka",
+    "future": false
+  },
+  {
+    "id": 212,
+    "name": "Inżynierka elektryczka",
+    "future": false
+  },
+  {
+    "id": 517,
+    "name": "Inżynierka energetyczna",
+    "future": false
+  },
+  {
+    "id": 473,
+    "name": "Inżynierka energetyki odnawialnej",
+    "future": false
+  },
+  {
+    "id": 96,
+    "name": "Inżynierka gospodarki odpadami",
+    "future": false
+  },
+  {
+    "id": 690,
+    "name": "Inżynierka gospodarki wodnej i hydrologii",
+    "future": false
+  },
+  {
+    "id": 1634,
+    "name": "Inżynierka górnictwa odkrywkowego",
+    "future": false
+  },
+  {
+    "id": 830,
+    "name": "Inżynierka górnictwa pozaziemskiego",
+    "future": true
+  },
+  {
+    "id": 1156,
+    "name": "Inżynierka kultur tkankowych",
+    "future": true
+  },
+  {
+    "id": 98,
+    "name": "Inżynierka materiałowa",
+    "future": false
+  },
+  {
+    "id": 1184,
+    "name": "Inżynierka nanomedycyny",
+    "future": true
+  },
+  {
+    "id": 499,
+    "name": "Inżynierka ogrodnictwa",
+    "future": false
+  },
+  {
+    "id": 417,
+    "name": "Inżynierka okrętowa",
+    "future": false
+  },
+  {
+    "id": 1910,
+    "name": "Inżynierka reaktorowa",
+    "future": false
+  },
+  {
+    "id": 2080,
+    "name": "Inżynierka sanitarna",
+    "future": false
+  },
+  {
+    "id": 1128,
+    "name": "Inżynierka sieci komputerowych",
+    "future": false
+  },
+  {
+    "id": 1965,
+    "name": "Inżynierka systemów biotechnicznych",
+    "future": false
+  },
+  {
+    "id": 1182,
+    "name": "Inżynierka systemów VR",
+    "future": false
+  },
+  {
+    "id": 2040,
+    "name": "Inżynierka systemów wodociągowych i kanalizacyjnych",
+    "future": false
+  },
+  {
+    "id": 1337,
+    "name": "Inżynierka telemedycyny",
+    "future": true
+  },
+  {
+    "id": 798,
+    "name": "Inżynierka transportu drogowego",
+    "future": false
+  },
+  {
+    "id": 652,
+    "name": "Inżynierka zootechniki",
+    "future": false
+  },
+  {
+    "id": 226,
+    "name": "Jubilerka",
+    "future": false
+  },
+  {
+    "id": 233,
+    "name": "Kaletniczka",
+    "future": false
+  },
+  {
+    "id": 411,
+    "name": "Kapitanka portu",
+    "future": false
+  },
+  {
+    "id": 1982,
+    "name": "Kapitanka statku",
+    "future": false
+  },
+  {
+    "id": 1992,
+    "name": "Kardiolożka",
+    "future": false
+  },
+  {
+    "id": 344,
+    "name": "Kartografka",
+    "future": false
+  },
+  {
+    "id": 333,
+    "name": "Kasjerka bankowa",
+    "future": false
+  },
+  {
+    "id": 362,
+    "name": "Kaskaderka",
+    "future": false
+  },
+  {
+    "id": 506,
+    "name": "Kelnerka",
+    "future": false
+  },
+  {
+    "id": 1245,
+    "name": "Key Account Managerka",
+    "future": false
+  },
+  {
+    "id": 24,
+    "name": "Kierowczyni autobusu",
+    "future": false
+  },
+  {
+    "id": 592,
+    "name": "Kierowczyni ciągnika siodłowego",
+    "future": false
+  },
+  {
+    "id": 2001,
+    "name": "Kierowczyni zawodowa",
+    "future": false
+  },
+  {
+    "id": 1875,
+    "name": "Kierowniczka biura",
+    "future": false
+  },
+  {
+    "id": 296,
+    "name": "Kierowniczka budowy",
+    "future": false
+  },
+  {
+    "id": 268,
+    "name": "Kierowniczka hotelu",
+    "future": false
+  },
+  {
+    "id": 1638,
+    "name": "Kierowniczka planu filmowego",
+    "future": false
+  },
+  {
+    "id": 1033,
+    "name": "Kierowniczka projektu",
+    "future": false
+  },
+  {
+    "id": 1830,
+    "name": "Kierowniczka warsztatów szkolnych",
+    "future": false
+  },
+  {
+    "id": 1308,
+    "name": "Kinooperatorka",
+    "future": false
+  },
+  {
+    "id": 750,
+    "name": "Kioskarka",
+    "future": false
+  },
+  {
+    "id": 1218,
+    "name": "Kolorystka filmowa ",
+    "future": false
+  },
+  {
+    "id": 355,
+    "name": "Komendantka państwowej straży pożarnej",
+    "future": false
+  },
+  {
+    "id": 681,
+    "name": "Komendantka policji",
+    "future": false
+  },
+  {
+    "id": 595,
+    "name": "Kominiarka",
+    "future": false
+  },
+  {
+    "id": 89,
+    "name": "Komorniczka",
+    "future": false
+  },
+  {
+    "id": 1884,
+    "name": "Kompozytorka",
+    "future": false
+  },
+  {
+    "id": 542,
+    "name": "Konduktorka",
+    "future": false
+  },
+  {
+    "id": 1815,
+    "name": "Konferansjerka",
+    "future": false
+  },
+  {
+    "id": 1364,
+    "name": "Konserwatorka dronów",
+    "future": true
+  },
+  {
+    "id": 785,
+    "name": "Konserwatorka dzieł sztuki",
+    "future": false
+  },
+  {
+    "id": 1285,
+    "name": "Konserwatorka systemów inteligentnych",
+    "future": true
+  },
+  {
+    "id": 1067,
+    "name": "Konserwatorka zabytków architektury",
+    "future": false
+  },
+  {
+    "id": 920,
+    "name": "Konstruktorka form wtryskowych",
+    "future": false
+  },
+  {
+    "id": 1506,
+    "name": "Konstruktorka rozkładów jazdy",
+    "future": false
+  },
+  {
+    "id": 1236,
+    "name": "Konstruktorka urządzeń transportu osobistego",
+    "future": true
+  },
+  {
+    "id": 317,
+    "name": "Kontrolerka biletów",
+    "future": false
+  },
+  {
+    "id": 1254,
+    "name": "Kontrolerka jakości powietrza",
+    "future": true
+  },
+  {
+    "id": 1270,
+    "name": "Kontrolerka ruchu dronów",
+    "future": true
+  },
+  {
+    "id": 422,
+    "name": "Kontrolerka ruchu lotniczego",
+    "future": false
+  },
+  {
+    "id": 1936,
+    "name": "Kontrolerka weterynaryjna",
+    "future": false
+  },
+  {
+    "id": 1157,
+    "name": "Kontrolerka wyrobów przemysłowych",
+    "future": false
+  },
+  {
+    "id": 900,
+    "name": "Koordynatorka badań klinicznych",
+    "future": false
+  },
+  {
+    "id": 508,
+    "name": "Koordynatorka lotniskowa",
+    "future": false
+  },
+  {
+    "id": 938,
+    "name": "Koordynatorka pieczy zastępczej",
+    "future": false
+  },
+  {
+    "id": 1885,
+    "name": "Koordynatorka pracy zdalnej",
+    "future": false
+  },
+  {
+    "id": 357,
+    "name": "Koordynatorka projektów unijnych",
+    "future": false
+  },
+  {
+    "id": 1820,
+    "name": "Koordynatorka przeszczepów",
+    "future": false
+  },
+  {
+    "id": 1752,
+    "name": "Koordynatorka wolontariuszy",
+    "future": false
+  },
+  {
+    "id": 888,
+    "name": "Korektorka tekstu",
+    "future": false
+  },
+  {
+    "id": 1397,
+    "name": "Korepetytorka",
+    "future": false
+  },
+  {
+    "id": 237,
+    "name": "Kosmetolożka",
+    "future": false
+  },
+  {
+    "id": 276,
+    "name": "Kosmetyczka",
+    "future": false
+  },
+  {
+    "id": 1729,
+    "name": "Kosmiczna architektka",
+    "future": true
+  },
+  {
+    "id": 1513,
+    "name": "Kosmiczna farmerka",
+    "future": true
+  },
+  {
+    "id": 335,
+    "name": "Kostiumografka",
+    "future": false
+  },
+  {
+    "id": 1498,
+    "name": "Kosztorysantka budowlana",
+    "future": false
+  },
+  {
+    "id": 918,
+    "name": "Koszykarka-plecionkarka",
+    "future": false
+  },
+  {
+    "id": 746,
+    "name": "Kowalicha",
+    "future": false
+  },
+  {
+    "id": 204,
+    "name": "Krawcowa",
+    "future": false
+  },
+  {
+    "id": 1127,
+    "name": "Krupierka",
+    "future": false
+  },
+  {
+    "id": 1031,
+    "name": "Kryminolożka",
+    "future": false
+  },
+  {
+    "id": 1751,
+    "name": "Krystalografka",
+    "future": false
+  },
+  {
+    "id": 1054,
+    "name": "Krytyczka kulinarna",
+    "future": false
+  },
+  {
+    "id": 551,
+    "name": "Księgarka",
+    "future": false
+  },
+  {
+    "id": 28,
+    "name": "Księgowa",
+    "future": false
+  },
+  {
+    "id": 41,
+    "name": "Kucharka",
+    "future": false
+  },
+  {
+    "id": 1260,
+    "name": "Kuratorka sądowa",
+    "future": false
+  },
+  {
+    "id": 222,
+    "name": "Kurierka",
+    "future": false
+  },
+  {
+    "id": 1343,
+    "name": "Kuśnierka",
+    "future": false
+  },
+  {
+    "id": 245,
+    "name": "Kynoterapeutka",
+    "future": false
+  },
+  {
+    "id": 556,
+    "name": "Laborantka chemiczna",
+    "future": false
+  },
+  {
+    "id": 459,
+    "name": "Laborantka weterynaryjna",
+    "future": false
+  },
+  {
+    "id": 308,
+    "name": "Lakierniczka",
+    "future": false
+  },
+  {
+    "id": 1394,
+    "name": "Legalizatorka",
+    "future": false
+  },
+  {
+    "id": 780,
+    "name": "Lekarka - specjalistka medycyny paliatywnej",
+    "future": false
+  },
+  {
+    "id": 2057,
+    "name": "Lekarka – specjalistka seksuologii",
+    "future": false
+  },
+  {
+    "id": 1177,
+    "name": "Lekarka chorób zakaźnych",
+    "future": false
+  },
+  {
+    "id": 1195,
+    "name": "Lekarka medycyny kosmicznej",
+    "future": false
+  },
+  {
+    "id": 1732,
+    "name": "Lekarka medycyny rodzinnej",
+    "future": false
+  },
+  {
+    "id": 2084,
+    "name": "Lekarka medycyny sądowej",
+    "future": false
+  },
+  {
+    "id": 1188,
+    "name": "Lekarka telemedycyny",
+    "future": false
+  },
+  {
+    "id": 1238,
+    "name": "Lektorka filmowa",
+    "future": false
+  },
+  {
+    "id": 227,
+    "name": "Lektorka języka obcego",
+    "future": false
+  },
+  {
+    "id": 231,
+    "name": "Leśniczka",
+    "future": false
+  },
+  {
+    "id": 770,
+    "name": "Likwidatorka szkód",
+    "future": false
+  },
+  {
+    "id": 639,
+    "name": "Listonoszka",
+    "future": false
+  },
+  {
+    "id": 1716,
+    "name": "Lobbystka",
+    "future": false
+  },
+  {
+    "id": 1080,
+    "name": "Logistyczka",
+    "future": false
+  },
+  {
+    "id": 242,
+    "name": "Logopedka",
+    "future": false
+  },
+  {
+    "id": 944,
+    "name": "Ludwisarka",
+    "future": false
+  },
+  {
+    "id": 1120,
+    "name": "Lutniczka",
+    "future": false
+  },
+  {
+    "id": 1876,
+    "name": "Ładowaczka nieczystości płynnych",
+    "future": false
+  },
+  {
+    "id": 609,
+    "name": "Magazynierka",
+    "future": false
+  },
+  {
+    "id": 337,
+    "name": "Maklerka",
+    "future": false
+  },
+  {
+    "id": 258,
+    "name": "Malarka",
+    "future": false
+  },
+  {
+    "id": 933,
+    "name": "Malarka budowlana",
+    "future": false
+  },
+  {
+    "id": 1306,
+    "name": "Manewrowa",
+    "future": false
+  },
+  {
+    "id": 255,
+    "name": "Marynarka",
+    "future": false
+  },
+  {
+    "id": 444,
+    "name": "Masażystka",
+    "future": false
+  },
+  {
+    "id": 1349,
+    "name": "Masztalerka",
+    "future": false
+  },
+  {
+    "id": 94,
+    "name": "Maszynistka",
+    "future": false
+  },
+  {
+    "id": 463,
+    "name": "Maszynistka doku",
+    "future": false
+  },
+  {
+    "id": 929,
+    "name": "Maszynistka kolei linowych",
+    "future": false
+  },
+  {
+    "id": 959,
+    "name": "Maszynistka metra",
+    "future": false
+  },
+  {
+    "id": 1592,
+    "name": "Mechaniczka górnicza",
+    "future": false
+  },
+  {
+    "id": 947,
+    "name": "Mechaniczka kolejowa",
+    "future": false
+  },
+  {
+    "id": 306,
+    "name": "Mechaniczka lotnicza",
+    "future": false
+  },
+  {
+    "id": 1169,
+    "name": "Mechaniczka motocyklowa",
+    "future": false
+  },
+  {
+    "id": 886,
+    "name": "Mechaniczka okrętowa",
+    "future": false
+  },
+  {
+    "id": 937,
+    "name": "Mechaniczka precyzyjna",
+    "future": false
+  },
+  {
+    "id": 1849,
+    "name": "Mechaniczka rolnicza",
+    "future": false
+  },
+  {
+    "id": 85,
+    "name": "Mechaniczka samochodowa",
+    "future": false
+  },
+  {
+    "id": 1130,
+    "name": "Mechatroniczka",
+    "future": false
+  },
+  {
+    "id": 1511,
+    "name": "Media Buyerka",
+    "future": false
+  },
+  {
+    "id": 1240,
+    "name": "Media Plannerka",
+    "future": false
+  },
+  {
+    "id": 471,
+    "name": "Mediatorka sądowa",
+    "future": false
+  },
+  {
+    "id": 1336,
+    "name": "Meliorantka",
+    "future": false
+  },
+  {
+    "id": 1086,
+    "name": "Menedżerka marki",
+    "future": false
+  },
+  {
+    "id": 531,
+    "name": "Menedżerka produktu",
+    "future": false
+  },
+  {
+    "id": 1003,
+    "name": "Menedżerka restauracji",
+    "future": false
+  },
+  {
+    "id": 442,
+    "name": "Menedżerka sportu",
+    "future": false
+  },
+  {
+    "id": 1300,
+    "name": "Menedżerka śmierci cyfrowej",
+    "future": true
+  },
+  {
+    "id": 1155,
+    "name": "Menedżerka wielokulturowości",
+    "future": true
+  },
+  {
+    "id": 1266,
+    "name": "Menedżerka wizerunku",
+    "future": false
+  },
+  {
+    "id": 561,
+    "name": "Merchandiserka",
+    "future": false
+  },
+  {
+    "id": 1958,
+    "name": "Metaloplastyczka",
+    "future": false
+  },
+  {
+    "id": 789,
+    "name": "Metalurżka",
+    "future": false
+  },
+  {
+    "id": 23,
+    "name": "Meteorolożka",
+    "future": false
+  },
+  {
+    "id": 1020,
+    "name": "Metrolożka",
+    "future": false
+  },
+  {
+    "id": 686,
+    "name": "Mikrobiolożka",
+    "future": false
+  },
+  {
+    "id": 1158,
+    "name": "Mikserka obrazu",
+    "future": false
+  },
+  {
+    "id": 1891,
+    "name": "Mistrzyni Świeckiej Ceremonii Pogrzebowej",
+    "future": false
+  },
+  {
+    "id": 791,
+    "name": "Młynarka",
+    "future": false
+  },
+  {
+    "id": 735,
+    "name": "Modelka",
+    "future": false
+  },
+  {
+    "id": 1935,
+    "name": "Moderatorka treści internetowych",
+    "future": false
+  },
+  {
+    "id": 796,
+    "name": "Modystka",
+    "future": false
+  },
+  {
+    "id": 1867,
+    "name": "Montażystka obrazu",
+    "future": false
+  },
+  {
+    "id": 1452,
+    "name": "Monterka fotowoltaiki",
+    "future": false
+  },
+  {
+    "id": 468,
+    "name": "Monterka instalacji LPG",
+    "future": false
+  },
+  {
+    "id": 288,
+    "name": "Monterka jachtów i łodzi",
+    "future": false
+  },
+  {
+    "id": 1299,
+    "name": "Monterka konstrukcji stalowych",
+    "future": false
+  },
+  {
+    "id": 970,
+    "name": "Monterka sprzętu AGD",
+    "future": false
+  },
+  {
+    "id": 1012,
+    "name": "Monterka stolarki budowlanej",
+    "future": false
+  },
+  {
+    "id": 649,
+    "name": "Monterka telekomunikacyjna",
+    "future": false
+  },
+  {
+    "id": 1074,
+    "name": "Mostownicza",
+    "future": false
+  },
+  {
+    "id": 262,
+    "name": "Motornicza",
+    "future": false
+  },
+  {
+    "id": 618,
+    "name": "Murarka-tynkarka",
+    "future": false
+  },
+  {
+    "id": 828,
+    "name": "Muzealniczka",
+    "future": false
+  },
+  {
+    "id": 239,
+    "name": "Nanotechnolożka",
+    "future": false
+  },
+  {
+    "id": 31,
+    "name": "Nauczycielka",
+    "future": false
+  },
+  {
+    "id": 1844,
+    "name": "Nauczycielka nauczania początkowego",
+    "future": false
+  },
+  {
+    "id": 103,
+    "name": "Nauczycielka przedszkola",
+    "future": false
+  },
+  {
+    "id": 952,
+    "name": "Nauczycielka zawodu",
+    "future": false
+  },
+  {
+    "id": 1247,
+    "name": "Nawigatorka morska ",
+    "future": false
+  },
+  {
+    "id": 387,
+    "name": "Negocjatorka policyjna",
+    "future": false
+  },
+  {
+    "id": 2016,
+    "name": "Neurolożka",
+    "future": false
+  },
+  {
+    "id": 526,
+    "name": "Notariuszka",
+    "future": false
+  },
+  {
+    "id": 323,
+    "name": "Nurkini",
+    "future": false
+  },
+  {
+    "id": 859,
+    "name": "Obuwniczka",
+    "future": false
+  },
+  {
+    "id": 302,
+    "name": "Oceanolożka",
+    "future": false
+  },
+  {
+    "id": 102,
+    "name": "Ochroniarka",
+    "future": false
+  },
+  {
+    "id": 739,
+    "name": "Odlewniczka",
+    "future": false
+  },
+  {
+    "id": 1220,
+    "name": "Ogrodniczka",
+    "future": false
+  },
+  {
+    "id": 1813,
+    "name": "Okulistka",
+    "future": false
+  },
+  {
+    "id": 1196,
+    "name": "Olfaktoniczka ",
+    "future": true
+  },
+  {
+    "id": 395,
+    "name": "Oligofrenopedagożka",
+    "future": false
+  },
+  {
+    "id": 2072,
+    "name": "Onkolożka",
+    "future": false
+  },
+  {
+    "id": 1455,
+    "name": "Operatorka CAD",
+    "future": false
+  },
+  {
+    "id": 1286,
+    "name": "Operatorka harwestera odpadów",
+    "future": false
+  },
+  {
+    "id": 1149,
+    "name": "Operatorka kamery",
+    "future": false
+  },
+  {
+    "id": 995,
+    "name": "Operatorka linii produkcyjnej",
+    "future": false
+  },
+  {
+    "id": 826,
+    "name": "Operatorka maszyn drogowych",
+    "future": false
+  },
+  {
+    "id": 566,
+    "name": "Operatorka maszyn leśnych",
+    "future": false
+  },
+  {
+    "id": 1244,
+    "name": "Operatorka maszyn podwodnych",
+    "future": false
+  },
+  {
+    "id": 941,
+    "name": "Operatorka maszyn przetwórstwa tworzyw sztucznych",
+    "future": false
+  },
+  {
+    "id": 974,
+    "name": "Operatorka maszyn spożywczych",
+    "future": false
+  },
+  {
+    "id": 552,
+    "name": "Operatorka myjni",
+    "future": false
+  },
+  {
+    "id": 224,
+    "name": "Operatorka procesów introligatorskich",
+    "future": false
+  },
+  {
+    "id": 1902,
+    "name": "Operatorka reaktora jądrowego",
+    "future": false
+  },
+  {
+    "id": 581,
+    "name": "Operatorka urządzeń chemicznych",
+    "future": false
+  },
+  {
+    "id": 915,
+    "name": "Operatorka urządzeń oczyszczania ścieków",
+    "future": false
+  },
+  {
+    "id": 980,
+    "name": "Operatorka urządzeń szklarskich",
+    "future": false
+  },
+  {
+    "id": 1298,
+    "name": "Operatorka wózków widłowych",
+    "future": false
+  },
+  {
+    "id": 1040,
+    "name": "Operatorka żurawia wieżowego",
+    "future": false
+  },
+  {
+    "id": 880,
+    "name": "Opiekunka dziecięca",
+    "future": false
+  },
+  {
+    "id": 1736,
+    "name": "Opiekunka dzikich zwierząt",
+    "future": false
+  },
+  {
+    "id": 654,
+    "name": "Opiekunka osoby starszej",
+    "future": false
+  },
+  {
+    "id": 1180,
+    "name": "Opiekunka zwierząt domowych ",
+    "future": false
+  },
+  {
+    "id": 688,
+    "name": "Optoelektroniczka",
+    "future": false
+  },
+  {
+    "id": 1941,
+    "name": "Optometrystka",
+    "future": false
+  },
+  {
+    "id": 890,
+    "name": "Optyczka",
+    "future": false
+  },
+  {
+    "id": 1583,
+    "name": "Optyczka-mechaniczka",
+    "future": false
+  },
+  {
+    "id": 372,
+    "name": "Organistka",
+    "future": false
+  },
+  {
+    "id": 874,
+    "name": "Organizatorka eventów",
+    "future": false
+  },
+  {
+    "id": 292,
+    "name": "Organizatorka imprez ślubnych",
+    "future": false
+  },
+  {
+    "id": 1053,
+    "name": "Organizatorka usług kateringowych",
+    "future": false
+  },
+  {
+    "id": 1256,
+    "name": "Organizatorka usług konferencyjnych",
+    "future": false
+  },
+  {
+    "id": 623,
+    "name": "Organmistrzyni",
+    "future": false
+  },
+  {
+    "id": 1916,
+    "name": "Ornitolożka",
+    "future": false
+  },
+  {
+    "id": 101,
+    "name": "Ortodontka",
+    "future": false
+  },
+  {
+    "id": 1166,
+    "name": "Osteopatka",
+    "future": false
+  },
+  {
+    "id": 961,
+    "name": "Pakowaczka ręczna",
+    "future": false
+  },
+  {
+    "id": 1889,
+    "name": "Paleontolożka",
+    "future": false
+  },
+  {
+    "id": 1057,
+    "name": "Parkieciarka",
+    "future": false
+  },
+  {
+    "id": 732,
+    "name": "Parkingowa",
+    "future": false
+  },
+  {
+    "id": 2027,
+    "name": "Patomorfolożka",
+    "future": false
+  },
+  {
+    "id": 438,
+    "name": "Pedagożka szkolna",
+    "future": false
+  },
+  {
+    "id": 2085,
+    "name": "Pełnomocniczka ds. osób z niepełnosprawnościami",
+    "future": false
+  },
+  {
+    "id": 1252,
+    "name": "Perfumiarka",
+    "future": false
+  },
+  {
+    "id": 1827,
+    "name": "Perfuzjonistka",
+    "future": false
+  },
+  {
+    "id": 1093,
+    "name": "Personal shopperka",
+    "future": false
+  },
+  {
+    "id": 389,
+    "name": "Perukarka",
+    "future": false
+  },
+  {
+    "id": 997,
+    "name": "Piaskarka",
+    "future": false
+  },
+  {
+    "id": 515,
+    "name": "Piekarka",
+    "future": false
+  },
+  {
+    "id": 557,
+    "name": "Pielęgniarka",
+    "future": false
+  },
+  {
+    "id": 27,
+    "name": "Pielęgniarka anestezjologiczna",
+    "future": false
+  },
+  {
+    "id": 1677,
+    "name": "Pielęgniarka opieki długoterminowej",
+    "future": false
+  },
+  {
+    "id": 1836,
+    "name": "Piercerka",
+    "future": false
+  },
+  {
+    "id": 109,
+    "name": "Pilotka samolotów",
+    "future": false
+  },
+  {
+    "id": 631,
+    "name": "Piosenkarka",
+    "future": false
+  },
+  {
+    "id": 559,
+    "name": "Pirotechniczka",
+    "future": false
+  },
+  {
+    "id": 1687,
+    "name": "Pisarka",
+    "future": false
+  },
+  {
+    "id": 1946,
+    "name": "Piwowarka",
+    "future": false
+  },
+  {
+    "id": 1219,
+    "name": "Płatnerka ",
+    "future": false
+  },
+  {
+    "id": 713,
+    "name": "Podoficerka sił zbrojnych",
+    "future": false
+  },
+  {
+    "id": 721,
+    "name": "Podolożka",
+    "future": false
+  },
+  {
+    "id": 1979,
+    "name": "Pokojówka",
+    "future": false
+  },
+  {
+    "id": 45,
+    "name": "Policjantka",
+    "future": false
+  },
+  {
+    "id": 108,
+    "name": "Polityczka",
+    "future": false
+  },
+  {
+    "id": 479,
+    "name": "Położna",
+    "future": false
+  },
+  {
+    "id": 1241,
+    "name": "Pomoc domowa",
+    "future": false
+  },
+  {
+    "id": 549,
+    "name": "Portierka",
+    "future": false
+  },
+  {
+    "id": 2061,
+    "name": "Pośredniczka w obrocie nieruchomościami",
+    "future": false
+  },
+  {
+    "id": 269,
+    "name": "Pracownica biura podróży",
+    "future": false
+  },
+  {
+    "id": 1228,
+    "name": "Pracownica humanitarna",
+    "future": false
+  },
+  {
+    "id": 1335,
+    "name": "Pracownica informacji turystycznej",
+    "future": false
+  },
+  {
+    "id": 800,
+    "name": "Pracownica socjalna",
+    "future": false
+  },
+  {
+    "id": 692,
+    "name": "Pracownica stacji paliw",
+    "future": false
+  },
+  {
+    "id": 75,
+    "name": "Prezenterka telewizyjna",
+    "future": false
+  },
+  {
+    "id": 1161,
+    "name": "Producentka filmowa",
+    "future": false
+  },
+  {
+    "id": 1135,
+    "name": "Producentka żywności ekologicznej",
+    "future": false
+  },
+  {
+    "id": 1262,
+    "name": "Profilerka",
+    "future": false
+  },
+  {
+    "id": 1595,
+    "name": "Programistka",
+    "future": false
+  },
+  {
+    "id": 90,
+    "name": "Programistka aplikacji mobilnych",
+    "future": false
+  },
+  {
+    "id": 1344,
+    "name": "Programistka blockchain",
+    "future": false
+  },
+  {
+    "id": 1271,
+    "name": "Programistka botów ",
+    "future": false
+  },
+  {
+    "id": 1273,
+    "name": "Programistka leków",
+    "future": true
+  },
+  {
+    "id": 753,
+    "name": "Programistka obrabiarek",
+    "future": false
+  },
+  {
+    "id": 1203,
+    "name": "Programistka sztucznej inteligencji",
+    "future": false
+  },
+  {
+    "id": 1153,
+    "name": "Projektantka budynków autonomicznych",
+    "future": true
+  },
+  {
+    "id": 1100,
+    "name": "Projektantka gier komputerowych",
+    "future": false
+  },
+  {
+    "id": 1630,
+    "name": "Projektantka hybrydowej rzeczywistości",
+    "future": true
+  },
+  {
+    "id": 280,
+    "name": "Projektantka mody",
+    "future": false
+  },
+  {
+    "id": 694,
+    "name": "Projektantka stron internetowych",
+    "future": false
+  },
+  {
+    "id": 1698,
+    "name": "Projektantka usprawnień ludzkiego ciała",
+    "future": true
+  },
+  {
+    "id": 684,
+    "name": "Projektantka wzornictwa przemysłowego",
+    "future": false
+  },
+  {
+    "id": 1345,
+    "name": "Projektantka zero waste",
+    "future": true
+  },
+  {
+    "id": 60,
+    "name": "Prokuratorka",
+    "future": false
+  },
+  {
+    "id": 1210,
+    "name": "Protetyczka",
+    "future": false
+  },
+  {
+    "id": 569,
+    "name": "Protetyczka słuchu",
+    "future": false
+  },
+  {
+    "id": 2069,
+    "name": "Przedsiębiorczyni",
+    "future": false
+  },
+  {
+    "id": 546,
+    "name": "Przedstawicielka handlowa",
+    "future": false
+  },
+  {
+    "id": 1668,
+    "name": "Przedstawicielka medyczna",
+    "future": false
+  },
+  {
+    "id": 248,
+    "name": "Przewodniczka górska",
+    "future": false
+  },
+  {
+    "id": 963,
+    "name": "Przewodniczka turystyczna",
+    "future": false
+  },
+  {
+    "id": 1038,
+    "name": "Psychiatra",
+    "future": false
+  },
+  {
+    "id": 92,
+    "name": "Psycholożka",
+    "future": false
+  },
+  {
+    "id": 1996,
+    "name": "Psycholożka biznesu",
+    "future": false
+  },
+  {
+    "id": 381,
+    "name": "Psychoonkolożka",
+    "future": false
+  },
+  {
+    "id": 43,
+    "name": "Psychoterapeutka",
+    "future": false
+  },
+  {
+    "id": 286,
+    "name": "Pszczelarka",
+    "future": false
+  },
+  {
+    "id": 774,
+    "name": "Radczyni prawna",
+    "future": false
+  },
+  {
+    "id": 1356,
+    "name": "Ratowniczka górnicza",
+    "future": false
+  },
+  {
+    "id": 643,
+    "name": "Ratowniczka górska",
+    "future": false
+  },
+  {
+    "id": 77,
+    "name": "Ratowniczka medyczna",
+    "future": false
+  },
+  {
+    "id": 698,
+    "name": "Ratowniczka morska",
+    "future": false
+  },
+  {
+    "id": 1278,
+    "name": "Ratowniczka wodna",
+    "future": false
+  },
+  {
+    "id": 1971,
+    "name": "Real estate asset managerka",
+    "future": false
+  },
+  {
+    "id": 432,
+    "name": "Realizatorka nagrań",
+    "future": false
+  },
+  {
+    "id": 1076,
+    "name": "Realizatorka światła",
+    "future": false
+  },
+  {
+    "id": 1131,
+    "name": "Recepcjonistka",
+    "future": false
+  },
+  {
+    "id": 1943,
+    "name": "Redaktorka dokumentacji technicznej",
+    "future": false
+  },
+  {
+    "id": 1062,
+    "name": "Redaktorka programowa",
+    "future": false
+  },
+  {
+    "id": 904,
+    "name": "Redaktorka wydawnicza",
+    "future": false
+  },
+  {
+    "id": 383,
+    "name": "Rejestratorka medyczna",
+    "future": false
+  },
+  {
+    "id": 30,
+    "name": "Rekruterka",
+    "future": false
+  },
+  {
+    "id": 1199,
+    "name": "Rekultywatorka gleb",
+    "future": true
+  },
+  {
+    "id": 1457,
+    "name": "Rekwizytorka",
+    "future": false
+  },
+  {
+    "id": 1072,
+    "name": "Rewidentka taboru",
+    "future": false
+  },
+  {
+    "id": 534,
+    "name": "Rezydentka biura turystycznego",
+    "future": false
+  },
+  {
+    "id": 48,
+    "name": "Reżyserka",
+    "future": false
+  },
+  {
+    "id": 567,
+    "name": "Rodzic zastępczy",
+    "future": false
+  },
+  {
+    "id": 715,
+    "name": "Rolniczka",
+    "future": false
+  },
+  {
+    "id": 1410,
+    "name": "Rozbieraczka-wykrawaczka",
+    "future": false
+  },
+  {
+    "id": 1824,
+    "name": "Rymarka",
+    "future": false
+  },
+  {
+    "id": 878,
+    "name": "Rzeczniczka patentowa",
+    "future": false
+  },
+  {
+    "id": 767,
+    "name": "Rzeczniczka prasowa",
+    "future": false
+  },
+  {
+    "id": 743,
+    "name": "Rzeczoznawczyni majątkowa",
+    "future": false
+  },
+  {
+    "id": 1841,
+    "name": "Rzeczoznawczyni rolnicza",
+    "future": false
+  },
+  {
+    "id": 1969,
+    "name": "Rzeźbiarka",
+    "future": false
+  },
+  {
+    "id": 867,
+    "name": "Rzeźbiarka w owocach",
+    "future": false
+  },
+  {
+    "id": 731,
+    "name": "Sadowniczka",
+    "future": false
+  },
+  {
+    "id": 1351,
+    "name": "Salowa",
+    "future": false
+  },
+  {
+    "id": 1269,
+    "name": "Sanitariuszka szpitalna",
+    "future": false
+  },
+  {
+    "id": 1710,
+    "name": "Saperka",
+    "future": false
+  },
+  {
+    "id": 391,
+    "name": "Scenarzystka",
+    "future": false
+  },
+  {
+    "id": 476,
+    "name": "Scenografka",
+    "future": false
+  },
+  {
+    "id": 1691,
+    "name": "Scrum Masterka",
+    "future": false
+  },
+  {
+    "id": 737,
+    "name": "Sekretarka",
+    "future": false
+  },
+  {
+    "id": 1280,
+    "name": "Serowarka",
+    "future": false
+  },
+  {
+    "id": 1989,
+    "name": "Serwisantka automatów paczkowych",
+    "future": false
+  },
+  {
+    "id": 2009,
+    "name": "Serwisantka sprzętu komputerowego",
+    "future": false
+  },
+  {
+    "id": 931,
+    "name": "Serwisantka urządzeń medycznych",
+    "future": false
+  },
+  {
+    "id": 59,
+    "name": "Sędzia",
+    "future": false
+  },
+  {
+    "id": 464,
+    "name": "Skarbniczka bankowa",
+    "future": false
+  },
+  {
+    "id": 1174,
+    "name": "Sketchnoterka ",
+    "future": false
+  },
+  {
+    "id": 1472,
+    "name": "Snycerka",
+    "future": false
+  },
+  {
+    "id": 664,
+    "name": "Sommelierka",
+    "future": false
+  },
+  {
+    "id": 953,
+    "name": "Sortowaczka surowców wtórnych",
+    "future": false
+  },
+  {
+    "id": 700,
+    "name": "Spawaczka",
+    "future": false
+  },
+  {
+    "id": 1029,
+    "name": "Spawaczka podwodna",
+    "future": false
+  },
+  {
+    "id": 813,
+    "name": "Specjalistka administracji",
+    "future": false
+  },
+  {
+    "id": 538,
+    "name": "Specjalistka animacji",
+    "future": false
+  },
+  {
+    "id": 971,
+    "name": "Specjalistka bezpieczeństwa IT",
+    "future": false
+  },
+  {
+    "id": 1098,
+    "name": "Specjalistka BHP",
+    "future": false
+  },
+  {
+    "id": 87,
+    "name": "Specjalistka budownictwa",
+    "future": false
+  },
+  {
+    "id": 1862,
+    "name": "Specjalistka budowy dróg",
+    "future": false
+  },
+  {
+    "id": 707,
+    "name": "Specjalistka chłodnictwa",
+    "future": false
+  },
+  {
+    "id": 2081,
+    "name": "Specjalistka CSR",
+    "future": false
+  },
+  {
+    "id": 2011,
+    "name": "Specjalistka dekontaminacji biologicznej",
+    "future": false
+  },
+  {
+    "id": 1951,
+    "name": "Specjalistka do spraw marketingu",
+    "future": false
+  },
+  {
+    "id": 1085,
+    "name": "Specjalistka druku i modelowania 3D ",
+    "future": false
+  },
+  {
+    "id": 1207,
+    "name": "Specjalistka ds. chmury obliczeniowej",
+    "future": false
+  },
+  {
+    "id": 1504,
+    "name": "Specjalistka ds. compliance",
+    "future": false
+  },
+  {
+    "id": 1662,
+    "name": "Specjalistka ds. e-commerce",
+    "future": false
+  },
+  {
+    "id": 1908,
+    "name": "Specjalistka ds. employer brandingu",
+    "future": false
+  },
+  {
+    "id": 1143,
+    "name": "Specjalistka ds. kontrolingu",
+    "future": false
+  },
+  {
+    "id": 1823,
+    "name": "Specjalistka ds. najemców powierzchni biurowo-handlowych",
+    "future": false
+  },
+  {
+    "id": 1911,
+    "name": "Specjalistka ds. przetargów",
+    "future": false
+  },
+  {
+    "id": 1064,
+    "name": "Specjalistka ds. SEO",
+    "future": false
+  },
+  {
+    "id": 949,
+    "name": "Specjalistka ds. stosunków międzynarodowych",
+    "future": false
+  },
+  {
+    "id": 2005,
+    "name": "Specjalistka ds. szkoleń",
+    "future": false
+  },
+  {
+    "id": 1967,
+    "name": "Specjalistka ds. zrównoważonego rozwoju",
+    "future": false
+  },
+  {
+    "id": 2024,
+    "name": "Specjalistka e-mail marketingu",
+    "future": false
+  },
+  {
+    "id": 1450,
+    "name": "Specjalistka farmacji",
+    "future": false
+  },
+  {
+    "id": 1222,
+    "name": "Specjalistka fortepianów i pianin",
+    "future": false
+  },
+  {
+    "id": 2052,
+    "name": "Specjalistka fuzji i przejęć",
+    "future": false
+  },
+  {
+    "id": 1055,
+    "name": "Specjalistka gospodarki odpadami ",
+    "future": false
+  },
+  {
+    "id": 678,
+    "name": "Specjalistka HR",
+    "future": false
+  },
+  {
+    "id": 2076,
+    "name": "Specjalistka importu i eksportu",
+    "future": false
+  },
+  {
+    "id": 1718,
+    "name": "Specjalistka inżynierii medycznej",
+    "future": false
+  },
+  {
+    "id": 1944,
+    "name": "Specjalistka IT helpdesk",
+    "future": false
+  },
+  {
+    "id": 1784,
+    "name": "Specjalistka kontroli epidemiologicznej",
+    "future": false
+  },
+  {
+    "id": 977,
+    "name": "Specjalistka kontroli jakości",
+    "future": false
+  },
+  {
+    "id": 1332,
+    "name": "Specjalistka kopalin stałych ",
+    "future": false
+  },
+  {
+    "id": 1189,
+    "name": "Specjalistka kryptowalut",
+    "future": false
+  },
+  {
+    "id": 1185,
+    "name": "Specjalistka marketingu społecznego",
+    "future": false
+  },
+  {
+    "id": 548,
+    "name": "Specjalistka mechanizacji rolnictwa",
+    "future": false
+  },
+  {
+    "id": 1009,
+    "name": "Specjalistka mediów społecznościowych",
+    "future": false
+  },
+  {
+    "id": 1986,
+    "name": "Specjalistka nadzoru sieci telekomunikacyjnej",
+    "future": false
+  },
+  {
+    "id": 1702,
+    "name": "Specjalistka normowania pracy",
+    "future": false
+  },
+  {
+    "id": 1469,
+    "name": "Specjalistka obsługi bankomatów",
+    "future": false
+  },
+  {
+    "id": 782,
+    "name": "Specjalistka papiernictwa",
+    "future": false
+  },
+  {
+    "id": 1779,
+    "name": "Specjalistka pomiarów reaktorowych",
+    "future": false
+  },
+  {
+    "id": 84,
+    "name": "Specjalistka portów i terminali",
+    "future": false
+  },
+  {
+    "id": 502,
+    "name": "Specjalistka pożarnictwa",
+    "future": false
+  },
+  {
+    "id": 2036,
+    "name": "Specjalistka PR",
+    "future": false
+  },
+  {
+    "id": 2037,
+    "name": "Specjalistka przeciwdziałania praniu pieniędzy",
+    "future": false
+  },
+  {
+    "id": 1026,
+    "name": "Specjalistka przemysłu mody",
+    "future": false
+  },
+  {
+    "id": 1928,
+    "name": "Specjalistka przetwarzania odpadów promieniotwórczych",
+    "future": false
+  },
+  {
+    "id": 586,
+    "name": "Specjalistka przetwórstwa mleczarskiego",
+    "future": false
+  },
+  {
+    "id": 835,
+    "name": "Specjalistka rachunkowości inwestycyjnej",
+    "future": false
+  },
+  {
+    "id": 1960,
+    "name": "Specjalistka recyklingu materiałów złożonych ",
+    "future": true
+  },
+  {
+    "id": 2017,
+    "name": "Specjalistka reklamacji",
+    "future": false
+  },
+  {
+    "id": 83,
+    "name": "Specjalistka reklamy",
+    "future": false
+  },
+  {
+    "id": 1178,
+    "name": "Specjalistka resocjalizacji ",
+    "future": false
+  },
+  {
+    "id": 1051,
+    "name": "Specjalistka rozpoznawania mowy",
+    "future": false
+  },
+  {
+    "id": 677,
+    "name": "Specjalistka rybactwa śródlądowego",
+    "future": false
+  },
+  {
+    "id": 1192,
+    "name": "Specjalistka rybołówstwa morskiego",
+    "future": false
+  },
+  {
+    "id": 1829,
+    "name": "Specjalistka składowania odpadów promieniotwórczych",
+    "future": false
+  },
+  {
+    "id": 1632,
+    "name": "Specjalistka sterylizacji medycznej",
+    "future": false
+  },
+  {
+    "id": 1950,
+    "name": "Specjalistka technicznej obsługi nieruchomości",
+    "future": false
+  },
+  {
+    "id": 2013,
+    "name": "Specjalistka teledetekcji",
+    "future": false
+  },
+  {
+    "id": 86,
+    "name": "Specjalistka telekomunikacji",
+    "future": false
+  },
+  {
+    "id": 533,
+    "name": "Specjalistka transportu kolejowego",
+    "future": false
+  },
+  {
+    "id": 461,
+    "name": "Specjalistka urządzeń dźwigowych",
+    "future": false
+  },
+  {
+    "id": 1689,
+    "name": "Specjalistka utrzymania klienta",
+    "future": false
+  },
+  {
+    "id": 1993,
+    "name": "Specjalistka utrzymania ruchu",
+    "future": false
+  },
+  {
+    "id": 1980,
+    "name": "Specjalistka utrzymania sieci telekomunikacyjnej",
+    "future": false
+  },
+  {
+    "id": 2021,
+    "name": "Specjalistka wizualizacji danych",
+    "future": false
+  },
+  {
+    "id": 1103,
+    "name": "Specjalistka zarządzania kryzysowego",
+    "future": false
+  },
+  {
+    "id": 913,
+    "name": "Specjalistka zarządzania ryzykiem",
+    "future": false
+  },
+  {
+    "id": 2064,
+    "name": "Specjalistka zdalnego planowania wnętrz",
+    "future": false
+  },
+  {
+    "id": 1152,
+    "name": "Specjalistka żeglugi śródlądowej",
+    "future": false
+  },
+  {
+    "id": 1253,
+    "name": "Specjalistka żywienia",
+    "future": false
+  },
+  {
+    "id": 1959,
+    "name": "Specjalistka żywienia zwierząt",
+    "future": false
+  },
+  {
+    "id": 982,
+    "name": "Spedytorka",
+    "future": false
+  },
+  {
+    "id": 801,
+    "name": "Spikerka radiowa",
+    "future": false
+  },
+  {
+    "id": 763,
+    "name": "Spikerka sportowa",
+    "future": false
+  },
+  {
+    "id": 113,
+    "name": "Sportowczyni",
+    "future": false
+  },
+  {
+    "id": 733,
+    "name": "Sprzątaczka",
+    "future": false
+  },
+  {
+    "id": 110,
+    "name": "Sprzedawczyni",
+    "future": false
+  },
+  {
+    "id": 397,
+    "name": "Stenografka-protokolantka",
+    "future": false
+  },
+  {
+    "id": 218,
+    "name": "Stewardessa",
+    "future": false
+  },
+  {
+    "id": 578,
+    "name": "Stolarka",
+    "future": false
+  },
+  {
+    "id": 100,
+    "name": "Stomatolożka",
+    "future": false
+  },
+  {
+    "id": 82,
+    "name": "Strażaczka",
+    "future": false
+  },
+  {
+    "id": 884,
+    "name": "Strażniczka leśna",
+    "future": false
+  },
+  {
+    "id": 1517,
+    "name": "Strażniczka miejska",
+    "future": false
+  },
+  {
+    "id": 1477,
+    "name": "Strażniczka rybacka",
+    "future": false
+  },
+  {
+    "id": 719,
+    "name": "Streamerka",
+    "future": false
+  },
+  {
+    "id": 1284,
+    "name": "Surdopedagożka",
+    "future": false
+  },
+  {
+    "id": 1462,
+    "name": "Suwnicowa",
+    "future": false
+  },
+  {
+    "id": 573,
+    "name": "Syndyczka",
+    "future": false
+  },
+  {
+    "id": 341,
+    "name": "Szatniarka",
+    "future": false
+  },
+  {
+    "id": 117,
+    "name": "Szeregowa",
+    "future": false
+  },
+  {
+    "id": 1905,
+    "name": "Szewczyni",
+    "future": false
+  },
+  {
+    "id": 811,
+    "name": "Szklarka",
+    "future": false
+  },
+  {
+    "id": 1494,
+    "name": "Szkolna asystentka dziecka cudzoziemca",
+    "future": false
+  },
+  {
+    "id": 1646,
+    "name": "Szkolna doradczyni zawodowa",
+    "future": false
+  },
+  {
+    "id": 912,
+    "name": "Szlifierka kamienia",
+    "future": false
+  },
+  {
+    "id": 1466,
+    "name": "Sztukatorka",
+    "future": false
+  },
+  {
+    "id": 1346,
+    "name": "Szwaczka ręczna",
+    "future": false
+  },
+  {
+    "id": 1580,
+    "name": "Szyperka",
+    "future": false
+  },
+  {
+    "id": 612,
+    "name": "Ślusarka",
+    "future": false
+  },
+  {
+    "id": 1758,
+    "name": "Śpiewaczka operowa",
+    "future": false
+  },
+  {
+    "id": 536,
+    "name": "Tajemnicza klientka",
+    "future": false
+  },
+  {
+    "id": 93,
+    "name": "Taksówkarka",
+    "future": false
+  },
+  {
+    "id": 529,
+    "name": "Tancerka baletowa",
+    "future": false
+  },
+  {
+    "id": 615,
+    "name": "Tapicerka",
+    "future": false
+  },
+  {
+    "id": 1937,
+    "name": "Tapicerka samochodowa",
+    "future": false
+  },
+  {
+    "id": 908,
+    "name": "Tartaczniczka",
+    "future": false
+  },
+  {
+    "id": 668,
+    "name": "Tatuażystka",
+    "future": false
+  },
+  {
+    "id": 2012,
+    "name": "Team leaderka",
+    "future": false
+  },
+  {
+    "id": 2032,
+    "name": "Techniczka ortopeda",
+    "future": false
+  },
+  {
+    "id": 672,
+    "name": "Techniczka weterynarii",
+    "future": false
+  },
+  {
+    "id": 718,
+    "name": "Technolożka chemiczna",
+    "future": false
+  },
+  {
+    "id": 1282,
+    "name": "Technolożka drewna",
+    "future": false
+  },
+  {
+    "id": 540,
+    "name": "Technolożka żywności",
+    "future": false
+  },
+  {
+    "id": 1637,
+    "name": "Teleinformatyczka",
+    "future": false
+  },
+  {
+    "id": 727,
+    "name": "Telemarketerka",
+    "future": false
+  },
+  {
+    "id": 1224,
+    "name": "Teletutorka",
+    "future": false
+  },
+  {
+    "id": 1267,
+    "name": "Terapeutka końca życia",
+    "future": true
+  },
+  {
+    "id": 1644,
+    "name": "Terapeutka robotów",
+    "future": true
+  },
+  {
+    "id": 869,
+    "name": "Terapeutka zajęciowa",
+    "future": false
+  },
+  {
+    "id": 1106,
+    "name": "Testerka destynacji ",
+    "future": false
+  },
+  {
+    "id": 1211,
+    "name": "Testerka gier komputerowych",
+    "future": false
+  },
+  {
+    "id": 919,
+    "name": "Testerka oprogramowania",
+    "future": false
+  },
+  {
+    "id": 934,
+    "name": "Tłoczarka w metalu",
+    "future": false
+  },
+  {
+    "id": 1715,
+    "name": "Tłumaczka",
+    "future": false
+  },
+  {
+    "id": 353,
+    "name": "Tłumaczka Polskiego Języka Migowego",
+    "future": false
+  },
+  {
+    "id": 105,
+    "name": "Tłumaczka symultaniczna",
+    "future": false
+  },
+  {
+    "id": 1292,
+    "name": "Tokarka",
+    "future": false
+  },
+  {
+    "id": 1109,
+    "name": "Toksykolożka",
+    "future": false
+  },
+  {
+    "id": 1179,
+    "name": "Towarzyszka osób starszych",
+    "future": false
+  },
+  {
+    "id": 671,
+    "name": "Trendsetterka",
+    "future": false
+  },
+  {
+    "id": 1642,
+    "name": "Trenerka",
+    "future": false
+  },
+  {
+    "id": 2000,
+    "name": "Trenerka mindfulness",
+    "future": false
+  },
+  {
+    "id": 1140,
+    "name": "Trenerka robotów przemysłowych",
+    "future": true
+  },
+  {
+    "id": 325,
+    "name": "Trenerka sportu",
+    "future": false
+  },
+  {
+    "id": 1022,
+    "name": "Treserka psów",
+    "future": false
+  },
+  {
+    "id": 112,
+    "name": "Tropicielka trendów",
+    "future": false
+  },
+  {
+    "id": 424,
+    "name": "Tyfloinformatyczka",
+    "future": false
+  },
+  {
+    "id": 2046,
+    "name": "Tyflopedagożka",
+    "future": false
+  },
+  {
+    "id": 1369,
+    "name": "Układaczka nawierzchni drogowych",
+    "future": false
+  },
+  {
+    "id": 393,
+    "name": "Urbanistka",
+    "future": false
+  },
+  {
+    "id": 927,
+    "name": "Urzędniczka podatkowa",
+    "future": false
+  },
+  {
+    "id": 925,
+    "name": "Urzędniczka ubezpieczeń społecznych",
+    "future": false
+  },
+  {
+    "id": 1852,
+    "name": "UX Designerka",
+    "future": false
+  },
+  {
+    "id": 852,
+    "name": "Vansellerka",
+    "future": false
+  },
+  {
+    "id": 29,
+    "name": "Web designerka",
+    "future": false
+  },
+  {
+    "id": 49,
+    "name": "Weterynarka",
+    "future": false
+  },
+  {
+    "id": 1016,
+    "name": "Wędliniarka",
+    "future": false
+  },
+  {
+    "id": 563,
+    "name": "Wideofilmowczyni",
+    "future": false
+  },
+  {
+    "id": 1290,
+    "name": "Wiertaczka",
+    "future": false
+  },
+  {
+    "id": 1018,
+    "name": "Wiertaczka studni",
+    "future": false
+  },
+  {
+    "id": 1295,
+    "name": "Windykatorka",
+    "future": false
+  },
+  {
+    "id": 943,
+    "name": "Wirtualna asystentka",
+    "future": false
+  },
+  {
+    "id": 1288,
+    "name": "Wirtualna żołnierka",
+    "future": true
+  },
+  {
+    "id": 841,
+    "name": "Wizażystka",
+    "future": false
+  },
+  {
+    "id": 1006,
+    "name": "Wizytatorka",
+    "future": false
+  },
+  {
+    "id": 674,
+    "name": "Wulkanizatorka",
+    "future": false
+  },
+  {
+    "id": 379,
+    "name": "Wychowawczyni w więzieniu",
+    "future": false
+  },
+  {
+    "id": 1338,
+    "name": "Wywiadowczyni gospodarcza ",
+    "future": false
+  },
+  {
+    "id": 1303,
+    "name": "Zadziczaczka",
+    "future": true
+  },
+  {
+    "id": 1963,
+    "name": "Zarządczyni budynków biurowych",
+    "future": false
+  },
+  {
+    "id": 1049,
+    "name": "Zdunka",
+    "future": false
+  },
+  {
+    "id": 284,
+    "name": "Zegarmistrzyni",
+    "future": false
+  },
+  {
+    "id": 906,
+    "name": "Zielarka",
+    "future": false
+  },
+  {
+    "id": 1242,
+    "name": "Złota rączka",
+    "future": false
+  },
+  {
+    "id": 1205,
+    "name": "Zoofizjoterapeutka ",
+    "future": false
+  },
+  {
+    "id": 521,
+    "name": "Zoopsycholożka",
+    "future": false
+  }
+]

@@ -1,0 +1,1201 @@
+{
+    "pageProps": {
+      "filters": {
+        "tasks": [
+          {
+            "id": 1355,
+            "value": "analizowanie-danych-liczbowych",
+            "title": "Analizowanie danych liczbowych"
+          },
+          {
+            "id": 1356,
+            "value": "wykonywanie-pomiarow",
+            "title": "Wykonywanie pomiar\u00F3w"
+          },
+          {
+            "id": 1359,
+            "value": "kierowanie-pojazdami",
+            "title": "Kierowanie pojazdami"
+          },
+          {
+            "id": 1362,
+            "value": "leczenie",
+            "title": "Leczenie"
+          },
+          {
+            "id": 1363,
+            "value": "niesienie-pomocy-potrzebujacym",
+            "title": "Niesienie pomocy potrzebuj\u0105cym"
+          },
+          {
+            "id": 1367,
+            "value": "pielegnowanie-urody",
+            "title": "Piel\u0119gnowanie urody"
+          },
+          {
+            "id": 1368,
+            "value": "opiekowanie-sie-ludzmi",
+            "title": "Opiekowanie si\u0119 lud\u017Ami"
+          },
+          {
+            "id": 1369,
+            "value": "sporzadzanie-i-analizowanie-dokumentow",
+            "title": "Sporz\u0105dzanie i analizowanie dokument\u00F3w"
+          },
+          {
+            "id": 1370,
+            "value": "projektowanie-wizualne",
+            "title": "Projektowanie wizualne"
+          },
+          {
+            "id": 1371,
+            "value": "programowanie",
+            "title": "Programowanie"
+          },
+          {
+            "id": 1375,
+            "value": "zarzadzanie-ludzmi-i-procesami",
+            "title": "Zarz\u0105dzanie lud\u017Ami i procesami"
+          },
+          {
+            "id": 1377,
+            "value": "nauczanie",
+            "title": "Nauczanie"
+          },
+          {
+            "id": 1378,
+            "value": "wystepowanie-publiczne",
+            "title": "Wyst\u0119powanie publiczne"
+          },
+          {
+            "id": 1381,
+            "value": "praca-ze-slowem-i-jezykiem",
+            "title": "Praca ze s\u0142owem i j\u0119zykiem"
+          },
+          {
+            "id": 1385,
+            "value": "produkowanie-i-przygotowanie-zywnosci",
+            "title": "Produkowanie i przygotowanie \u017Cywno\u015Bci"
+          },
+          {
+            "id": 1386,
+            "value": "interweniowanie-w-sytuacjach-kryzysowych",
+            "title": "Interweniowanie w sytuacjach kryzysowych"
+          },
+          {
+            "id": 1387,
+            "value": "pilnowanie-porzadku",
+            "title": "Pilnowanie porz\u0105dku"
+          },
+          {
+            "id": 1388,
+            "value": "praca-ze-zwierzetami",
+            "title": "Praca ze zwierz\u0119tami"
+          },
+          {
+            "id": 1391,
+            "value": "przeprowadzanie-doswiadczen",
+            "title": "Przeprowadzanie do\u015Bwiadcze\u0144"
+          },
+          {
+            "id": 1393,
+            "value": "wykonywanie-cwiczen-fizycznych",
+            "title": "Wykonywanie \u0107wicze\u0144 fizycznych"
+          },
+          {
+            "id": 1396,
+            "value": "doradzanie",
+            "title": "Doradzanie"
+          },
+          {
+            "id": 1397,
+            "value": "prowadzenie-negocjacji",
+            "title": "Prowadzenie negocjacji"
+          },
+          {
+            "id": 1398,
+            "value": "pielegnowanie-i-przetwarzanie-roslin",
+            "title": "Piel\u0119gnowanie i przetwarzanie ro\u015Blin"
+          },
+          {
+            "id": 1403,
+            "value": "promowanie-uslug-i-produktow",
+            "title": "Promowanie us\u0142ug i produkt\u00F3w"
+          },
+          {
+            "id": 1404,
+            "value": "obslugiwanie-maszyn",
+            "title": "Obs\u0142ugiwanie maszyn"
+          },
+          {
+            "id": 1406,
+            "value": "naprawianie-i-montowanie",
+            "title": "Naprawianie i montowanie"
+          },
+          {
+            "id": 1409,
+            "value": "sprzedawanie-produktow-i-uslug",
+            "title": "Sprzedawanie produkt\u00F3w i us\u0142ug"
+          },
+          {
+            "id": 1447,
+            "value": "tworzenie-i-odtwarzanie-muzyki",
+            "title": "Tworzenie i odtwarzanie muzyki"
+          },
+          {
+            "id": 1450,
+            "value": "wytwarzanie-przedmiotow",
+            "title": "Wytwarzanie przedmiot\u00F3w"
+          },
+          {
+            "id": 1451,
+            "value": "organizowanie-wydarzen",
+            "title": "Organizowanie wydarze\u0144"
+          },
+          {
+            "id": 1462,
+            "value": "wykonywanie-prac-prostych",
+            "title": "Wykonywanie prac prostych"
+          }
+        ],
+        "industry": [
+          {
+            "id": 641,
+            "value": "nauka",
+            "title": "Nauka"
+          },
+          {
+            "id": 647,
+            "value": "transport",
+            "title": "Transport"
+          },
+          {
+            "id": 1361,
+            "value": "zdrowie",
+            "title": "Zdrowie"
+          },
+          {
+            "id": 659,
+            "value": "uslugi",
+            "title": "Us\u0142ugi"
+          },
+          {
+            "id": 663,
+            "value": "finanse",
+            "title": "Finanse"
+          },
+          {
+            "id": 716,
+            "value": "administracja",
+            "title": "Administracja"
+          },
+          {
+            "id": 664,
+            "value": "it",
+            "title": "IT"
+          },
+          {
+            "id": 673,
+            "value": "edukacja",
+            "title": "Edukacja"
+          },
+          {
+            "id": 1379,
+            "value": "kultura-i-sztuka",
+            "title": "Kultura i sztuka"
+          },
+          {
+            "id": 1380,
+            "value": "media-i-reklama",
+            "title": "Media i reklama"
+          },
+          {
+            "id": 679,
+            "value": "gastronomia",
+            "title": "Gastronomia"
+          },
+          {
+            "id": 682,
+            "value": "sluzby",
+            "title": "S\u0142u\u017Cby"
+          },
+          {
+            "id": 724,
+            "value": "rolnictwo",
+            "title": "Rolnictwo"
+          },
+          {
+            "id": 753,
+            "value": "przemysl",
+            "title": "Przemys\u0142"
+          },
+          {
+            "id": 1392,
+            "value": "sport-i-rekreacja",
+            "title": "Sport i rekreacja"
+          },
+          {
+            "id": 689,
+            "value": "budownictwo",
+            "title": "Budownictwo"
+          },
+          {
+            "id": 1395,
+            "value": "prawo",
+            "title": "Prawo"
+          },
+          {
+            "id": 698,
+            "value": "religia",
+            "title": "Religia"
+          },
+          {
+            "id": 800,
+            "value": "motoryzacja",
+            "title": "Motoryzacja"
+          },
+          {
+            "id": 2065,
+            "value": "telekomunikacja",
+            "title": "Telekomunikacja"
+          },
+          {
+            "id": 707,
+            "value": "ochrona-srodowiska",
+            "title": "Ochrona \u015Brodowiska"
+          },
+          {
+            "id": 718,
+            "value": "handel",
+            "title": "Handel"
+          },
+          {
+            "id": 722,
+            "value": "lesnictwo",
+            "title": "Le\u015Bnictwo"
+          },
+          {
+            "id": 723,
+            "value": "rybactwo",
+            "title": "Rybactwo"
+          },
+          {
+            "id": 727,
+            "value": "rzemioslo",
+            "title": "Rzemios\u0142o"
+          },
+          {
+            "id": 2064,
+            "value": "energetyka",
+            "title": "Energetyka"
+          },
+          {
+            "id": 729,
+            "value": "turystyka",
+            "title": "Turystyka"
+          },
+          {
+            "id": 730,
+            "value": "zegluga",
+            "title": "\u017Begluga"
+          },
+          {
+            "id": 1452,
+            "value": "odziez",
+            "title": "Odzie\u017C"
+          },
+          {
+            "id": 768,
+            "value": "gornictwo",
+            "title": "G\u00F3rnictwo"
+          }
+        ],
+        "environment": [
+          {
+            "id": 643,
+            "value": "biuro",
+            "title": "Biuro"
+          },
+          {
+            "id": 649,
+            "value": "podroz",
+            "title": "Podr\u00F3\u017C"
+          },
+          {
+            "id": 655,
+            "value": "w-ruchu",
+            "title": "W ruchu"
+          },
+          {
+            "id": 683,
+            "value": "teren",
+            "title": "Teren"
+          }
+        ],
+        "sociality": [
+          {
+            "id": 1204,
+            "value": 1,
+            "title": "Ma\u0142y"
+          },
+          {
+            "id": 1207,
+            "value": 2,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 705,
+            "value": 3,
+            "title": "Du\u017Cy"
+          }
+        ],
+        "physicality": [
+          {
+            "id": 1373,
+            "value": 1,
+            "title": "Zerowy"
+          },
+          {
+            "id": 1358,
+            "value": 2,
+            "title": "Ma\u0142y"
+          },
+          {
+            "id": 1365,
+            "value": 3,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 1382,
+            "value": 4,
+            "title": "Du\u017Cy"
+          }
+        ],
+        "schedule": [
+          {
+            "id": 1203,
+            "value": "standardowe",
+            "title": "Standardowe"
+          },
+          {
+            "id": 1206,
+            "value": "niestandardowe",
+            "title": "Niestandardowe"
+          }
+        ],
+        "technology": [
+          {
+            "id": 1360,
+            "value": 1,
+            "title": "Podstawowe"
+          },
+          {
+            "id": 1364,
+            "value": 2,
+            "title": "\u015Arednie"
+          },
+          {
+            "id": 1357,
+            "value": 3,
+            "title": "Wysokie"
+          },
+          {
+            "id": 1372,
+            "value": 4,
+            "title": "Eksperckie"
+          }
+        ],
+        "subjects": [
+          {
+            "id": 1,
+            "value": 1,
+            "title": "Podstawowy"
+          },
+          {
+            "id": 2,
+            "value": 2,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 3,
+            "value": 3,
+            "title": "Wysoki"
+          },
+          {
+            "id": 4,
+            "value": 4,
+            "title": "Ekspert"
+          }
+        ],
+        "art": [
+          {
+            "id": 1,
+            "value": 1,
+            "title": "Podstawowy"
+          },
+          {
+            "id": 2,
+            "value": 2,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 3,
+            "value": 3,
+            "title": "Wysoki"
+          },
+          {
+            "id": 4,
+            "value": 4,
+            "title": "Ekspert"
+          }
+        ],
+        "wos": [
+          {
+            "id": 1,
+            "value": 1,
+            "title": "Podstawowy"
+          },
+          {
+            "id": 2,
+            "value": 2,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 3,
+            "value": 3,
+            "title": "Wysoki"
+          },
+          {
+            "id": 4,
+            "value": 4,
+            "title": "Ekspert"
+          }
+        ],
+        "math": [
+          {
+            "id": 1,
+            "value": 1,
+            "title": "Podstawowy"
+          },
+          {
+            "id": 2,
+            "value": 2,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 3,
+            "value": 3,
+            "title": "Wysoki"
+          },
+          {
+            "id": 4,
+            "value": 4,
+            "title": "Ekspert"
+          }
+        ],
+        "music": [
+          {
+            "id": 1,
+            "value": 1,
+            "title": "Podstawowy"
+          },
+          {
+            "id": 2,
+            "value": 2,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 3,
+            "value": 3,
+            "title": "Wysoki"
+          },
+          {
+            "id": 4,
+            "value": 4,
+            "title": "Ekspert"
+          }
+        ],
+        "polish": [
+          {
+            "id": 1,
+            "value": 1,
+            "title": "Podstawowy"
+          },
+          {
+            "id": 2,
+            "value": 2,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 3,
+            "value": 3,
+            "title": "Wysoki"
+          },
+          {
+            "id": 4,
+            "value": 4,
+            "title": "Ekspert"
+          }
+        ],
+        "history": [
+          {
+            "id": 1,
+            "value": 1,
+            "title": "Podstawowy"
+          },
+          {
+            "id": 2,
+            "value": 2,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 3,
+            "value": 3,
+            "title": "Wysoki"
+          },
+          {
+            "id": 4,
+            "value": 4,
+            "title": "Ekspert"
+          }
+        ],
+        "physics": [
+          {
+            "id": 1,
+            "value": 1,
+            "title": "Podstawowy"
+          },
+          {
+            "id": 2,
+            "value": 2,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 3,
+            "value": 3,
+            "title": "Wysoki"
+          },
+          {
+            "id": 4,
+            "value": 4,
+            "title": "Ekspert"
+          }
+        ],
+        "biology": [
+          {
+            "id": 1,
+            "value": 1,
+            "title": "Podstawowy"
+          },
+          {
+            "id": 2,
+            "value": 2,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 3,
+            "value": 3,
+            "title": "Wysoki"
+          },
+          {
+            "id": 4,
+            "value": 4,
+            "title": "Ekspert"
+          }
+        ],
+        "english": [
+          {
+            "id": 1,
+            "value": 1,
+            "title": "Podstawowy"
+          },
+          {
+            "id": 2,
+            "value": 2,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 3,
+            "value": 3,
+            "title": "Wysoki"
+          },
+          {
+            "id": 4,
+            "value": 4,
+            "title": "Ekspert"
+          }
+        ],
+        "technics": [
+          {
+            "id": 1,
+            "value": 1,
+            "title": "Podstawowy"
+          },
+          {
+            "id": 2,
+            "value": 2,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 3,
+            "value": 3,
+            "title": "Wysoki"
+          },
+          {
+            "id": 4,
+            "value": 4,
+            "title": "Ekspert"
+          }
+        ],
+        "chemistry": [
+          {
+            "id": 1,
+            "value": 1,
+            "title": "Podstawowy"
+          },
+          {
+            "id": 2,
+            "value": 2,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 3,
+            "value": 3,
+            "title": "Wysoki"
+          },
+          {
+            "id": 4,
+            "value": 4,
+            "title": "Ekspert"
+          }
+        ],
+        "geography": [
+          {
+            "id": 1,
+            "value": 1,
+            "title": "Podstawowy"
+          },
+          {
+            "id": 2,
+            "value": 2,
+            "title": "\u015Aredni"
+          },
+          {
+            "id": 3,
+            "value": 3,
+            "title": "Wysoki"
+          },
+          {
+            "id": 4,
+            "value": 4,
+            "title": "Ekspert"
+          }
+        ]
+      },
+      "webmetadata": {
+        "title": "Filtr preferencji | \u015Acie\u017Cki kariery dla Ciebie | Mapa Karier",
+        "cover": "https://mapakarier.org/next/assets/images/meta/preferences.jpg",
+        "description": "Zastanawiasz si\u0119 nad wyborem studi\u00F3w lub przysz\u0142\u0105 \u015Bcie\u017Ck\u0105 kariery? Zaznacz swoje preferencje i sprawd\u017A, jakie zawody mog\u0105 Ci si\u0119 spodoba\u0107."
+      },
+      "tooltips": {
+        "nauka": {
+          "tooltipID": 3,
+          "slug": "nauka",
+          "name": "nauka",
+          "content": "### Nauka\nBran\u017Ca zajmuj\u0105ca si\u0119 poszerzaniem wiedzy poprzez prowadzenie bada\u0144 i eksperyment\u00F3w\n"
+        },
+        "transport": {
+          "tooltipID": 4,
+          "slug": "transport",
+          "name": "transport",
+          "content": "### Transport\nBran\u017Ca zajmuj\u0105ca si\u0119 przewo\u017Ceniem ludzi i towar\u00F3w\n"
+        },
+        "zdrowie": {
+          "tooltipID": 5,
+          "slug": "zdrowie",
+          "name": "zdrowie",
+          "content": "### Zdrowie\nBran\u017Ca zajmuj\u0105ca si\u0119 profilaktyk\u0105 chor\u00F3b, leczeniem ludzi lub zwierz\u0105t i promocj\u0105 zdrowego trybu \u017Cycia\n"
+        },
+        "uslugi": {
+          "tooltipID": 6,
+          "slug": "uslugi",
+          "name": "us\u0142ugi",
+          "content": "### Us\u0142ugi\nBran\u017Ca zajmuj\u0105ca si\u0119 zaspokajaniem r\u00F3\u017Cnych potrzeb ludzkich\n"
+        },
+        "finanse": {
+          "tooltipID": 7,
+          "slug": "finanse",
+          "name": "finanse",
+          "content": "### Finanse\nBran\u017Ca zajmuj\u0105ca si\u0119 pieni\u0105dzem, obs\u0142ug\u0105 p\u0142atno\u015Bci i papier\u00F3w warto\u015Bciowych\n"
+        },
+        "it": {
+          "tooltipID": 8,
+          "slug": "it",
+          "name": "IT",
+          "content": "### IT\nBran\u017Ca zajmuj\u0105ca si\u0119 projektowaniem i wdra\u017Caniem system\u00F3w informatycznych\n"
+        },
+        "kadry": {
+          "tooltipID": 9,
+          "slug": "kadry",
+          "name": "kadry",
+          "content": "### Kadry\nBran\u017Ca zajmuj\u0105ca si\u0119 rekrutowaniem i dbaniem o pracownikow\n"
+        },
+        "edukacja": {
+          "tooltipID": 10,
+          "slug": "edukacja",
+          "name": "edukacja",
+          "content": "### Edukacja\nBran\u017Ca zajmuj\u0105ca si\u0119 nauczaniem dzieci, m\u0142odzie\u017Cy i doros\u0142ych\n"
+        },
+        "sztuka": {
+          "tooltipID": 11,
+          "slug": "sztuka",
+          "name": "sztuka",
+          "content": "### Sztuka\nBran\u017Ca zajmuj\u0105ca si\u0119 dzia\u0142alno\u015Bci\u0105 artystyczn\u0105\n"
+        },
+        "gastronomia": {
+          "tooltipID": 12,
+          "slug": "gastronomia",
+          "name": "gastronomia",
+          "content": "### Gastronomia\nBran\u017Ca zajmuj\u0105ca si\u0119 produkcj\u0105, dystrybucj\u0105 i sprzeda\u017C\u0105 \u017Cywno\u015Bci\n"
+        },
+        "sluzby": {
+          "tooltipID": 13,
+          "slug": "sluzby",
+          "name": "s\u0142u\u017Cby",
+          "content": "### S\u0142u\u017Cby\nBran\u017Ca zajmuj\u0105ca si\u0119 pilnowaniem porz\u0105dku i bezpiecze\u0144stwa kraju\n"
+        },
+        "media-i-reklama": {
+          "tooltipID": 14,
+          "slug": "media-i-reklama",
+          "name": "media i reklama",
+          "content": "### Media i reklama\nBran\u017Ca zajmuj\u0105ca si\u0119 dostarczaniem rozrywki i informacji\n"
+        },
+        "budownictwo": {
+          "tooltipID": 15,
+          "slug": "budownictwo",
+          "name": "budownictwo",
+          "content": "### Budownictwo\nBran\u017Ca zajmuj\u0105ca si\u0119 budowaniem i remontowaniem budynk\u00F3w i innych obiekt\u00F3w"
+        },
+        "prawo": {
+          "tooltipID": 16,
+          "slug": "prawo",
+          "name": "prawo",
+          "content": "### Prawo\nPrawo: bran\u017Ca zajmuj\u0105ca si\u0119 tworzeniem i pilnowaniem przestrzegania przepis\u00F3w prawa\n"
+        },
+        "religia": {
+          "tooltipID": 17,
+          "slug": "religia",
+          "name": "religia",
+          "content": "### Religia\nBran\u017Ca zajmuj\u0105ca si\u0119 dbaniem o \u017Cycie duchowe ludzi\n"
+        },
+        "reklama": {
+          "tooltipID": 18,
+          "slug": "reklama",
+          "name": "reklama",
+          "content": "### Reklama\nBran\u017Ca zajmuj\u0105ca si\u0119 promowaniem produkt\u00F3w i us\u0142ug\n"
+        },
+        "ochrona-srodowiska": {
+          "tooltipID": 19,
+          "slug": "ochrona-srodowiska",
+          "name": "ochrona \u015Brodowiska",
+          "content": "### Ochrona \u015Brodowiska\nBran\u017Ca zajmuj\u0105ca si\u0119 zapobieganiem niszczeniu przyrody przez dzia\u0142alno\u015B\u0107 cz\u0142owieka\n"
+        },
+        "administracja": {
+          "tooltipID": 20,
+          "slug": "administracja",
+          "name": "administracja",
+          "content": "### Administracja\nBran\u017Ca zwi\u0105zana z zarz\u0105dzaniem i wspomaganiem dzia\u0142ania instytucji"
+        },
+        "handel": {
+          "tooltipID": 21,
+          "slug": "handel",
+          "name": "handel",
+          "content": "### Handel\nBran\u017Ca zajmuj\u0105ca si\u0119 sprzeda\u017C\u0105 towar\u00F3w, nieruchomo\u015Bci i us\u0142ug"
+        },
+        "sport-i-rekreacja": {
+          "tooltipID": 22,
+          "slug": "sport-i-rekreacja",
+          "name": "sport i rekreacja",
+          "content": "### Sport i rekreacja\nBran\u017Ca zajmuj\u0105ca si\u0119 kultur\u0105 fizyczn\u0105 i aktywnym wypoczynkiem\n"
+        },
+        "lesnictwo": {
+          "tooltipID": 23,
+          "slug": "lesnictwo",
+          "name": "le\u015Bnictwo",
+          "content": "### Le\u015Bnictwo\nBran\u017Ca zajmuj\u0105ca si\u0119 utrzymywaniem las\u00F3w w dobrym stanie\n"
+        },
+        "rybactwo": {
+          "tooltipID": 24,
+          "slug": "rybactwo",
+          "name": "rybactwo",
+          "content": "### Rybactwo\nBran\u017Ca zajmuj\u0105ca si\u0119 hodowl\u0105 i po\u0142owem ryb\n"
+        },
+        "rolnictwo": {
+          "tooltipID": 25,
+          "slug": "rolnictwo",
+          "name": "rolnictwo",
+          "content": "### Rolnictwo\nBran\u017Ca zajmuj\u0105ca si\u0119 upraw\u0105 roli i hodowl\u0105 zwierz\u0105t gospodarskich\n"
+        },
+        "rzemioslo": {
+          "tooltipID": 26,
+          "slug": "rzemioslo",
+          "name": "rzemios\u0142o",
+          "content": "### Rzemios\u0142o\nBran\u017Ca zajmuj\u0105ca si\u0119 r\u0119cznym wyrobem i napraw\u0105 przedmiot\u00F3w u\u017Cytkowych\n"
+        },
+        "kultura-i-sztuka": {
+          "tooltipID": 27,
+          "slug": "kultura-i-sztuka",
+          "name": "kultura i sztuka",
+          "content": "### Kultura i sztuka\nBran\u017Ca zajmuj\u0105ca si\u0119 dzia\u0142alno\u015Bci\u0105 artystyczn\u0105 i kulturaln\u0105\n"
+        },
+        "turystyka": {
+          "tooltipID": 28,
+          "slug": "turystyka",
+          "name": "turystyka",
+          "content": "### Turystyka\nBran\u017Ca zajmuj\u0105ca si\u0119 organizacj\u0105 wycieczek i prowadzeniem obiekt\u00F3w hotelowych\n"
+        },
+        "zegluga": {
+          "tooltipID": 29,
+          "slug": "zegluga",
+          "name": "\u017Cegluga",
+          "content": "### \u017Begluga\nBran\u017Ca zajmuj\u0105ca si\u0119 przewo\u017Ceniem ludzi i towar\u00F3w drogami wodnymi\n"
+        },
+        "przemysl": {
+          "tooltipID": 30,
+          "slug": "przemysl",
+          "name": "przemys\u0142",
+          "content": "### Przemys\u0142\nBran\u017Ca zajmuj\u0105ca si\u0119 masow\u0105 produkcj\u0105 materia\u0142\u00F3w, przedmiot\u00F3w i energii\n"
+        },
+        "gornictwo": {
+          "tooltipID": 31,
+          "slug": "gornictwo",
+          "name": "g\u00F3rnictwo",
+          "content": "### G\u00F3rnictwo\nBran\u017Ca zajmuj\u0105ca si\u0119 eksploatacj\u0105 surowc\u00F3w mineralnych\n"
+        },
+        "motoryzacja": {
+          "tooltipID": 32,
+          "slug": "motoryzacja",
+          "name": "motoryzacja",
+          "content": "### Motoryzacja\nBran\u017Ca zajmuj\u0105ca si\u0119 budow\u0105, eksploatacj\u0105 i napraw\u0105 pojazd\u00F3w mechanicznych\n"
+        },
+        "weterynaria": {
+          "tooltipID": 33,
+          "slug": "weterynaria",
+          "name": "weterynaria",
+          "content": "### Weterynaria\n\n"
+        },
+        "odziez": {
+          "tooltipID": 34,
+          "slug": "odziez",
+          "name": "odzie\u017C",
+          "content": "### Odzie\u017C\nBran\u017Ca zajmuj\u0105ca si\u0119 produkcj\u0105 i napraw\u0105 ubra\u0144 i obuwia\n"
+        },
+        "biuro": {
+          "tooltipID": 66,
+          "slug": "biuro",
+          "name": "biuro",
+          "content": "### Biuro\nPraca siedz\u0105ca w siedzibie pracodawcy\n"
+        },
+        "podroz": {
+          "tooltipID": 67,
+          "slug": "podroz",
+          "name": "podr\u00F3\u017C",
+          "content": "### Podr\u00F3\u017C\nPraca w \u015Brodkach transportu\n"
+        },
+        "w-ruchu": {
+          "tooltipID": 68,
+          "slug": "w-ruchu",
+          "name": "w ruchu",
+          "content": "### W ruchu\nPraca w ruchu w siedzibie pracodawcy\n"
+        },
+        "dom": {
+          "tooltipID": 69,
+          "slug": "dom",
+          "name": "dom",
+          "content": "### Dom\nPraca we w\u0142asnym domu\n"
+        },
+        "teren": {
+          "tooltipID": 70,
+          "slug": "teren",
+          "name": "teren",
+          "content": "### Teren\nPraca poza zamkni\u0119tymi pomieszczeniami\n"
+        },
+        "normalny": {
+          "tooltipID": 73,
+          "slug": "normalny",
+          "name": "normalny",
+          "content": "### Normalny\nPraca codziennie w tych samych godzinach\n"
+        },
+        "zmianowy": {
+          "tooltipID": 74,
+          "slug": "zmianowy",
+          "name": "zmianowy",
+          "content": "### Zmianowy\nPraca raz w dzie\u0144, raz w nocy\n"
+        },
+        "nienormowany": {
+          "tooltipID": 75,
+          "slug": "nienormowany",
+          "name": "nienormowany",
+          "content": "### Nienormowany\nPraca codziennie w tych samych godzinach, ale zwykle z nadgodzinami, tak\u017Ce w nocy\n"
+        },
+        "dorywczy": {
+          "tooltipID": 76,
+          "slug": "dorywczy",
+          "name": "dorywczy",
+          "content": "### Dorywczy\nPraca nieregularna, tylko w razie zapotrzebowania\n"
+        },
+        "dowolny": {
+          "tooltipID": 77,
+          "slug": "dowolny",
+          "name": "dowolny",
+          "content": "### Dowolny\nPracownik sam wybiera, kiedy pracuje\n"
+        },
+        "nocny": {
+          "tooltipID": 78,
+          "slug": "nocny",
+          "name": "nocny",
+          "content": "### Nocny\nPraca codziennie w godzinach nocnych\n"
+        },
+        "seryjny": {
+          "tooltipID": 79,
+          "slug": "seryjny",
+          "name": "seryjny",
+          "content": "### Seryjny\nCi\u0105g\u0142a praca przez wiele dni, potem wiele dni odpoczynku\n"
+        },
+        "standardowe": {
+          "tooltipID": 80,
+          "slug": "standardowe",
+          "name": "standardowe",
+          "content": "### Standardowe\nPraca codziennie w tych samych, standardowych godzinach, zwykle 8-16\n"
+        },
+        "niestandardowe": {
+          "tooltipID": 81,
+          "slug": "niestandardowe",
+          "name": "niestandardowe",
+          "content": "### Niestandardowe\nPraca w nietypowych godzinach, w nocy, nieregularna lub okresowa\n"
+        },
+        "sporzadzanie-i-analizowanie-dokumentow": {
+          "tooltipID": 88,
+          "slug": "sporzadzanie-i-analizowanie-dokumentow",
+          "name": "sporz\u0105dzanie i analizowanie dokument\u00F3w",
+          "content": "### Sporz\u0105dzanie i analizowanie dokument\u00F3w\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na czytanie i/lub pisanie dokument\u00F3w takich jak raporty, umowy, kosztorysy, oferty, \u017Ar\u00F3d\u0142a historyczne itd.\n"
+        },
+        "obslugiwanie-maszyn": {
+          "tooltipID": 89,
+          "slug": "obslugiwanie-maszyn",
+          "name": "obs\u0142ugiwanie maszyn",
+          "content": "### Obs\u0142ugiwanie maszyn\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na obs\u0142ug\u0119 maszyn mechanicznych takich jak obrabiarki, koparki, wiertnice, projektory, wtryskarki itd.\n"
+        },
+        "analizowanie-danych-liczbowych": {
+          "tooltipID": 90,
+          "slug": "analizowanie-danych-liczbowych",
+          "name": "analizowanie danych liczbowych",
+          "content": "### Analizowanie danych liczbowych\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na opracowywanie danych liczbowych takich jak statystyki sprzeda\u017Ay, obci\u0105\u017Cenia budynk\u00F3w, wyniki pomiar\u00F3w, ruch na stronach internetowych itd.\n"
+        },
+        "zarzadzanie-ludzmi-i-procesami": {
+          "tooltipID": 91,
+          "slug": "zarzadzanie-ludzmi-i-procesami",
+          "name": "zarz\u0105dzanie lud\u017Ami i procesami",
+          "content": "### Zarz\u0105dzanie lud\u017Ami i procesami\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na podejmowanie decyzji dotycz\u0105cych organizacji pracy zespo\u0142\u00F3w lub/i funkcjonowania proces\u00F3w, np. produkcyjnych, logistycznych, legislacyjnych itd.\n"
+        },
+        "wykonywanie-pomiarow": {
+          "tooltipID": 92,
+          "slug": "wykonywanie-pomiarow",
+          "name": "wykonywanie pomiar\u00F3w",
+          "content": "### Wykonywanie pomiar\u00F3w\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na dokonywanie precyzyjnych obserwacji i mierzenie r\u00F3\u017Cnych parametr\u00F3w przedmiot\u00F3w, proces\u00F3w, \u015Brodowisk lub zjawisk.\n"
+        },
+        "naprawianie-i-montowanie": {
+          "tooltipID": 93,
+          "slug": "naprawianie-i-montowanie",
+          "name": "naprawianie i montowanie",
+          "content": "### Naprawianie i montowanie\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na konstruowanie lub instalowanie przedmiot\u00F3w lub urz\u0105dze\u0144, konserwowanie ich i naprawianie wyst\u0119puj\u0105cych w nich usterek.\n"
+        },
+        "doradzanie": {
+          "tooltipID": 94,
+          "slug": "doradzanie",
+          "name": "doradzanie",
+          "content": "### Doradzanie\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na udzielanie pomocy innym osobom poprzez proponowanie im sposob\u00F3w rozwi\u0105zania ich problem\u00F3w.\n"
+        },
+        "niesienie-pomocy-potrzebujacym": {
+          "tooltipID": 95,
+          "slug": "niesienie-pomocy-potrzebujacym",
+          "name": "niesienie pomocy potrzebuj\u0105cym",
+          "content": "### Niesienie pomocy potrzebuj\u0105cym\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na udzielanie pomocy innym osobom poprzez podejmowanie dzia\u0142a\u0144 rozwi\u0105zuj\u0105cych ich problemy.\n"
+        },
+        "projektowanie-wizualne": {
+          "tooltipID": 96,
+          "slug": "projektowanie-wizualne",
+          "name": "projektowanie wizualne",
+          "content": "### Projektowanie wizualne\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na kreowanie wygl\u0105du przedmiot\u00F3w u\u017Cytkowych, urz\u0105dze\u0144, gier komputerowych, spektakli teatralnych, ubra\u0144 itd., albo tworzenie dzie\u0142 artystycznych.\n"
+        },
+        "pilnowanie-porzadku": {
+          "tooltipID": 97,
+          "slug": "pilnowanie-porzadku",
+          "name": "pilnowanie porz\u0105dku",
+          "content": "### Pilnowanie porz\u0105dku\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na nadzorowanie ludzi i kontrolowanie przestrzegania przez nich okre\u015Blonych zasad lub przepis\u00F3w.\n"
+        },
+        "wystepowanie-publiczne": {
+          "tooltipID": 98,
+          "slug": "wystepowanie-publiczne",
+          "name": "wyst\u0119powanie publiczne",
+          "content": "### Wyst\u0119powanie publiczne\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na wypowiedzi lub prezentacje przed du\u017Cymi grupami obcych ludzi.\n"
+        },
+        "przeprowadzanie-doswiadczen": {
+          "tooltipID": 99,
+          "slug": "przeprowadzanie-doswiadczen",
+          "name": "przeprowadzanie do\u015Bwiadcze\u0144",
+          "content": "### Przeprowadzanie do\u015Bwiadcze\u0144\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na projektowanie i wykonywanie eksperyment\u00F3w oraz analizowanie ich rezultat\u00F3w.\n"
+        },
+        "programowanie": {
+          "tooltipID": 100,
+          "slug": "programowanie",
+          "name": "programowanie",
+          "content": "### Programowanie\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na tworzenie algorytm\u00F3w komputerowych.\n"
+        },
+        "wytwarzanie-przedmiotow": {
+          "tooltipID": 101,
+          "slug": "wytwarzanie-przedmiotow",
+          "name": "wytwarzanie przedmiot\u00F3w",
+          "content": "### Wytwarzanie przedmiot\u00F3w\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na r\u0119czne produkowanie przedmiot\u00F3w u\u017Cytkowych.\n"
+        },
+        "opiekowanie-sie-ludzmi": {
+          "tooltipID": 102,
+          "slug": "opiekowanie-sie-ludzmi",
+          "name": "opiekowanie si\u0119 lud\u017Ami",
+          "content": "### Opiekowanie si\u0119 lud\u017Ami\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na udzielanie pomocy innym osobom poprzez sprawowanie bie\u017C\u0105cej opieki.\n"
+        },
+        "interweniowanie-w-sytuacjach-kryzysowych": {
+          "tooltipID": 103,
+          "slug": "interweniowanie-w-sytuacjach-kryzysowych",
+          "name": "interweniowanie w sytuacjach kryzysowych",
+          "content": "### Interweniowanie w sytuacjach kryzysowych\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na dora\u017Ane reagowanie na nag\u0142e, stresuj\u0105ce sytuacje, zagra\u017Caj\u0105ce \u017Cyciu lub bezpiecze\u0144stwu ludzi.\n"
+        },
+        "praca-ze-slowem-i-jezykiem": {
+          "tooltipID": 104,
+          "slug": "praca-ze-slowem-i-jezykiem",
+          "name": "praca ze s\u0142owem i j\u0119zykiem",
+          "content": "### Praca ze s\u0142owem i j\u0119zykiem\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na tworzenie lub odtwarzanie tre\u015Bci, w kt\u00F3rych wa\u017Cna jest jako\u015B\u0107 u\u017Cywanego j\u0119zyka, np. tekst\u00F3w literackich lub kluczowych komunikat\u00F3w.\n"
+        },
+        "kierowanie-pojazdami": {
+          "tooltipID": 105,
+          "slug": "kierowanie-pojazdami",
+          "name": "kierowanie pojazdami",
+          "content": "### Kierowanie pojazdami\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na sterowanie maszynami do transportu ludzi, zwierz\u0105t i towar\u00F3w.\n"
+        },
+        "leczenie": {
+          "tooltipID": 106,
+          "slug": "leczenie",
+          "name": "leczenie",
+          "content": "### Leczenie\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na diagnozowanie i leczenie chor\u00F3b u ludzi lub zwierz\u0105t.\n"
+        },
+        "produkowanie-i-przygotowanie-zywnosci": {
+          "tooltipID": 107,
+          "slug": "produkowanie-i-przygotowanie-zywnosci",
+          "name": "produkowanie i przygotowanie \u017Cywno\u015Bci",
+          "content": "### Produkowanie i przygotowanie \u017Cywno\u015Bci\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na obr\u00F3bk\u0119 produkt\u00F3w \u017Cywno\u015Bciowych lub surowc\u00F3w do ich produkcji.\n"
+        },
+        "nauczanie": {
+          "tooltipID": 108,
+          "slug": "nauczanie",
+          "name": "nauczanie",
+          "content": "### Nauczanie\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na przekazywanie wiedzy innym ludziom lub tresowanie zwierz\u0105t.\n"
+        },
+        "sprzedawanie-produktow-i-uslug": {
+          "tooltipID": 109,
+          "slug": "sprzedawanie-produktow-i-uslug",
+          "name": "sprzedawanie produkt\u00F3w i us\u0142ug",
+          "content": "### Sprzedawanie produkt\u00F3w i us\u0142ug\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na po\u015Brednictwo handlowe, czyli prowadzenie sprzeda\u017Cy produkt\u00F3w i us\u0142ug wytworzonych przez inne podmioty.\n"
+        },
+        "praca-ze-zwierzetami": {
+          "tooltipID": 110,
+          "slug": "praca-ze-zwierzetami",
+          "name": "praca ze zwierz\u0119tami",
+          "content": "### Praca ze zwierz\u0119tami\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na opiekowanie si\u0119 zwierz\u0119tami lub wykorzystywanie ich.\n"
+        },
+        "promowanie-uslug-i-produktow": {
+          "tooltipID": 111,
+          "slug": "promowanie-uslug-i-produktow",
+          "name": "promowanie us\u0142ug i produkt\u00F3w",
+          "content": "### Promowanie us\u0142ug i produkt\u00F3w\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na reklamowanie d\u00F3br i us\u0142ug wytworzonych przez inne podmioty."
+        },
+        "pielegnowanie-i-przetwarzanie-roslin": {
+          "tooltipID": 112,
+          "slug": "pielegnowanie-i-przetwarzanie-roslin",
+          "name": "piel\u0119gnowanie i przetwarzanie ro\u015Blin",
+          "content": "### Piel\u0119gnowanie i przetwarzanie ro\u015Blin\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na upraw\u0119 ro\u015Blin i wykorzystywanie ich jako surowca.\n"
+        },
+        "wykonywanie-prac-prostych": {
+          "tooltipID": 113,
+          "slug": "wykonywanie-prac-prostych",
+          "name": "wykonywanie prac prostych",
+          "content": "### Wykonywanie prac prostych\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na wykonywanie prostych czynno\u015Bci takich jak uk\u0142adanie, przenoszenie, sprz\u0105tanie czy obs\u0142ugiwanie prostych urz\u0105dze\u0144."
+        },
+        "wykonywanie-cwiczen-fizycznych": {
+          "tooltipID": 114,
+          "slug": "wykonywanie-cwiczen-fizycznych",
+          "name": "wykonywanie \u0107wicze\u0144 fizycznych",
+          "content": "### Wykonywanie \u0107wicze\u0144 fizycznych\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na ruch ukierunkowany na aktywno\u015B\u0107 fizyczn\u0105 i budowanie kondycji.\n"
+        },
+        "organizowanie-wydarzen": {
+          "tooltipID": 115,
+          "slug": "organizowanie-wydarzen",
+          "name": "organizowanie wydarze\u0144",
+          "content": "### Organizowanie wydarze\u0144\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na planowanie i koordynacj\u0119 udzia\u0142u ludzi w wydarzeniach.\n"
+        },
+        "pielegnowanie-urody": {
+          "tooltipID": 116,
+          "slug": "pielegnowanie-urody",
+          "name": "piel\u0119gnowanie urody",
+          "content": "### Piel\u0119gnowanie urody\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na polepszanie wygl\u0105du ludzi lub zwierz\u0105t.\n"
+        },
+        "prowadzenie-negocjacji": {
+          "tooltipID": 117,
+          "slug": "prowadzenie-negocjacji",
+          "name": "prowadzenie negocjacji",
+          "content": "### Prowadzenie negocjacji\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na stosowanie technik perswazji w celu ustalenia warunk\u00F3w umowy.\n"
+        },
+        "tworzenie-i-odtwarzanie-muzyki": {
+          "tooltipID": 118,
+          "slug": "tworzenie-i-odtwarzanie-muzyki",
+          "name": "tworzenie i odtwarzanie muzyki",
+          "content": "### Tworzenie i odtwarzanie muzyki\nW tej pracy du\u017Co czasu po\u015Bwi\u0119ca si\u0119 na komponowanie lub wykonywanie utwor\u00F3w muzycznych.\n"
+        },
+        "subject-levels": {
+          "tooltipID": 119,
+          "slug": "subject-levels",
+          "name": "Subject levels",
+          "content": "### Poziomy przedmiot\u00F3w\r\nKa\u017Cdy z przedmiot\u00F3w opisano czterostopniow\u0105 skal\u0105 okre\u015Blaj\u0105c\u0105 poziom jego poznania:\r\n### Podstawowy\r\nAbsolutne minimum potrzebne do funkcjonowania w codziennym \u017Cyciu\r\n### \u015Aredni\r\nPoziom wiedzy i umiej\u0119tno\u015Bci, daj\u0105cy og\u00F3lne rozeznanie w danej dziedzinie\r\n### Wysoki\r\nZaawansowany poziom wiedzy i umiej\u0119tno\u015Bci, pozwalaj\u0105cy na wykonywanie pracy w danej dziedzinie\r\n### Ekspert\r\nEkspercki poziom wiedzy i umiej\u0119tno\u015Bci, umo\u017Cliwiaj\u0105cy realizacj\u0119 najbardziej specjalistycznych zada\u0144 z danej dziedziny\r\n"
+        },
+        "technology-levels": {
+          "tooltipID": 120,
+          "slug": "technology-levels",
+          "name": "Technology levels",
+          "content": "### Poziomy kompetencji cyfrowych\r\nKompetencje cyfrowe opisano czterostopniow\u0105 skal\u0105 okre\u015Blaj\u0105c\u0105 poziom jego opanowania:\r\n### Podstawowe\r\nNie wymagane s\u0105 \u017Cadne kompetencje cyfrowe lub tylko podstawowa obs\u0142uga komputera\r\n### \u015Arednie\r\nWymagane s\u0105 typowe kompetencje cyfrowe, zw\u0142aszcza obs\u0142uga pakiet\u00F3w biurowych i prostych program\u00F3w specjalistycznych\r\n### Wysokie\r\nWymagane s\u0105 wysokie kompetencje cyfrowe, zw\u0142aszcza zaawansowana obs\u0142uga pakiet\u00F3w biurowych i z\u0142o\u017Conych program\u00F3w specjalistycznych\r\n### Eksperckie\r\nWymagane s\u0105 bardzo wysokie kompetencje cyfrowe, zw\u0142aszcza w zakresie tworzenia oprogramowania\r\n"
+        },
+        "sociality-levels": {
+          "tooltipID": 121,
+          "slug": "sociality-levels",
+          "name": "Sociality levels",
+          "content": "### Poziomy kontaktu z lud\u017Ami\r\nKontakt z lud\u017Ami opisano trzystopniow\u0105 skal\u0105 okre\u015Blaj\u0105c\u0105 jego poziom:\r\n### Ma\u0142y\r\nPraca samodzielna, bez wsp\u00F3\u0142pracownik\u00F3w lub we wsp\u00F3\u0142pracy z kilkoma sta\u0142ymi osobami\r\n### \u015Aredni\r\nWsp\u00F3\u0142praca w sta\u0142ym, kilkuosobowym zespole lub sta\u0142a konieczno\u015B\u0107 nawi\u0105zywania p\u0142ytkiego kontaktu z obcymi lud\u017Ami\r\n### Du\u017Cy\r\nWsp\u00F3\u0142praca w du\u017Cym zespole, ma\u0142ym zespole o du\u017Cej rotacji pracownik\u00F3w, sta\u0142a konieczno\u015B\u0107 nawi\u0105zywania pog\u0142\u0119bionego kontaktu (r\u00F3wnie\u017C fizycznego) z obcymi lud\u017Ami lub konieczno\u015B\u0107 cz\u0119stego wyst\u0119powania przed du\u017C\u0105 publiczno\u015Bci\u0105\r\n"
+        },
+        "physicality-levels": {
+          "tooltipID": 122,
+          "slug": "physicality-levels",
+          "name": "Physicality levels",
+          "content": "### Poziomy wysi\u0142ku fizycznego\r\nWysi\u0142ek fizyczny opisano opisano czterostopniow\u0105 skal\u0105 okre\u015Blaj\u0105c\u0105 poziom wymaganego wysi\u0142ku i sprawno\u015Bci fizycznej:\r\n### Zerowy\r\nWy\u0142\u0105cznie praca umys\u0142owa\r\n### Ma\u0142y\r\nG\u0142\u00F3wnie praca umys\u0142owa\r\n### \u015Aredni\r\nG\u0142\u00F3wnie lekka praca fizyczna\r\n### Du\u017Cy\r\nG\u0142\u00F3wnie ci\u0119\u017Cka praca fizyczna\r\n"
+        },
+        "energetyka": {
+          "tooltipID": 130,
+          "slug": "energetyka",
+          "name": "energetyka",
+          "content": "### Energetyka\nBran\u017Ca zajmuj\u0105ca si\u0119 produkcj\u0105 i dostarczaniem energii"
+        },
+        "telekomunikacja": {
+          "tooltipID": 131,
+          "slug": "telekomunikacja",
+          "name": "telekomunikacja",
+          "content": "### Telekomunikacja\nBran\u017Ca zajmuj\u0105ca si\u0119 budow\u0105 i utrzymaniem sieci radiowych, telewizyjnych, telefonicznych oraz internetowych"
+        }
+      }
+    }
+  }
