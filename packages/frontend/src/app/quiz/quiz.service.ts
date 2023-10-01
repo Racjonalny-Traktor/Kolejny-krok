@@ -1,18 +1,25 @@
 import { Injectable } from "@angular/core";
 import { Observable, of } from "rxjs";
-import { Question } from "./quiz.model";
+import { Question } from "../dto";
 
 @Injectable({providedIn: 'root'})
 export class QuizService {
 
     fetchQuestions(): Observable<Question[]>{
         return of([
-            {answers: ['Jabłkiem', 'Parówką', 'Gruszką'], chosenAnswer: 0, questionText: 'Jakim warzywem chciałbyś być ?'},
-            {answers: ['Psem', 'kotem', 'Pietruszką'], chosenAnswer: 0, questionText: 'Jakim zwierzęciem chciałbyś być ?'},
+            {
+                answers: [{description: 'Jabłkiem', answerId: '0'}, {description: 'Parówką', answerId: '1'}], 
+                description: 'Jakim warzywem chciałbyś być ?', 
+                questionId: 0
+            },
+            {
+                answers: [{description: 'Jabłkiem', answerId: '0'}, {description: 'Parówką', answerId: '1'}], 
+                description: 'Jakim zwierzęciem chciałbyś być ?', 
+                questionId: 1},
         ]);
     }
 
     submitAnswers(answers: number[]): Observable<any> {
-        return of();
+        return of([]);
     }
 }

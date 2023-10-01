@@ -1,16 +1,16 @@
 <div class="quiz-container">
     <div class="question-container">
-        <div class="card" style="width: 24rem;">
+        <div class="card" style="width: 24rem;" *ngIf="!showFunFuct()">
             <div class="card-header">
               Question {{currentQuestion + 1}} of {{questions.length}}
             </div>
             <div class="card-body">
-                <h5 class="card-title">{{questions[currentQuestion].questionText}}</h5>
+                <h5 class="card-title">{{questions[currentQuestion].description}}</h5>
                 <div class="form-check" *ngFor="let answer of questions[currentQuestion].answers; index as i">
                     <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1"
                     (click)="onAnswerClick(i)">
                     <label class="form-check-label" for="flexRadioDefault1">
-                        {{answer}}
+                        {{answer.description}}
                     </label>
                 </div>
               <button 
@@ -26,6 +26,9 @@
                 [disabled]="isPreviousButtonDisabled()"
                 (click)="onPreviousQuestionClick()">Previous</button>
             </div>
+        </div>
+        <div *ngIf="showFunFuct()">
+  
         </div>
     </div>
 </div>
