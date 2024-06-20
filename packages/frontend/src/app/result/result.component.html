@@ -1,18 +1,16 @@
 <div class="result-container">
     <div class="page-container">
         <div class="job-title-container">
-            <label>Najbardziej dopasowaną rolą dla ciebie jest</label>
-            <h4>{{jobTitle}}</h4>
-            <label>{{jobDescription}}</label>
+            <label>Najbardziej dopasowanymie zawodami dla ciebie są</label>
         </div>
         <div class="menu-container">
-            <span *ngFor="let item of menuItems; index as i" 
+            <span *ngFor="let item of roles; index as i" 
                 (click)="setItem(i)"
                 [ngClass]="{'item-active': menuIndex === i}"
-                class="item">{{menuItems[i]}}</span>
+                class="item">{{roles[i]}}</span>
         </div>
-        <div>
-            <router-outlet></router-outlet>
+        <div class="job-descr-container">
+            {{jobDescription}}
         </div>
     </div>
 </div>

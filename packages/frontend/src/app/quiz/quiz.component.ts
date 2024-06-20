@@ -14,7 +14,6 @@ export class QuizComponent implements OnInit{
   currentQuestion = 0;
   questions: Question[] = [];
 
-  userAnswers = [-1, -1, -1, -1, -1]
   userCurrentAnswer = -1;
 
   funFacts = [
@@ -32,15 +31,6 @@ export class QuizComponent implements OnInit{
     });
   }
 
-  isNextButtonDisabled() {
-    if(this.userAnswers[this.currentQuestion] === -1) 
-      return true;
-    if(this.isFinalQuestion()) {
-      return false
-    }
-    return this.currentQuestion >= this.questions.length-1;
-  }
-
   isPreviousButtonDisabled() {
     return this.currentQuestion === 0;
   }
@@ -49,32 +39,29 @@ export class QuizComponent implements OnInit{
     this.currentQuestion -= 1;
   }
 
-  onNextQuestionClick() {
-    if(this.isFinalQuestion()){
-      this.submitAnswers();
-    }
-    else {
-      this.currentQuestion += 1;
-    }
+  goToNextQuestion() {
+    this.currentQuestion += 1;
+    this.quizService.fetchQuestion(this.currentQuestion).subscribe (
+      (question: Question) => {
+        this.questions.push(question);
+      }
+    );
   }
 
   onAnswerClick(index: number) {
-    this.userAnswers[this.currentQuestion] = index;
-    this.onNextQuestionClick();
+    this.quizService.submitAnswer(this.currentQuestion, index).subscribe({
+      next: () => {
+        if(!this.isFinalQuestion())
+          this.goToNextQuestion();
+        else {
+          this.router.navigate(['result']);
+        }
+      }
+    });
   }
 
   isFinalQuestion() {
-    return this.currentQuestion === this.questions.length - 1;
-  }
-
-  submitAnswers() {
-    this.quizService.submitAnswers(this.userAnswers).subscribe(
-      {
-        next: () => {
-          this.router.navigate(['./result']);
-        }
-      }
-    );
+    return this.currentQuestion === 9;
   }
 
   showFunFuct() {
